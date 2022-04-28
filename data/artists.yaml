@@ -1,5 +1,7 @@
 ---
 - key: alexander_mokhov
   name: Alexander Mokhov
+- key: sam_yang
+  name: Sam Yang
 - key: unknown
   name: Unknown

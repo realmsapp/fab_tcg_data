@@ -1,0 +1,15 @@
+---
+key: UPR135
+name: Ice Bolt
+rarity: common
+artist: sam_yang
+card_type: action
+supertypes:
+- ice
+- wizard
+game_text: ! |-
+  Deal 3 arcane damage to any target.
+color_strip: blue
+cost: 2
+defense: 3
+image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png

@@ -13,7 +13,10 @@ module FabTcgData
         game_text String
         flavor_text Either(String, nil), default: nil
         image_url String
+        color_strip Either(String, nil), default: nil
 
+        cost Either(String, nil), default: nil
+        defense Either(String, nil), default: nil
         intellect Either(String, nil), default: nil
         life Either(String, nil), default: nil
       }
@@ -31,8 +34,11 @@ module FabTcgData
         game_text: item.fetch(:game_text),
         image_url: item.fetch(:image_url),
 
+        color_strip: item.fetch(:color_strip, nil)&.to_s,
         intellect: item.fetch(:intellect, nil)&.to_s,
         life: item.fetch(:life, nil)&.to_s,
+        cost: item.fetch(:cost, nil)&.to_s,
+        defense: item.fetch(:defense, nil)&.to_s,
       )
     end
 
