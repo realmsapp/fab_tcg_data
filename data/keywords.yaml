@@ -1,0 +1,9 @@
+- keyword_key: battleworn
+  name: Battleworn
+  description: ! |-
+    Battleworn is a triggered-static ability. Battleworn means “When the combat chain closes, if this defended, put a -1 {d} counter on it.”
+
+- keyword_key: blade_break
+  name: Blade Break
+  description: ! |-
+    An ability keyword on equipment that destroys it after it is used to defend.

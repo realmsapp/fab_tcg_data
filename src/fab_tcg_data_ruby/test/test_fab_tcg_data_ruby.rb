@@ -4,7 +4,7 @@ require_relative "test_helper"
 
 class TestFabTcgDataRuby < Minitest::Test
   def test_it_does_something_useful
-    brute = FabTcgData::Supertypes.fetch("brute")
-    assert brute.class?
+    set_card = FabTcgData::SetCards.fetch("UPR102")
+    assert "Iyslander, Stormbind", set_card.name
   end
 end

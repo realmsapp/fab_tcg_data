@@ -8,9 +8,16 @@ module FabTcgData
 
     def self.load(glob, &)
       Dir[File.join(root_path, "data/", glob)].each_with_object({}) do |path, memo|
-        YAML.safe_load(File.read(path)).each do |attributes|
-          item = yield(attributes.transform_keys(&:to_sym))
+        thing = YAML.load(File.read(path), permitted_classes: ["Date"])
+        case thing
+        when Hash
+          item = yield(thing.transform_keys(&:to_sym))
           memo[item.key] = item
+        when Array
+          thing.each do |attributes|
+            item = yield(attributes.transform_keys(&:to_sym))
+            memo[item.key] = item
+          end
         end
       end
     end
