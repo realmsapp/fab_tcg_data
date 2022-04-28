@@ -1,0 +1,32 @@
+---
+- rarity_key: token
+  name: Token
+  symbol: T
+
+- rarity_key: common
+  name: Common
+  symbol: C
+
+- rarity_key: rare
+  name: Rare
+  symbol: R
+
+- rarity_key: rare
+  name: Rare
+  symbol: R
+
+- rarity_key: super_rare
+  name: Super Rare
+  symbol: S
+
+- rarity_key: majestic
+  name: Majestic
+  symbol: M
+
+- rarity_key: legendary
+  name: Legendary
+  symbol: L
+
+- rarity_key: marvel
+  name: Marvel
+  symbol: ▲

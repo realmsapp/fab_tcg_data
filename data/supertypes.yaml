@@ -1,0 +1,108 @@
+---
+- supertype_key: generic
+  name: Generic
+  is_class: false
+  is_element: false
+  is_talent: false
+
+- supertype_key: brute
+  name: Brute
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: guardian
+  name: Guardian
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: illusionist
+  name: Illusionist
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: mechanologist
+  name: Mechanologist
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: merchant
+  name: Merchant
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: ninja
+  name: Ninja
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: ranger
+  name: Ranger
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: runeblade
+  name: Runeblade
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: shapeshifter
+  name: Shapeshifter
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: warrior
+  name: Warrior
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: wizard
+  name: Wizard
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: earth
+  name: Earth
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: elemental
+  name: Elemental
+  is_class: true
+  is_element: false
+  is_talent: false
+
+- supertype_key: ice
+  name: Ice
+  is_class: true
+  is_element: true
+  is_talent: false
+
+- supertype_key: light
+  name: Light
+  is_class: true
+  is_element: false
+  is_talent: true
+
+- supertype_key: shadow
+  name: Shadow
+  is_class: true
+  is_element: false
+  is_talent: true
+
+- supertype_key: lightning
+  name: Lightning
+  is_class: false
+  is_element: true
+  is_talent: false

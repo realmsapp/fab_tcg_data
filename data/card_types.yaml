@@ -1,0 +1,30 @@
+---
+- card_type_key: action
+  name: Action
+
+- card_type_key: attack_reaction
+  name: Attack Reaction
+
+- card_type_key: defense_reaction
+  name: Defense Reaction
+
+- card_type_key: instant
+  name: Instant
+
+- card_type_key: weapon
+  name: Weapon
+
+- card_type_key: equipment
+  name: Equipment
+
+- card_type_key: resource
+  name: Resource
+
+- card_type_key: hero
+  name: Hero
+
+- card_type_key: token
+  name: Token
+
+- card_type_key: mentor
+  name: Mentor

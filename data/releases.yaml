@@ -1,0 +1,28 @@
+---
+- key: WTR
+  name: Welcome to Rathe
+  release_date: 3030-01-01
+
+- key: ARC
+  name: Arcane Rising
+  release_date: 3030-01-01
+
+- key: CRU
+  name: Crucible of War
+  release_date: 3030-01-01
+
+- key: MON
+  name: Monarch
+  release_date: 3030-01-01
+
+- key: ELE
+  name: Tales of Aria
+  release_date: 3030-01-01
+
+- key: EVR
+  name: Everfest
+  release_date: 3030-01-01
+
+- key: UPR
+  name: Uprising
+  release_date: 3030-01-01

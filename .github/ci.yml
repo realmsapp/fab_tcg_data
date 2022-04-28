@@ -1,0 +1,25 @@
+name: "Fab TCG Data CI"
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    env:
+      BUNDLE_GEMFILE: ${{ github.workspace }}/src/fab_tcg_data_ruby/Gemfile
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install Ruby and gems
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+          working-directory: src/fab_tcg_data_ruby
+          ruby-version: 3.1.2
+
+      - name: Run tests
+        run: bundle exec rake -f src/fab_tcg_data_ruby/Rakefile test
