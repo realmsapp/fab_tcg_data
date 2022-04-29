@@ -106,3 +106,9 @@
   is_class: false
   is_element: true
   is_talent: false
+
+- supertype_key: draconic
+  name: Draconic
+  is_class: false
+  is_element: false
+  is_talent: true

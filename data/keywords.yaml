@@ -20,3 +20,8 @@
     Fusion is an optional play-static ability in the format “[SUPERTYPES] Fusion”. Fusion means
     “As an additional cost to play this, you may reveal (a/an) [SUPERTYPES] card(s) from your hand.”,
     where SUPERTYPES is a specified combination of object supertypes.
+
+- keyword_key: freeze
+  name: Freeze
+  description: ! |-
+    A frozen object can't be played or activated.

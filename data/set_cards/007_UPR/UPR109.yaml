@@ -1,0 +1,26 @@
+---
+key: UPR109
+name: Ice Eternal
+rarity: rare
+artist: frederico_musetti
+card_type: action
+supertypes:
+- elemental
+- wizard
+color_strip: blue
+cost: XX
+defense: 3
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR109.width-450.png
+game_text: ! |-
+  **Iyslander Specialization** _(You may only have Ice Eternal in
+  your deck if your hero is Iyslander.)_
+
+  **Ice Fusion** _(As an additional cost to play Ice Eternal, you may
+  reveal an Ice card from your hand.)
+
+  Create X Frostbite tokens under target hero's control. Then,
+  if Ice Eternal was **fused**, deal arcane damage to that hero
+  equal to the number of Frostbites they control.
+keywords:
+- specialization
+- fusion

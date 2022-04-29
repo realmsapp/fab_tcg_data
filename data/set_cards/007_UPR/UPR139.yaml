@@ -1,0 +1,23 @@
+---
+key: UPR139
+name: Hypothermia
+rarity: majestic
+artist: alexis_susani
+card_type: action
+supertypes:
+- ice
+subtypes:
+- affliction
+- aura
+color_strip: blue
+cost: 0
+defense: 2
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png
+game_text: ! |-
+  _(An affliction enters the arena under an opposing
+  hero's control.)_
+
+  Attacks you control can't gain **go again**. _(This does
+  not affect attacks that naturally have go again.)_
+
+  At the beginning of your end phase, destroy Hypothermia.

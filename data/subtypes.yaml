@@ -3,6 +3,8 @@
   key: 1h
 - name: "(2H)"
   key: 2h
+- name: Affliction
+  key: affliction
 - name: Ally
   key: ally
 - name: Arms

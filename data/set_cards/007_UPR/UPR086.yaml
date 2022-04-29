@@ -1,0 +1,25 @@
+---
+key: UPR086
+name: Thaw
+rarity: majestic
+artist: hoang_lap
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+color_strip: red
+cost: 2
+power: 6
+defense: 2
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png
+game_text: ! |-
+  While Thaw is in your graveyard, at the start
+  of your turn, you may banish it and choose 1:
+
+  * Destroy target Frostbite.
+  * Destroy target Ice affliction.
+  * **Unfreeze** target **frozen** card.
+keywords:
+- unfreeze
+- freeze
