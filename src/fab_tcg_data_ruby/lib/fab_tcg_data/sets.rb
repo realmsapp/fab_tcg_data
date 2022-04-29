@@ -1,5 +1,7 @@
 module FabTcgData
   module Sets
+    include Concerns::OptionList
+
     class Set
       include ValueSemantics.for_attributes {
         key String

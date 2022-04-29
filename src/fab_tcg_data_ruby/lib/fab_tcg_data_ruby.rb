@@ -4,7 +4,11 @@ require "yaml"
 require "value_semantics"
 require "active_support"
 require "active_support/core_ext"
+
 require "fab_tcg_data/version"
+
+require "fab_tcg_data/concerns"
+
 require "fab_tcg_data/lookup"
 require "fab_tcg_data/releases"
 require "fab_tcg_data/sets"

@@ -1,5 +1,7 @@
 module FabTcgData
   module Keywords
+    include Concerns::OptionList
+
     class Keyword
       include ValueSemantics.for_attributes {
         key String

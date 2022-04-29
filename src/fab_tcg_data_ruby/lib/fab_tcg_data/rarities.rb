@@ -1,5 +1,7 @@
 module FabTcgData
   module Rarities
+    include Concerns::OptionList
+
     class Rarity
       include ValueSemantics.for_attributes {
         key String
