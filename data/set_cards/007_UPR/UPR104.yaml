@@ -1,0 +1,22 @@
+---
+key: UPR104
+name: Encase
+rarity: majestic
+artist: nikolay_moskvin
+card_type: action
+supertypes:
+- elemental
+- wizard
+game_text: ! |-
+  **Ice Fusion** _(As an additional cost to play Encase, you may reveal an Ice card from your hand.)_
+
+  Deal 3 arcane damage to any target. If Encase was
+  fused and deals damage to a hero, freeze that hero
+  and all equipment they control until the start of your
+  next turn. _(A frozen object can't be played or activated.)_
+color_strip: red
+cost: 0
+defense: 3
+image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_03.width-450.png
+keywords:
+- fusion

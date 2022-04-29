@@ -9,7 +9,7 @@ module FabTcgData
 
     ALL = Lookup.load("subtypes.yaml") do |item|
       Subtype.new(
-        key: item.fetch(:subtype_key),
+        key: item.fetch(:key),
         name: item.fetch(:name),
       )
     end

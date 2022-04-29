@@ -7,3 +7,16 @@
   name: Blade Break
   description: ! |-
     An ability keyword on equipment that destroys it after it is used to defend.
+
+- keyword_key: channel
+  name: Channel
+  description: ! |-
+    An label keyword, with an ability that destroys its source if the controlling player cannot put the specified
+    cards at the bottom of their deck at the end of their turn.
+
+- keyword_key: fusion
+  name: Fusion
+  description: ! |-
+    Fusion is an optional play-static ability in the format “[SUPERTYPES] Fusion”. Fusion means
+    “As an additional cost to play this, you may reveal (a/an) [SUPERTYPES] card(s) from your hand.”,
+    where SUPERTYPES is a specified combination of object supertypes.
