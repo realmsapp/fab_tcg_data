@@ -1,22 +1,18 @@
 module FabTcgData
-  module Sets
+  module PrintFinishes
     include Concerns::OptionList
 
-    class Set
+    class PrintFinish
       include ValueSemantics.for_attributes {
         key String
         name String
-        kind String
-        release_key String
       }
     end
 
-    ALL = Lookup.load("sets.yaml") do |item|
-      Set.new(
-        key: item.fetch(:set_key),
+    ALL = Lookup.load("print_finishes.yaml") do |item|
+      PrintFinish.new(
+        key: item.fetch(:print_finish_key),
         name: item.fetch(:name),
-        kind: item.fetch(:kind),
-        release_key: item.fetch(:release_key),
       )
     end
 

@@ -12,7 +12,7 @@ module FabTcgData
 
     ALL = Lookup.load("keywords.yaml") do |item|
       Keyword.new(
-        key: item.fetch(:rarity_key),
+        key: item.fetch(:keyword_key),
         name: item.fetch(:name),
         description: item.fetch(:description),
       )

@@ -1,24 +1,30 @@
 ---
 - set_key: WTR
   release_key: WTR
+  kind: booster_set
   name: Welcome to Rathe - Booster Set
 
 - set_key: TEA
   release_key: WTR
+  kind: hero_deck
   name: Dorinthea Ironsong - Hero Deck
 
 - set_key: KSU
   release_key: WTR
+  kind: hero_deck
   name: Katsu, the Wanderer - Hero Deck
 
 - set_key: BVO
   release_key: WTR
+  kind: hero_deck
   name: Bravo, Showstopper - Hero Deck
 
 - set_key: RNR
   release_key: WTR
+  kind: hero_deck
   name: Rhinar, Rechless Rampage - Hero Deck
 
 - set_key: UPR
   release_key: UPR
+  kind: booster_set
   name: Uprising - Booster Set

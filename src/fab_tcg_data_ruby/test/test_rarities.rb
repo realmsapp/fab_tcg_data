@@ -7,4 +7,9 @@ class TestRarities < Minitest::Test
     options = FabTcgData::Rarities.to_option_list
     assert_equal ["Common", "common"], options[0]
   end
+
+  def test_to_grouped_option_list
+    options = FabTcgData::Rarities.to_grouped_option_list(&:name)
+    assert_equal ["Common", "common"], options[0]
+  end
 end
