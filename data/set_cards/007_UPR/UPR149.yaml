@@ -1,14 +1,15 @@
 ---
 key: UPR149
 name: Cold Snap
+set: UPR
 rarity: common
 artist: mateusz_wisniewski
 card_type: action
 supertypes:
 - ice
-color_strip: blue
-cost: 1
-defense: 2
+resources: '3'
+cost: '1'
+defense: '2'
 image_url: https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png
 game_text: ! |-
   Target hero may pay {1:resource}. If they don't, **freeze** a

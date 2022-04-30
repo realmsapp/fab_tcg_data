@@ -1,6 +1,7 @@
 ---
 key: UPR086
 name: Thaw
+set: UPR
 rarity: majestic
 artist: hoang_lap
 card_type: action
@@ -8,10 +9,10 @@ supertypes:
 - draconic
 subtypes:
 - attack
-color_strip: red
-cost: 2
-power: 6
-defense: 2
+resources: '1'
+cost: '2'
+power: '6'
+defense: '2'
 image_url: https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png
 game_text: ! |-
   While Thaw is in your graveyard, at the start
@@ -21,5 +22,4 @@ game_text: ! |-
   * Destroy target Ice affliction.
   * **Unfreeze** target **frozen** card.
 keywords:
-- unfreeze
 - freeze

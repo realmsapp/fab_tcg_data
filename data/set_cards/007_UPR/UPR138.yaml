@@ -1,6 +1,7 @@
 ---
 key: UPR138
 name: Channel the Bleak Expanse
+set: UPR
 rarity: majestic
 artist: mihail_spil_haufter
 image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_05.width-450.png
@@ -9,9 +10,9 @@ supertypes:
 - ice
 subtypes:
 - aura
-color_strip: blue
-cost: 1
-defense: 2
+resources: '3'
+cost: '1'
+defense: '2'
 game_text: ! |-
   **Go Again**
 
@@ -21,3 +22,6 @@ game_text: ! |-
   flow counter on Channel the Bleak Expanse then destroy
   it unless you put an Ice card from your pitch zone on the
   bottom of your deck for each flow counter on it.
+keywords:
+- go_again
+- channel

@@ -1,15 +1,16 @@
 ---
 key: UPR109
 name: Ice Eternal
+set: UPR
 rarity: rare
 artist: frederico_musetti
 card_type: action
 supertypes:
 - elemental
 - wizard
-color_strip: blue
+resources: '3'
 cost: XX
-defense: 3
+defense: '3'
 image_url: https://storage.googleapis.com/fabmaster/media/images/UPR109.width-450.png
 game_text: ! |-
   **Iyslander Specialization** _(You may only have Ice Eternal in
@@ -22,5 +23,4 @@ game_text: ! |-
   if Ice Eternal was **fused**, deal arcane damage to that hero
   equal to the number of Frostbites they control.
 keywords:
-- specialization
 - fusion

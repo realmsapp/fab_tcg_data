@@ -1,6 +1,7 @@
 ---
 key: UPR139
 name: Hypothermia
+set: UPR
 rarity: majestic
 artist: alexis_susani
 card_type: action
@@ -9,9 +10,9 @@ supertypes:
 subtypes:
 - affliction
 - aura
-color_strip: blue
-cost: 0
-defense: 2
+resources: '3'
+cost: '0'
+defense: '2'
 image_url: https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png
 game_text: ! |-
   _(An affliction enters the arena under an opposing

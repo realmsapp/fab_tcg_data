@@ -1,6 +1,7 @@
 ---
 key: UPR103
 name: Iyslander
+set: UPR
 rarity: token
 artist: alexander_mokhov
 card_type: hero
@@ -13,6 +14,6 @@ game_text: ! |-
   If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
   Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.
-intellect: 4
-life: 18
+intellect: '4'
+life: '18'
 image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_02.width-450.png

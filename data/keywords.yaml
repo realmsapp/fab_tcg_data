@@ -25,3 +25,8 @@
   name: Freeze
   description: ! |-
     A frozen object can't be played or activated.
+
+- keyword_key: go_again
+  name: Go again
+  description: ! |-
+    Gain an action point.
