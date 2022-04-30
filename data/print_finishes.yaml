@@ -1,0 +1,12 @@
+---
+- print_finish_key: regular
+  name: Regular
+
+- print_finish_key: rainbow_foil
+  name: Rainbow Foil
+
+- print_finish_key: cold_foil
+  name: Cold Foil
+
+- print_finish_key: cold_gold
+  name: Cold Gold

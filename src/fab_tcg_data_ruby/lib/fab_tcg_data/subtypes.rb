@@ -1,5 +1,7 @@
 module FabTcgData
   module Subtypes
+    include Concerns::OptionList
+
     class Subtype
       include ValueSemantics.for_attributes {
         key String

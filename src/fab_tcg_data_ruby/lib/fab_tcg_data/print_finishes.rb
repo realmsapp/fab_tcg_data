@@ -1,20 +1,18 @@
 module FabTcgData
-  module Rarities
+  module PrintFinishes
     include Concerns::OptionList
 
-    class Rarity
+    class PrintFinish
       include ValueSemantics.for_attributes {
         key String
         name String
-        symbol String
       }
     end
 
-    ALL = Lookup.load("rarities.yaml") do |item|
-      Rarity.new(
-        key: item.fetch(:rarity_key),
+    ALL = Lookup.load("print_finishes.yaml") do |item|
+      PrintFinish.new(
+        key: item.fetch(:print_finish_key),
         name: item.fetch(:name),
-        symbol: item.fetch(:symbol),
       )
     end
 

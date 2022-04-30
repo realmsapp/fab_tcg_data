@@ -1,5 +1,7 @@
 module FabTcgData
   module CardTypes
+    include Concerns::OptionList
+
     class CardType
       include ValueSemantics.for_attributes {
         key String

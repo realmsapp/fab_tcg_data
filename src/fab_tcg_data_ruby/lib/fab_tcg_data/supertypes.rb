@@ -1,5 +1,7 @@
 module FabTcgData
   module Supertypes
+    include Concerns::OptionList
+
     class Supertype
       include ValueSemantics.for_attributes {
         key String

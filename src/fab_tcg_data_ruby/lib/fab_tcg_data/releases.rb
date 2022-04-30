@@ -1,5 +1,7 @@
 module FabTcgData
   module Releases
+    include Concerns::OptionList
+
     class Release
       include ValueSemantics.for_attributes {
         key String

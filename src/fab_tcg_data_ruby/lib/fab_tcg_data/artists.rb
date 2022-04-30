@@ -1,5 +1,7 @@
 module FabTcgData
   module Artists
+    include Concerns::OptionList
+
     class Artist
       include ValueSemantics.for_attributes {
         key String
