@@ -20,7 +20,7 @@ module FabTcgData
           defense: item.fetch(:defense, nil),
           intellect: item.fetch(:intellect, nil),
           life: item.fetch(:life, nil),
-          resources: item.fetch(:resoruces, nil),
+          resources: item.fetch(:resources, nil),
 
           game_text: item.fetch(:game_text, nil),
           flavor_text: item.fetch(:flavor_text, nil),
