@@ -24,4 +24,5 @@ require "fab_tcg_data/set_cards"
 
 module FabTcgData
   class Error < StandardError; end
+  class ParseError < Error; end
 end

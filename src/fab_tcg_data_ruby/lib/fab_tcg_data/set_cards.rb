@@ -75,9 +75,8 @@ module FabTcgData
 
     ALL = Lookup.load("set_cards/**/*.yaml") do |item|
       SetCard.load(item)
-    rescue => e
-      puts item
-      raise
+    rescue StandardError => e
+      raise ParseError, item.inspect
     end
 
     def self.fetch(key, *args) = ALL.fetch(key, *args)
