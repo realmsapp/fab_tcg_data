@@ -4,9 +4,10 @@ module FabTcgData
       def self.load(item)
         SetCard.new(
           key: item.fetch(:key),
+          card_key: item.fetch(:name).gsub(/[^\p{L}]|[1-9]/, " ").squish.gsub(/\s/, "_").downcase,
           name: item.fetch(:name),
 
-          set: Sets.fetch(item.fetch(:set)),
+          set: Sets.fetch(item.fetch(:key).slice(0...3)),
           rarity: Rarities.fetch(item.fetch(:rarity)),
           artist: Artists.fetch(item.fetch(:artist, "unknown")),
           image_url: item.fetch(:image_url),
@@ -37,6 +38,7 @@ module FabTcgData
 
       include ValueSemantics.for_attributes {
         key String
+        card_key String
         name String
 
         set Sets::Set
@@ -71,6 +73,35 @@ module FabTcgData
         print_finishes ArrayOf(PrintFinishes::PrintFinish), default: []
         print_features ArrayOf(PrintFeatures::PrintFeature), default: []
       }
+
+      def attributes
+        {
+          key: key,
+          card_key: card_key,
+          name: name,
+          set: set.key,
+          rarity: rarity.key,
+          artist: artist.key,
+          image_url: image_url,
+          card_type: card_type.key,
+          supertypes: supertypes.map(&:key),
+          subtypes: subtypes.map(&:key),
+          resources: resources,
+          cost: cost,
+          attack: attack,
+          defense: defense,
+          intellect: intellect,
+          life: life,
+          game_text: game_text,
+          flavor_text: flavor_text,
+          keywords: keywords.map(&:key),
+          essences: essences.map(&:key),
+          legendary?: legendary?,
+          specialization: specialization,
+          print_finishes: print_finishes.map(&:key),
+          print_features: print_features.map(&:key),
+        }.reject { |a,b| b.blank? }.to_h
+      end
     end
 
     ALL = Lookup.load("set_cards/**/*.yaml") do |item|

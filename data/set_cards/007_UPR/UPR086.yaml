@@ -1,9 +1,11 @@
 ---
 key: UPR086
+card_key: thaw
 name: Thaw
 set: UPR
 rarity: majestic
 artist: hoang_lap
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png
 card_type: action
 supertypes:
 - draconic
@@ -11,9 +13,8 @@ subtypes:
 - attack
 resources: '1'
 cost: '2'
-power: '6'
+attack: '6'
 defense: '2'
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png
 game_text: ! |-
   While Thaw is in your graveyard, at the start
   of your turn, you may banish it and choose 1:
