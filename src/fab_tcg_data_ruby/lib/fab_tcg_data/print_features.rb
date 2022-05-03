@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module FabTcgData
   module PrintFeatures
     include Concerns::OptionList

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module FabTcgData
   module Rarities
     include Concerns::OptionList

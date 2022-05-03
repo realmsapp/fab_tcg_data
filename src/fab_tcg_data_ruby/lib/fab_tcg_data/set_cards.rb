@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module FabTcgData
   module SetCards
     class SetCard
@@ -76,31 +78,31 @@ module FabTcgData
 
       def attributes
         {
-          key: key,
-          card_key: card_key,
-          name: name,
+          key:,
+          card_key:,
+          name:,
           set: set.key,
           rarity: rarity.key,
           artist: artist.key,
-          image_url: image_url,
+          image_url:,
           card_type: card_type.key,
           supertypes: supertypes.map(&:key),
           subtypes: subtypes.map(&:key),
-          resources: resources,
-          cost: cost,
-          attack: attack,
-          defense: defense,
-          intellect: intellect,
-          life: life,
-          game_text: game_text,
-          flavor_text: flavor_text,
+          resources:,
+          cost:,
+          attack:,
+          defense:,
+          intellect:,
+          life:,
+          game_text:,
+          flavor_text:,
           keywords: keywords.map(&:key),
           essences: essences.map(&:key),
           legendary?: legendary?,
-          specialization: specialization,
+          specialization:,
           print_finishes: print_finishes.map(&:key),
           print_features: print_features.map(&:key),
-        }.reject { |a,b| b.blank? }.to_h
+        }.reject { |_a, b| b.blank? }.to_h
       end
     end
 
