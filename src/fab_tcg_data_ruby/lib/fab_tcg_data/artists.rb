@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module FabTcgData
   module Artists
     include Concerns::OptionList
