@@ -8,7 +8,7 @@ module FabTcgData
       class_methods do
         def to_option_list(&)
           items = self::ALL.values
-          items = items.select(&) if block
+          items = items.select(&) if block_given?
           items = items.map { |thing| [thing.name, thing.key] }
           items.sort_by { |a, _| a }
         end
