@@ -20,4 +20,4 @@ game_text: ! |-
   Put up to 2 target Earth, Lightning and/or Elemental action cards from your graveyard on top of your deck. Banish Pulse of Candlhold.
 
   **Go again**
-legendary?: true
+legendary: true

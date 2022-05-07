@@ -14,4 +14,4 @@ subtypes:
 resources: '3'
 game_text: ! "**Legendary** *(You may only have 1 Grandeur of Valahai in your deck.)*\r\n\r\nWhen
   you pitch Grandeur of Valahai, create a Seismic Surge token."
-legendary?: true
+legendary: true

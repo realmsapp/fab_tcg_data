@@ -24,6 +24,51 @@
   kind: hero_deck
   name: Rhinar, Rechless Rampage - Hero Deck
 
+- set_key: ARC
+  release_key: ARC
+  kind: booster_set
+  name: Arcane Rising
+
+- set_key: CRU
+  release_key: CRU
+  kind: booster_set
+  name: Crucible of War
+
+- set_key: MON
+  release_key: MON
+  kind: booster_set
+  name: Monarch
+
+- set_key: BOL
+  release_key: MON
+  kind: hero_deck
+  name: Ser Boltyn, Breaker of Dawn - Hero Deck
+
+- set_key: CHN
+  release_key: MON
+  kind: hero_deck
+  name: Chane, Bound by Shadow - Hero Deck
+
+- set_key: LEV
+  release_key: MON
+  kind: hero_deck
+  name: Levia, Shadowborn Abomination - Hero Deck
+
+- set_key: PSM
+  release_key: MON
+  kind: hero_deck
+  name: Prism, Sculptor of Arc Light
+
+- set_key: ELE
+  release_key: ELE
+  kind: booster_set
+  name: Tales of Aria
+
+- set_key: EVR
+  release_key: EVR
+  kind: booster_set
+  name: Everfest
+
 - set_key: UPR
   release_key: UPR
   kind: booster_set

@@ -17,4 +17,4 @@ game_text: ! |-
   Draw X cards, where X is 1 plus the number of Gorganian Tomes in all graveyards.
 
   **Go again**
-legendary?: true
+legendary: true

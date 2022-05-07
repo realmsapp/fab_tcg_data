@@ -16,4 +16,4 @@ game_text: ! |-
   **Legendary** *(You may only have 1 Heart of Fyendal in your deck.)*
 
   When you pitch Heart of Fyendal, if you have less [life] than your opponent, gain 1[life].
-legendary?: true
+legendary: true
