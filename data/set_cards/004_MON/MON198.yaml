@@ -1,0 +1,24 @@
+---
+key: MON198
+card_key: soul_harvest_blue
+name: Soul Harvest
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON198.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- shadow
+subtypes:
+- attack
+attack: '6'
+cost: '6'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Legendary Levia Specialization (You may only have 1 Soul Harvest in your deck and only if your hero is Levia.)
+
+  As an additional cost to play Soul Harvest, banish 6 cards from your graveyard. It gains +1 [Power] for each card with blood debt banished this way.
+
+  If {name} hits a hero, banish all cards in their soul. They lose [Life] equal to the number of cards banished this way.
+specialization: Levia

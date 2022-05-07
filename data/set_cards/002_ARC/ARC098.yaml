@@ -1,0 +1,21 @@
+---
+key: ARC098
+card_key: drawn_to_the_dark_dimension_yellow
+name: Drawn to the Dark Dimension
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/98.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '2'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Drawn to the Dark Dimension costs [resource] less to play for each Runechant you control.
+
+  Draw a card.

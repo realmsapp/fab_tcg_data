@@ -1,0 +1,16 @@
+---
+key: MON092
+card_key: prismatic_shield_red
+name: Prismatic Shield
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON092.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- illusionist
+
+cost: '3'
+resources: '1'
+game_text: ! |-
+  Create 3 Spectral Shield tokens. (They're Illusionist auras with "If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.")

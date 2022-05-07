@@ -1,0 +1,19 @@
+---
+key: WTR104
+card_key: rising_knee_thrust_red
+name: Rising Knee Thrust
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/104.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Combo** If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2[attack] and **go again**.

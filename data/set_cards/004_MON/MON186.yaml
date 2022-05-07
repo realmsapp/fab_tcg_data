@@ -1,0 +1,18 @@
+---
+key: MON186
+card_key: soul_shackle
+name: Soul Shackle
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON186.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- runeblade
+- shadow
+subtypes:
+- aura
+game_text: ! |-
+  (Auras stay in the arena.)
+
+  At the beginning of your action phase, banish the top card of your deck.

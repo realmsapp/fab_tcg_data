@@ -1,0 +1,23 @@
+---
+key: ELE054
+card_key: dazzling_crescendo_yellow
+name: Dazzling Crescendo
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE054.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+- elemental
+
+attack: '3'
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  *(Arrows can only be played from arsenal and only if you control a bow.)*
+
+  **Lightning Fusion** *(As an additional cost to play Dazzling Crescendo, you may reveal a Lightning card from your hand.)*
+
+  If Dazzling Crescendo was **fused**, it gains **go again**.

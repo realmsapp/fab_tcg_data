@@ -1,0 +1,23 @@
+---
+key: EVR138
+card_key: fractal_replication_red
+name: Fractal Replication
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR138.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+subtypes:
+- attack
+attack: '0'
+cost: '0'
+defense: '0'
+resources: '1'
+game_text: ! "When you play or defend with Fractal Replication, it gains the abilities
+  and effects of all Illusionist attack action cards on the combat chain.\r\n\r\nFractal
+  Replication's [Power] is equal to the greatest base [Power] among Illusionist attack
+  action cards on the combat chain.\r\n\r\nFractal Replication's [Defense] is equal
+  to the greatest base [Defense] among Illusionist attack action cards on the combat
+  chain."

@@ -1,0 +1,19 @@
+---
+key: ARC198
+card_key: vigor_rush_yellow
+name: Vigor Rush
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/198.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  If you have played a ‘non-attack’ action card this turn, Vigor Rush gains **go again**.

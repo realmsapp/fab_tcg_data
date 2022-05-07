@@ -1,0 +1,16 @@
+---
+key: WTR155
+card_key: ironrot_helm
+name: Ironrot Helm
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/155.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- head
+defense: '1'
+game_text: ! |-
+  **Blade break** *(If you defend with Ironrot Helm, destroy it when the combat chain closes.)*

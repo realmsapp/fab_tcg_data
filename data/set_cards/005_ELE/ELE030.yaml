@@ -1,0 +1,25 @@
+---
+key: ELE030
+card_key: strength_of_sequoia_blue
+name: Strength of Sequoia
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE030.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+- elemental
+subtypes:
+- aura
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Earth Fusion** *(As an additional cost to play Strength of Sequoia, you may reveal an Earth card from your hand.)*
+
+  **Go again**
+
+  When Strength of Sequoia enters the arena, if it was **fused**, create a Seismic Surge token.
+
+  At the beginning of your action phase, destroy Strength of Sequoia then the next attack action card you play this turn gains +1 [Power].

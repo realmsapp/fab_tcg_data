@@ -1,0 +1,21 @@
+---
+key: ARC100
+card_key: rune_flash_red
+name: Rune Flash
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/100.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '4'
+cost: '3'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Rune Flash costs [resource] less to play for each Runechant you control.
+
+  **Go again**

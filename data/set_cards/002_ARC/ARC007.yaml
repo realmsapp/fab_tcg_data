@@ -1,0 +1,22 @@
+---
+key: ARC007
+card_key: teklo_core_blue
+name: Teklo Core
+set: ARC
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/7.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! |-
+  **Dash specialization** *(You may only have Teklo Core in your deck if your hero is Dash.)*
+
+  Teklo Core enters the arena with 2 steam counters on it. When Teklo Core has no steam counters on it, destroy it.
+
+  At the beginning of your action phase, remove a steam counter from Teklo Core and gain [resource][resource].
+specialization: Dash

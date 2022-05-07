@@ -1,0 +1,21 @@
+---
+key: ELE186
+card_key: ball_lightning_red
+name: Ball Lightning
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE186.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- lightning
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '0'
+resources: '1'
+game_text: ! |-
+  Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
+
+  **Go again**

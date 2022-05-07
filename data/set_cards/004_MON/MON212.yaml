@@ -1,0 +1,19 @@
+---
+key: MON212
+card_key: spew_shadow_red
+name: Spew Shadow
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON212.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- shadow
+
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  While Exude Confidence isn't defended by a card with equal or greater [Power], the defending hero can't play or activate instants or defense reactions this combat chain.
+
+  Instant - [3 Resource]: Exude Confidence gains +2 [Power]. Activate this ability only while Exude Confidence is attacking.

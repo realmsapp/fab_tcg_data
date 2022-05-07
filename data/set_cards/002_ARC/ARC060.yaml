@@ -1,0 +1,20 @@
+---
+key: ARC060
+card_key: hamstring_shot_red
+name: Hamstring Shot
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/60.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  *(Arrows can only be played from arsenal and only if you control a bow.)*
+
+  If Hamstring Shot hits a hero, their first attack during their next turn costs an additional [resource] to play.

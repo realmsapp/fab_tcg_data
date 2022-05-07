@@ -1,0 +1,19 @@
+---
+key: MON076
+card_key: impenetrable_belief_yellow
+name: Impenetrable Belief
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON076.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- light
+subtypes:
+- attack
+attack: '4'
+cost: '2'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  If 3 or more cards have been put into an opposing hero's banished zone this turn, Impenetrable Belief gains +2[Defense] while defending.

@@ -1,0 +1,19 @@
+---
+key: EVR141
+card_key: haze_bending_blue
+name: Haze Bending
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR141.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+subtypes:
+- aura
+defense: '2'
+resources: '3'
+game_text: ! |-
+  Once per Turn Effect - Whenever Haze Bending or another Illusionist non-token aura you control is destroyed, create a Spectral Shield token.
+
+  Spectra (Dispersion Haze can be attacked. When Dispersion Haze becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)

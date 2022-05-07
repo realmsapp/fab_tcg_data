@@ -1,0 +1,19 @@
+---
+key: CRU176
+card_key: snapback_blue
+name: Snapback
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/176.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Deal 1 arcane damage to target hero.
+
+  if you have played another Wizard 'non-attack' action card this turn, you may play Snapback as though it were an instant.

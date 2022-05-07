@@ -1,0 +1,20 @@
+---
+key: EVR100
+card_key: read_the_glide_path_red
+name: Read the Glide Path
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR100.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ranger
+
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Your next arrow attack this turn gains +3[Power].
+
+  Opt 1 (Look at the top card of your deck. You may put it on the bottom.)
+
+  Go again

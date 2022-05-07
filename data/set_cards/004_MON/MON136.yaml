@@ -1,0 +1,22 @@
+---
+key: MON136
+card_key: boneyard_marauder_yellow
+name: Boneyard Marauder
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON136.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+subtypes:
+- attack
+attack: '6'
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
+
+  Blood Debt (At the beginning of your end phase, if Boneyard Marauder is in your banished zone, lose 1[Life].)

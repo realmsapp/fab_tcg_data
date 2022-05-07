@@ -1,0 +1,19 @@
+---
+key: WTR045
+card_key: cranial_crush_blue
+name: Cranial Crush
+set: WTR
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/45.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- attack
+attack: '8'
+cost: '6'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Crush** - If Cranial Crush does 4 or more damage to a hero, they can't draw cards during their next action phase.

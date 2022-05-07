@@ -1,0 +1,19 @@
+---
+key: CRU058
+card_key: crane_dance_yellow
+name: Crane Dance
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/58.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '2'
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Combo** - Soulbead Strike was the last attack this combat chain, Crane Dance gains +1[attack], **go again**, and it can't be defended by attack action cards with base [attack] greater than the number of chain links you control.

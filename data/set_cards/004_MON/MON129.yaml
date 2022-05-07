@@ -1,0 +1,24 @@
+---
+key: MON129
+card_key: writhng_beast_hulk_red
+name: Writhng Beast Hulk
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON129.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Writhing Beast Hulk, banish 3 random cards from your graveyard.
+
+  If a card with 6 or more [Power] is banished this way, Writhing Beast Hulk gains dominate. (The defending hero can't defend {name} with more than 1 card from their hand.)
+
+  Blood Debt (At the beginning of your end phase, if Writhing Beast Hulk is in your banished zone, lose 1[Life].)

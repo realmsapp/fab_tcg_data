@@ -1,0 +1,19 @@
+---
+key: EVR053
+card_key: helm_of_sharp_eye
+name: Helm of Sharp Eye
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR053.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- warrior
+subtypes:
+- head
+defense: '1'
+game_text: ! "**Attack Reaction** - [Resource], destroy Helm of Sharp Eye: Banish
+  the top card of your deck. You may play it this combat chain. Activate this ability
+  only if you control a weapon with [Power] greater than twice it's base [Power].\r\n\r\n**Battleworn**
+  *(If you defend with Helm of Sharp Eye, put a -1 [Defense] counter on it when the
+  combat chain closes.)*"

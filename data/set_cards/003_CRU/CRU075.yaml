@@ -1,0 +1,17 @@
+---
+key: CRU075
+card_key: zen_state
+name: Zen State
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/75.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- ninja
+subtypes:
+- aura
+game_text: ! |-
+  Zen State enters the arena with 1 balance counter on it. At the beginning of your action phase, destroy Zen State unless you remove a balance counter from it.
+
+  Whenever your hero would be dealt damage, prevent 1 damage that source would deal.

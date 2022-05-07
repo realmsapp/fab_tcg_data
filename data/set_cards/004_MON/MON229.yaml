@@ -1,0 +1,19 @@
+---
+key: MON229
+card_key: dread_scythe
+name: Dread Scythe
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON229.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- runeblade
+
+attack: '3'
+game_text: ! |-
+  Once per Turn Action - [3 Resource]: Attack
+
+  Whenever you attack with Dread Scythe, deal 1 arcane damage to the defending hero.
+
+  A hero dealt damage by Dread Scythe can't gain [Life] during their next action phase.

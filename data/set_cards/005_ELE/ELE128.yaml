@@ -1,0 +1,17 @@
+---
+key: ELE128
+card_key: autumns_touch_red
+name: Autumn's Touch
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE128.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+subtypes:
+- attack
+attack: '7'
+cost: '3'
+defense: '3'
+resources: '1'

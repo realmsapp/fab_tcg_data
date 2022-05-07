@@ -1,0 +1,17 @@
+---
+key: WTR003
+card_key: romping_club
+name: Romping Club
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/3.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- brute
+
+attack: '4'
+game_text: ! |-
+  **Once per turn Action** - [2 resource]: **Attack**
+
+  **Once per Turn Effect** - When you discard a card with 6 or more [attack], Romping Club gains +1[attack] until end of turn.

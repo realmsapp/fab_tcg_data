@@ -1,0 +1,19 @@
+---
+key: CRU128
+card_key: rockslide_trap_blue
+name: Rockslide Trap
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/128.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- ranger
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  *(Traps can only be played from arsena.)*
+
+  Target attack gets -2[attack] unless the attacking hero pays [resource]. *(The attacking hero chooses whether to pay [resource] as Rockslide Trap resolves.)*

@@ -1,0 +1,19 @@
+---
+key: WTR146
+card_key: driving_blade_blue
+name: Driving Blade
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/146.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Your next weapon attack this turn gains +1[attack] and **go again**.
+
+  **Go again**

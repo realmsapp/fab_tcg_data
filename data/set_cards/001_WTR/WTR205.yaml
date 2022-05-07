@@ -1,0 +1,17 @@
+---
+key: WTR205
+card_key: wounding_blow_blue
+name: Wounding Blow
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/205.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '2'
+cost: '0'
+defense: '3'
+resources: '3'

@@ -1,0 +1,17 @@
+---
+key: CRU004
+card_key: mandible_claw
+name: Mandible Claw
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/4.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- brute
+
+attack: '3'
+game_text: ! |-
+  **Once per Turn Action -- [2 resource]: Attack**
+
+  If you have discarded a card with 6 or more [attack] this turn, Mandible Claw gains **go again**.

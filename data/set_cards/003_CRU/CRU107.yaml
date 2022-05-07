@@ -1,0 +1,22 @@
+---
+key: CRU107
+card_key: high_speed_impact_yellow
+name: High Speed Impact
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/107.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! "If High Speed Impact hits, the next attack you **boost** this combat
+  chain gains **dominate**. *(The defending hero can't defend the attack with more
+  than 1 card from their hand.)*\n\n**Boost** *(As an additional cost to play High
+  Speed Impact, you may banish the top card of your deck. If it's a Mechanologist
+  card, High Speed Impact gains **go again**.)* "

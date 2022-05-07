@@ -1,0 +1,16 @@
+---
+key: EVR186
+card_key: potion_of_ironhide_blue
+name: Potion of Ironhide
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR186.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+resources: '3'
+game_text: ! |-
+  Instant - Destroy Potion of Ironhide: Attack action cards you own gain +1[Defense] this turn.

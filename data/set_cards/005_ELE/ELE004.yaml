@@ -1,0 +1,27 @@
+---
+key: ELE004
+card_key: endless_winter_red
+name: Endless Winter
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE004.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+- elemental
+subtypes:
+- attack
+attack: '8'
+cost: '4'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Oldhim Specialization** *(You may only have Endless Winter in your deck if your hero is Oldhim.)*
+
+  **Ice Fusion** *(As an additional cost to play Endless Winter, you may reveal an Ice card from your hand.)*
+
+  If Endless Winter was **fused**, whenever the defending hero adds a defending card to this chain link, create a Frostbite token under their control.
+
+  If Endless Winter hits a hero, until the end of their next turn, whenever they activate an ability, create a Frostbite token under their control.
+specialization: Oldhim

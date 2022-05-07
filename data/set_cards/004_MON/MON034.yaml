@@ -1,0 +1,25 @@
+---
+key: MON034
+card_key: lumina_ascension_yellow
+name: Lumina Ascension
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON034.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+- light
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Boltyn Specialization (You may only have Lumina Ascension in your deck if your hero is Boltyn.)
+
+  Until end of turn, weapons you control gain +1 [Power] and "If this hits, reveal the top card of your deck. If it's a Light card, put it into your hero's soul and gain 1[Life], otherwise put it on the bottom of your deck."
+
+  If you've charged this turn, you may attack an additional time with each weapon you control.
+
+  Go again
+specialization: Boltyn

@@ -1,0 +1,16 @@
+---
+key: MON304
+card_key: memorial_ground_yellow
+name: Memorial Ground
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON304.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- generic
+
+cost: '0'
+resources: '2'
+game_text: ! |-
+  Put target attack action card with cost 1 or less from your graveyard on top of your deck.

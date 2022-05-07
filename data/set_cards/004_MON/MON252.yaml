@@ -1,0 +1,19 @@
+---
+key: MON252
+card_key: seek_horizon_yellow
+name: Seek Horizon
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON252.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains go again.

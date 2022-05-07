@@ -1,0 +1,19 @@
+---
+key: ARC037
+card_key: optekal_monocle_blue
+name: Optekal Monocle
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/37.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! |-
+  Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
+
+  **Action** - Remove a steam counter from Optekal Monocle: **Opt 1. Go again** *(Look at the top card of your deck. You may put it on the bottom.)*

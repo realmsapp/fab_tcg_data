@@ -1,0 +1,18 @@
+---
+key: EVR059
+card_key: slice_and_dice_blue
+name: Slice and Dice
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR059.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- warrior
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! "Whenever you attack with a sword or dagger this turn;\r\n\r\n- If it's
+  your first weapon attack this turn, it gains +1 [Power].\r\n- If it's your second
+  weapon attack this turn, it gains +1 [Power].\r\n\r\n**Go again**"

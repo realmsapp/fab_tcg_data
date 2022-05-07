@@ -1,0 +1,21 @@
+---
+key: ARC032
+card_key: locked_and_loaded_red
+name: Locked and Loaded
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/32.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  The next Mechanologist attack action card you play this turn gains [+3 attack].
+
+  If you have **boosted** this turn, **opt 1**. *(Look at the top card of your deck. You may put it on the bottom.)*
+
+  **Go again**

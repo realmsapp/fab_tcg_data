@@ -1,0 +1,17 @@
+---
+key: EVR085
+card_key: genis_wotchuneed
+name: Genis Wotchuneed
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR085.png?w=350&fit=clip&auto=compress,format
+card_type: hero
+supertypes:
+- merchant
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  **Once per Turn Action** - [2 Resource]: Each other hero may put a card from their hand on the bottom of their deck. If they do, they draw a card and you create a Silver token. If you gain no Silver this way, draw a card. **Go again**

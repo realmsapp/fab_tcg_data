@@ -1,0 +1,18 @@
+---
+key: EVR180
+card_key: amulet_of_intervention_blue
+name: Amulet of Intervention
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR180.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+resources: '3'
+game_text: ! |-
+  Go again
+
+  Instant - Destroy Amulet of Intervention: Prevent the next 1 damage that would be dealt to your hero this turn. Activate this ability only while your hero is the target of a source that would deal damage equal to or greater than your hero's [Life].

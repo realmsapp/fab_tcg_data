@@ -1,0 +1,15 @@
+---
+key: PSM007
+card_key: spell_fray_leggings
+name: Spell Fray Leggings
+set: PSM
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/PSM007.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- legs
+game_text: ! |-
+  Spellvoid 1 (If your hero would be dealt arcane damage, you may destroy Spell Fray Leggings. If you do, prevent 1 arcane damage that source would deal.)

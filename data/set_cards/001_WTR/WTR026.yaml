@@ -1,0 +1,19 @@
+---
+key: WTR026
+card_key: smash_instinct_red
+name: Smash Instinct
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/26.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '7'
+cost: '3'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.

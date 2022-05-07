@@ -1,0 +1,21 @@
+---
+key: ELE006
+card_key: awakening_blue
+name: Awakening
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE006.png?w=350&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- guardian
+- elemental
+
+cost: '2'
+resources: '3'
+game_text: ! |-
+  **Earth Fusion** *(As an additional cost to play Awakening, you may reveal an Earth card from your hand.)*
+
+  If you have less [Life] than an opposing hero, create Seismic Surge tokens equal to the difference. If Awakening was **fused**, instead create twice that many Seismic Surge tokens.
+
+  Search your deck for a Guardian attack action card with cost less than or equal to the number of Seismic Surge tokens you control, reveal it, put it into your hand, then shuffle your deck.

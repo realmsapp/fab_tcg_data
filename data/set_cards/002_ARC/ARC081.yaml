@@ -1,0 +1,19 @@
+---
+key: ARC081
+card_key: mordred_tide_red
+name: Mordred Tide
+set: ARC
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/81.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Until end of turn, if you would create a Runechant token, instead create that many plus 1.
+
+  **Go again**

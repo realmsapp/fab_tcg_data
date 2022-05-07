@@ -1,0 +1,22 @@
+---
+key: MON152
+card_key: unworldly_bellow_blue
+name: Unworldly Bellow
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON152.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  As as additional cost to play Unworldly Bellow, banish 3 random cards from your graveyard.
+
+  The next Brute or Shadow attack action card you play this turn gains +2 [Power].
+
+  Go again

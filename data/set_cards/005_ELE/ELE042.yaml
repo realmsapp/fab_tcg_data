@@ -1,0 +1,23 @@
+---
+key: ELE042
+card_key: snap_shot_yellow
+name: Snap Shot
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE042.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+- elemental
+
+attack: '3'
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  *(Arrows can only be played from arsenal and only if you control a bow.)*
+
+  **Lightning Fusion** *(As an additional cost to play Snap Shot, you may reveal a Lightning card from your hand.)*
+
+  If Snap Shot was **fused**, you may activate abilities of bows you control an additional time this turn and as though they were an instant.

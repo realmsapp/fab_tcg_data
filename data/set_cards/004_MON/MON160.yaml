@@ -1,0 +1,24 @@
+---
+key: MON160
+card_key: unhallowed_rites_yellow
+name: Unhallowed Rites
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON160.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- shadow
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If you have played a 'non-attack' action card this turn, you may play Unhallowed Rites from your banished zone.
+
+  You may put a 'non-attack' action card with blood debt from your graveyard on the bottom of your deck.
+
+  Blood Debt (At the beginning of your end phase, if Unhallowed Rites is in your banished zone, lose 1[Life].)

@@ -1,0 +1,22 @@
+---
+key: ELE020
+card_key: mulch_yellow
+name: Mulch
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE020.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+- elemental
+subtypes:
+- attack
+attack: '7'
+cost: '4'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Earth Fusion** *(As an additional cost to play Mulch, you may reveal an Earth card from your hand.)*
+
+  If Mulch was **fused**, it gains "If this hits a hero, put a card from their arsenal on the bottom of their deck."

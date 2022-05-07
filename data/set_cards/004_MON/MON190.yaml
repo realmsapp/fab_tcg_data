@@ -1,0 +1,21 @@
+---
+key: MON190
+card_key: eclipse_blue
+name: Eclipse
+set: MON
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON190-CF.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- shadow
+
+cost: '0'
+resources: '3'
+game_text: ! |-
+  Legendary Chane Specialization (You may only have 1 Eclipse in your deck and only if your hero is Chane.)
+
+  Play Eclipse only if you have played 6 or more cards with blood debt this turn. If you have, you may play Eclipse from your banished zone.
+
+  Create an Ursur, the Soul Reaper token.
+specialization: Chane

@@ -1,0 +1,17 @@
+---
+key: MON105
+card_key: hatchet_of_body
+name: Hatchet of Body
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON105.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- warrior
+
+attack: '2'
+game_text: ! |-
+  Once per Turn Action - [1 Resource]: Attack
+
+  Whenever you attack with Hatchet of Body, if Hatchet of Mind was the last attack this turn, Hatchet of Body gains +1 [Power] until end of turn.

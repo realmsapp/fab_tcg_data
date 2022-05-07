@@ -1,0 +1,19 @@
+---
+key: EVR157
+card_key: firebreathing_red
+name: Firebreathing
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR157.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Instant** - [Resource]: Firebreathing gains +1 [Power]. Activate this ability only while Firebreathing is attacking.

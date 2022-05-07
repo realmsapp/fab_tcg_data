@@ -1,0 +1,19 @@
+---
+key: MON089
+card_key: phantasmal_footsteps
+name: Phantasmal Footsteps
+set: MON
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON089-CF.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- illusionist
+subtypes:
+- legs
+game_text: ! |-
+  The first time an Illusionist attack action card you control is destroyed each turn, you may pay [1 Resource]. If you do, gain 1 action point.
+
+  Whenever you defend with Phantasmal Footsteps, you may pay [1 Resource]. If you do, its [Defense] becomes 1 until end of turn.
+
+  If Phantasmal Footsteps defends a non-Illusionist attack with 6 or more [Power], destroy it when the combat chain closes.

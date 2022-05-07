@@ -1,0 +1,19 @@
+---
+key: ARC211
+card_key: lead_the_charge_blue
+name: Lead the Charge
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/211.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next time you play an action card with cost [2 resource] or greater this turn, gain 1 action point.
+
+  **Go again**

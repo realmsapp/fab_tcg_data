@@ -1,0 +1,18 @@
+---
+key: WTR005
+card_key: barkbone_strapping
+name: Barkbone Strapping
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/5.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- brute
+subtypes:
+- chest
+defense: '1'
+game_text: ! |-
+  **Instant** - Destroy Barkbone Strapping: Roll a 6 sided die. Gain [resource] equal to half the number rolled, rounded down.
+
+  **Battleworn** *(If you defend with Backbone Strapping, put a -1[defense] counter on it when the combat chain closes.)*

@@ -1,0 +1,21 @@
+---
+key: EVR148
+card_key: phantasmal_haze_yellow
+name: Phantasmal Haze
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR148.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+subtypes:
+- attack
+attack: '7'
+cost: '3'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Phantasm (If Phantasmal Haze is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Phantasmal Haze and close the combat chain.)
+
+  When Phantasmal Haze is destroyed, create a Spectral Shield token.

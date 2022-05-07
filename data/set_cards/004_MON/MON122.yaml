@@ -1,0 +1,19 @@
+---
+key: MON122
+card_key: hooves_of_the_shadowbeast
+name: Hooves of the Shadowbeast
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON122.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- brute
+- shadow
+subtypes:
+- legs
+defense: '1'
+game_text: ! |-
+  Whenever a card with 6 or more [Power] is put into your banished zone, you may destroy Hooves of the Shadowbeast. If you do, gain 1 action point. (When an equipment is destroyed, it's put into the graveyard.)
+
+  Battleworn (If you defend with Hooves of the Shadowbeast, put a -1[Defense] counter on it when the combat chain closes.)

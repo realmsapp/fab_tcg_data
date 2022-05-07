@@ -1,0 +1,15 @@
+---
+key: MON244
+card_key: ironhide_legs
+name: Ironhide Legs
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON244.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- legs
+game_text: ! |-
+  When you defend with Ironhide Legs, you may pay [1 Resource]. If you do, it gains +2[Defense] and destroy it when the combat chain closes. (When an equipment is destroyed, it's put into the graveyard.)

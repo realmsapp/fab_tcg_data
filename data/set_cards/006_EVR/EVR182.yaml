@@ -1,0 +1,16 @@
+---
+key: EVR182
+card_key: clarity_potion_blue
+name: Clarity Potion
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR182.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+resources: '3'
+game_text: ! |-
+  Instant - Destroy Clarity Potion: Opt 2. (Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)

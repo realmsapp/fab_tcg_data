@@ -1,0 +1,19 @@
+---
+key: WTR022
+card_key: savage_swing_blue
+name: Savage Swing
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/22.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  As an additional cost to play Savage Swing, discard a random card.

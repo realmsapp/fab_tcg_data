@@ -1,0 +1,19 @@
+---
+key: ARC019
+card_key: convection_amplifier_red
+name: Convection Amplifier
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/19.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '0'
+resources: '1'
+game_text: ! |-
+  Convection amplifier enters the arena with 2 steam counters on it. When Convection Amplifier has no steam counters on it, destroy it.
+
+  **Instant** - Remove a steam counter from Convection Amplifier: The next attack action card you play this turn gains **dominate. Go again** *(The defending hero can't defend the attack with more than 1 card from their hand.)*

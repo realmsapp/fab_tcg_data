@@ -1,0 +1,21 @@
+---
+key: MON211
+card_key: void_wraith_blue
+name: Void Wraith
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON211.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- shadow
+subtypes:
+- attack
+attack: '3'
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  You may play Void Wraith from your banished zone.
+
+  Blood Debt (At the beginning of your end phase, if Void Wraith is in your banished zone, lose 1[Life].)

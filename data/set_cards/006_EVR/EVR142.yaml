@@ -1,0 +1,19 @@
+---
+key: EVR142
+card_key: passing_mirage_blue
+name: Passing Mirage
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR142.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+subtypes:
+- aura
+defense: '2'
+resources: '3'
+game_text: ! |-
+  Your first Illusionist attack each turn loses and can't gain phantasm.
+
+  Spectra (Phantasmal Force can be attacked. When Phantasmal Force becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)

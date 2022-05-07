@@ -1,0 +1,19 @@
+---
+key: CRU101
+card_key: plasma_barrel_shot
+name: Plasma Barrel Shot
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/101.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- mechanologist
+
+attack: X
+game_text: ! |-
+  **Once per Turn Action**: Remove a steam counter from Plasma Barrel Shot: **Attack**
+
+  **Action** - [2 resource]: If there are no steam counters on Plasma Barrel Shot, put a steam counter on it. **Go again**
+
+  X is equal to 1 plus the number of times you have **boosted** this combat chain.

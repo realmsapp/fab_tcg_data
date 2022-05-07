@@ -1,0 +1,21 @@
+---
+key: ELE168
+card_key: polar_blast_blue
+name: Polar Blast
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE168.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ice
+
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  Target opposing hero may pay [1 Resource]. If they don't, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*
+
+  If Polar Blast is played from arsenal, draw a card.
+
+  **Go again**

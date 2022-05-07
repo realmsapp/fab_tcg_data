@@ -1,0 +1,17 @@
+---
+key: ELE109
+card_key: embodiment_of_earth
+name: Embodiment of Earth
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE109.png?w=350&fit=clip&auto=compress
+card_type: token
+supertypes:
+- elemental
+subtypes:
+- aura
+game_text: ! |-
+  'Non-attack' action cards you control have +1 [Defense] while defending.
+
+  At the beginning of your action phase, destroy Embodiment of Earth.

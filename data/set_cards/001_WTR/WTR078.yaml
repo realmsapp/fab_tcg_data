@@ -1,0 +1,17 @@
+---
+key: WTR078
+card_key: harmonized_kodachi
+name: Harmonized Kodachi
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/78.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- ninja
+
+attack: '1'
+game_text: ! |-
+  **Once per Turn Action** - [resource]: Attack
+
+  If you have a card in your pitch zone with cost 0, Harmonized Kodachi gains **go again**.

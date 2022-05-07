@@ -1,0 +1,21 @@
+---
+key: ARC206
+card_key: force_sight_red
+name: Force Sight
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/206.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  The next attack action card you play this turn gains +3[attack].
+
+  If Force Sight is played from arsenal, **opt 2**. *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+  **Go again**

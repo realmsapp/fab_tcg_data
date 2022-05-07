@@ -1,0 +1,17 @@
+---
+key: EVR000
+card_key: grandeur_of_valahai_blue
+name: Grandeur of Valahai
+set: EVR
+rarity: fabled
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR000-CF.png?w=350&fit=clip&auto=compress,format
+card_type: resource
+supertypes:
+- guardian
+subtypes:
+- gem
+resources: '3'
+game_text: ! "**Legendary** *(You may only have 1 Grandeur of Valahai in your deck.)*\r\n\r\nWhen
+  you pitch Grandeur of Valahai, create a Seismic Surge token."
+legendary?: true

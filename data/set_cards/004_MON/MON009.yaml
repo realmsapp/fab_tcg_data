@@ -1,0 +1,24 @@
+---
+key: MON009
+card_key: herald_of_triumph_yellow
+name: Herald of Triumph
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON009.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- illusionist
+- light
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Attack action cards have -1 [Power] while defending Herald of Triumph.
+
+  If Herald of Triumph hits, put it into your hero's soul. (Put this card face up under your hero card.)
+
+  Phantasm (If Herald of Triumph is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Herald of Triumph and close the combat chain.)

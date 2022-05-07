@@ -1,0 +1,19 @@
+---
+key: WTR123
+card_key: overpower_red
+name: Overpower
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/123.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- warrior
+
+cost: '3'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Target weapon attack gains +4[attack].
+
+  **Reprise** - If the defending hero has defended with a card from their hand this chain link, the attack gains an additional +2[attack].

@@ -1,0 +1,19 @@
+---
+key: EVR117
+card_key: shrill_of_skullform_yellow
+name: Shrill of Skullform
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR117.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '3'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If you have played or created an aura this turn, Shrill of Skullform gains +3[Power].

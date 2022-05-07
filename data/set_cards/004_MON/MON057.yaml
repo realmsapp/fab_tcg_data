@@ -1,0 +1,18 @@
+---
+key: MON057
+card_key: courageous_steelhand_red
+name: Courageous Steelhand
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON057.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- warrior
+- light
+
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  If you've charged this turn, target attack gains +3 [Power].

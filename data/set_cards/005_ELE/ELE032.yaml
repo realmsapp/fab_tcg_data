@@ -1,0 +1,23 @@
+---
+key: ELE032
+card_key: lexi
+name: Lexi
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE032.png?w=350&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- ranger
+- elemental
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  **Essence of Ice and Lightning** *(You may have Ice and Lightning cards in your deck.)*
+
+  **Once per Turn action** - Turn a face down card in your arsenal face up: If it's a Lightning card, your next attack this turn gains **go again**. If it's an Ice card, create a Frostbite token under target hero's control. **Go again**
+essences:
+- ice
+- lightning

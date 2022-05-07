@@ -1,0 +1,19 @@
+---
+key: MON219
+card_key: blasmophet_the_soul_harvester
+name: Blasmophet, the Soul Harvester
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON219.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- shadow
+
+life: '6'
+game_text: ! |-
+  (Allies can be attacked and can't be defended with [Defense]. They are destroyed when they have taken damage equal to their [Life]. At end of turn, heal all damage dealt to Blasmophet.)
+
+  Once per Turn Action - 0: Attack
+
+  Whenever Blasmophet attacks, you may banish a Shadow card from yoru hand. If you do, you may banish a card from the defending hero's soul.

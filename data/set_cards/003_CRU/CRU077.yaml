@@ -1,0 +1,19 @@
+---
+key: CRU077
+card_key: kassai_cintari_sellsword
+name: Kassai, Cintari Sellsword
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/77.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- warrior
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  Your second sword attack each turn costs [resource] less.
+
+  At the beginning of your end phase, if you have attacked 2 or more times with weapons this turn, create a Copper token for each weapon attack that hit. *(It's an item with "**Action** - [4 resource], destroy Copper: Draw a card. **Go again**")*

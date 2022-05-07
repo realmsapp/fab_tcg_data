@@ -1,0 +1,18 @@
+---
+key: ARC004
+card_key: teklo_foundry_heart
+name: Teklo Foundry Heart
+set: ARC
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/4.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- mechanologist
+subtypes:
+- chest
+defense: '2'
+game_text: ! |-
+  **Once per Turn Action** - [resource]: Banish the top 2 cards of your deck. Gain [resource] for each Mechanologist card banished this way. Activate this ability only if you have **boosted** this turn.**Go again**
+
+  **Battleworn** *(If you defend with Teklo Foundry Heart, put a [-1 defense] counter on it when the combat chain closes.)*

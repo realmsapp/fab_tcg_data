@@ -1,0 +1,19 @@
+---
+key: MON079
+card_key: rising_solartide_yellow
+name: Rising Solartide
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON079.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- light
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If Rising Solartide hits, put it into your hero's soul. (Put this card face up under your hero card.)

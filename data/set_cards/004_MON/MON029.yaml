@@ -1,0 +1,19 @@
+---
+key: MON029
+card_key: ser_boltyn_breaker_of_dawn
+name: Ser Boltyn, Breaker of Dawn
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON029.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- warrior
+- light
+
+intellect: '4'
+life: '40'
+game_text: ! |-
+  If you've charged this turn, attacks you control have +1 [Power] while defended by an attack action card.
+
+  Attack Reaction - Banish a card from Boltyn's soul: Target attack with [Power] greater than its base [Power] gains go again.

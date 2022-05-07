@@ -1,0 +1,21 @@
+---
+key: CRU084
+card_key: spoils_of_war_red
+name: Spoils of War
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/84.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Your next weapon attack this turn gains +2[attack] and **go again**.
+
+  Whenever a weapon you control hits this turn, create 2 Copper tokens.
+
+  **Go again**

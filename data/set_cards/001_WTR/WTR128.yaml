@@ -1,0 +1,17 @@
+---
+key: WTR128
+card_key: steelblade_shunt_blue
+name: Steelblade Shunt
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/128.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- warrior
+
+cost: '1'
+defense: '4'
+resources: '3'
+game_text: ! |-
+  If Steelbade shunt defends a weapon attack, deal 1 damage to the attacking hero.

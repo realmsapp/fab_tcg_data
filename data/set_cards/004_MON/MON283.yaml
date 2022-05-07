@@ -1,0 +1,19 @@
+---
+key: MON283
+card_key: rally_the_rearguard_blue
+name: Rally the Rearguard
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON283.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '4'
+cost: '2'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  Once per Turn Instant - Discard a card: Rally the Rearguard gains +3[Defense]. Activate this ability only while Rally the Rearguard is defending.

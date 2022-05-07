@@ -1,0 +1,21 @@
+---
+key: ARC120
+card_key: forked_lightning_red
+name: Forked Lightning
+set: ARC
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/120.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '3'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Deal 2 arcane damage to target hero.
+
+  Deal 2 arcane damage to target hero.
+
+  *(Effects that modify damage, modify both damage effects of Forked Lightning. Forked Lightning is considered a single source of damage.)*

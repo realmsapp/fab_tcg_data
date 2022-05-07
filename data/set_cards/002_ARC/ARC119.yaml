@@ -1,0 +1,19 @@
+---
+key: ARC119
+card_key: sonic_boom_yellow
+name: Sonic Boom
+set: ARC
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/119.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Deal 3 arcane damage to target opposing hero.
+
+  If Sonic Boom deals damage, look at the top card of your deck. If it's a Wizard 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant and it costs X resource points less to play, where X is the damage dealt by Sonic Boom.

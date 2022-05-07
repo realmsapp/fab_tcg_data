@@ -1,0 +1,21 @@
+---
+key: ARC016
+card_key: pour_the_mould_blue
+name: Pour the Mould
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/16.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Put a Mechanologist item with cost 0 or less from your hand into the arena.
+
+  If you have **boosted** this turn, put a steam counter on it.
+
+  **Go again**

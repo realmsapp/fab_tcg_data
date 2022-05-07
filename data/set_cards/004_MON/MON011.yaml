@@ -1,0 +1,20 @@
+---
+key: MON011
+card_key: parable_of_humility_yellow
+name: Parable of Humility
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON011.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- illusionist
+- light
+subtypes:
+- aura
+cost: '4'
+resources: '2'
+game_text: ! |-
+  Attack action cards controlled by an opposing hero have -1 [Power] while attacking and defending.
+
+  Spectra (Parable of Humility can be attacked. When Parable of Humility becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)

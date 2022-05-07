@@ -1,0 +1,18 @@
+---
+key: CRU006
+card_key: skullhorn
+name: Skullhorn
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/6.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- brute
+subtypes:
+- head
+defense: '0'
+game_text: ! |-
+  **Action** - Destroy Skullhorn: Draw a card then discard a random card. **Go again**
+
+  **Arcane Barrier 2** *(If your hero would be dealt arcane damage, you may pay [2 resource] instead. If you do, prevent 2 arcane damage that source would deal.

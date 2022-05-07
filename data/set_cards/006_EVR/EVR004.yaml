@@ -1,0 +1,17 @@
+---
+key: EVR004
+card_key: rolling_thunder_red
+name: Rolling Thunder
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR004.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- brute
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! "Roll a 6 sided die. Your next Brute attack this turn gains +X [Power],
+  where X the number rolled.\r\n\r\n**Go again**"

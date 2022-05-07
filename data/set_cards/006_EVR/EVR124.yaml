@@ -1,0 +1,17 @@
+---
+key: EVR124
+card_key: scour_blue
+name: Scour
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR124.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Destroy X target aura tokens and/or auras with cost 0 controlled by target hero. Then deal arcane damage to that hero equal to the number of auras destroyed this way.

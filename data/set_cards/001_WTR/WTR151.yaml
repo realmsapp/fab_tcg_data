@@ -1,0 +1,16 @@
+---
+key: WTR151
+card_key: hope_merchants_hood
+name: Hope Merchant's Hood
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/151.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- head
+defense: '0'
+game_text: ! |-
+  **Instant**  - Destroy Hope Merchant's Hood: Shuffle any number of cards from your hand into your deck, then draw that many cards.

@@ -1,0 +1,21 @@
+---
+key: ARC083
+card_key: become_the_arknight_blue
+name: Become the Arknight
+set: ARC
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/83.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Viserai Specialization** *(You may only have Become the Arknight in your deck if your hero is Viserai.)* **Choose 1;**
+
+  Discard a ‘non-attack’ action card. Search your deck for a Runeblade attack action card, reveal it, put it into your hand, then shuffle your deck. **Go again**
+  Discard an attack action card. Search for your deck for a Runeblade ‘non-attack’ action card, reveal it, put it into your hand, then shuffle your deck. **Go again**
+specialization: Viserai

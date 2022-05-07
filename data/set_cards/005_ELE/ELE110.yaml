@@ -1,0 +1,15 @@
+---
+key: ELE110
+card_key: embodiment_of_lightning
+name: Embodiment of Lightning
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE110.png?w=350&fit=clip&auto=compress
+card_type: token
+supertypes:
+- elemental
+subtypes:
+- aura
+game_text: ! |-
+  When you play an attack action card, destroy Embodiment of Lightning and the attack gains **go again**.

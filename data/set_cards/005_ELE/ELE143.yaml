@@ -1,0 +1,19 @@
+---
+key: ELE143
+card_key: amulet_of_earth_blue
+name: Amulet of Earth
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE143.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! |-
+  **Go again**
+
+  **Instant** - Destroy Amulet of Earth: Attack action cards you control gain +1 [Power] and +1 [Defense] this turn. Activate this ability only if you have **Earth fused** this turn.

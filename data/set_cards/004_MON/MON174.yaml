@@ -1,0 +1,22 @@
+---
+key: MON174
+card_key: rift_bind_red
+name: Rift Bind
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON174.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- shadow
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  You may play Rift Bind from your banished zone. If you do, it gains +X [Power], where X is the number of 'non-attack' action cards you have played this turn.
+
+  Blood Debt (At the beginning of your end phase, if Rift Bind is in your banished zone, lose 1[Life].)

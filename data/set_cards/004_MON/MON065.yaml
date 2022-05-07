@@ -1,0 +1,18 @@
+---
+key: MON065
+card_key: tome_of_divinity_yellow
+name: Tome of Divinity
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON065.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- light
+
+cost: '4'
+resources: '2'
+game_text: ! |-
+  Draw 2 cards.
+
+  If a card has been put into your hero's soul this turn, instead draw 3 cards.

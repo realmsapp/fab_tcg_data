@@ -1,0 +1,19 @@
+---
+key: MON284
+card_key: stony_wootenhog_red
+name: Stony Wootenhog
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON284.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  While Stony Wootenhog is defended by less than 2 non-equipment cards, it has +1 [Power].

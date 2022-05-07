@@ -1,0 +1,18 @@
+---
+key: CRU081
+card_key: courage_of_bladehold
+name: Courage of Bladehold
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/81.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- warrior
+subtypes:
+- chest
+defense: '2'
+game_text: ! |-
+  **Action** - Destroy Courage of Bladehold: Your sword attacks cost [resource] less per turn. **Go again**
+
+  **Temper** *(If you defend with Courage of Bladehold, put a -1[defense] counter on it when the combat chain closes then destroy it if it has 0[defense])*

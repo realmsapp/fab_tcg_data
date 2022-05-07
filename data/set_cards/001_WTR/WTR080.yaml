@@ -1,0 +1,18 @@
+---
+key: WTR080
+card_key: breaking_scales
+name: Breaking Scales
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/80.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- ninja
+subtypes:
+- arms
+defense: '1'
+game_text: ! |-
+  **Attack reaction** - Destroy Breaking Scales: Target attack action card with **combo** gains +1[attack].
+
+  **Battleworn** *(If you defend with Breaking Scales, put a -1[defense] counter on it when the combat chain closes.)*

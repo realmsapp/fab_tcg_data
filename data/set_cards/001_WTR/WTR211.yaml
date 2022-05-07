@@ -1,0 +1,20 @@
+---
+key: WTR211
+card_key: razor_reflex_blue
+name: Razor Reflex
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/211.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- generic
+
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  Choose 1;
+
+  * Target sword or dagger attack gains +1[attack].
+  * Target attack action card with cost [resource] or less gains +1[attack] and "If this hits, this attack gains **go again**."

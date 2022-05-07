@@ -1,0 +1,19 @@
+---
+key: ELE107
+card_key: rejuvenate_yellow
+name: Rejuvenate
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE107.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- elemental
+
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  Gain 2 [Life]
+
+  If you've **fused** this turn, you may play Rejuvenate as though it were an instant.

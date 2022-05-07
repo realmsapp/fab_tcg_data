@@ -1,0 +1,24 @@
+---
+key: MON182
+card_key: rip_through_reality_blue
+name: Rip Through Reality
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON182.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- shadow
+subtypes:
+- attack
+attack: '2'
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  You may play Rip Through Reality from your banished zone.
+
+  If you have dealt arcane damage to an opposing hero this turn, Rip Through Reality gains go again.
+
+  Blood Debt (At the beginning of your end phase, if Rip Through Reality is in your banished zone, lose 1[Life].)

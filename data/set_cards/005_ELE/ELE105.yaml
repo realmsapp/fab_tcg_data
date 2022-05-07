@@ -1,0 +1,19 @@
+---
+key: ELE105
+card_key: invigorate_blue
+name: Invigorate
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE105.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- elemental
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next attack you **fuse** this turn gains +2 [Power].
+
+  **Go again**

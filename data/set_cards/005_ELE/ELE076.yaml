@@ -1,0 +1,22 @@
+---
+key: ELE076
+card_key: vela_flash_red
+name: Vela Flash
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE076.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- elemental
+subtypes:
+- attack
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Lightning Fusion** *(As an additional cost to play Vela Flash, you may reveal a Lightning card from your hand.)*
+
+  If Vela Flash was **fused**, you may play your next 'non-attack' action card this turn as though it were an instant.

@@ -1,0 +1,24 @@
+---
+key: MON128
+card_key: endless_maw_blue
+name: Endless Maw
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON128.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+subtypes:
+- attack
+attack: '4'
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  As an additional cost to play Endless Maw, banish 3 random cards from your graveyard.
+
+  If a card with 6 or more [Power] is banished this way, Endless Maw gains +3 [Power].
+
+  Blood Debt (At the beginning of your end phase, if Endless Maw is in your banished zone, lose 1[Life].)

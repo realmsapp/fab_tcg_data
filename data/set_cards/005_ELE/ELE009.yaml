@@ -1,0 +1,20 @@
+---
+key: ELE009
+card_key: biting_gale_blue
+name: Biting Gale
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE009.png?w=350&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- guardian
+- elemental
+
+cost: '2'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  **Ice Fusion** *(As an additional cost to play Biting Gale, you may reveal an Ice card from your hand.)*
+
+  If Biting Gale was **fused**, the attacking hero discards a card unless they pay [2 Resource].

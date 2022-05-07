@@ -1,0 +1,22 @@
+---
+key: ARC121
+card_key: lesson_in_lava_yellow
+name: Lesson in Lava
+set: ARC
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/121.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Kano Specialization** *(You may only have Lesson in Lava in your deck if your hero is Kano.)*
+
+  Deal 3 arcane damage to target opposing hero.
+
+  If Lesson in Lava deals damage, you may search your deck for a Wizard card with [resource] cost equal to or less than the damaage dealt by Lesson in Lava, reveal it, then shuffle your deck and put it on top of your deck.
+specialization: Kano

@@ -1,0 +1,19 @@
+---
+key: CRU145
+card_key: mauvrion_skies_red
+name: Mauvrion Skies
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/145.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  The next Runeblade attack action card you play this turn gains **go again** and "If this hits, create 3 Runechant tokens." *(They're auras with "When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.")*
+
+  **Go again**

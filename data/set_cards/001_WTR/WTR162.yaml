@@ -1,0 +1,22 @@
+---
+key: WTR162
+card_key: crazy_brew_blue
+name: Crazy Brew
+set: WTR
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/162.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! |-
+  **Action** - Destroy Crazy Brew: Roll a 6 sided die.
+  On;
+
+  * 1, 2 - Lose 2[life]. **Go again**
+  * 3, 4 - Gain 2[life]. **Go again**
+  * 5, 6 - Gain [2 resource], gain 2 action points, and your next attack this turn gains +2[attack].

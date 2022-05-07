@@ -1,0 +1,22 @@
+---
+key: WTR121
+card_key: singing_steelblade_yellow
+name: Singing Steelblade
+set: WTR
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/121.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- warrior
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Dorinthea Specialization** *(You may only have Steelblade Supremacy in your deck if your hero is Dorinthea.)*
+
+  Target weapon attack gains +1[attack].
+
+  **Reprise** - If the defending hero has defended with a card from their hand this chain link, search your deck for an attack reaction card, banish it face up, then shuffle your deck. You may play it this chain link.
+specialization: Dorinthea

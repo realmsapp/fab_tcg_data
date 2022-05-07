@@ -1,0 +1,20 @@
+---
+key: EVR137
+card_key: crown_of_reflection
+name: Crown of Reflection
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR137.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- illusionist
+subtypes:
+- head
+defense: '0'
+game_text: ! "**Instant** - Destroy Crown of Reflection: Destroy target Illusionist
+  aura you control. If you do, you may put an Illusionist aura card from your hand
+  into the arena with cost less than or equal the aura destroyed this way. Activate
+  Crown of Reflection only during your action phase.\r\n\r\n**Arcane Barrier 1** *(If
+  your hero would be dealt arcane damage, you may pay [Resource] instead. If you do,
+  prevent 1 arcane damage that source would deal.)*"

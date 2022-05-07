@@ -1,0 +1,17 @@
+---
+key: EVR089
+card_key: tri_shot_blue
+name: Tri-shot
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR089.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ranger
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! "You may activate target bow you control 2 additional times this turn.\r\n\r\n**Go
+  again**"

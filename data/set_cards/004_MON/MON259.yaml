@@ -1,0 +1,17 @@
+---
+key: MON259
+card_key: rise_above_blue
+name: Rise Above
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON259.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- generic
+
+cost: '2'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  You may put a card from your hand on top of your deck rather than pay Rise Above's [Resource] cost.

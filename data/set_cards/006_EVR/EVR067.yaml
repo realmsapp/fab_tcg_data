@@ -1,0 +1,17 @@
+---
+key: EVR067
+card_key: outland_skirmish_yellow
+name: Outland Skirmish
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR067.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- warrior
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! "Your next 1H weapon attack this turn gains +2 [Power].\r\n\r\nThe next
+  time a weapon hits this turn, create a Copper token.\r\n\r\n**Go again**"

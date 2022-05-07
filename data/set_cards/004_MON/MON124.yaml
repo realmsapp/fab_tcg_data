@@ -1,0 +1,22 @@
+---
+key: MON124
+card_key: mark_of_the_beast_yellow
+name: Mark of the Beast
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON124.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If Mark of the Beast would be put into your graveyard from anywhere, instead banish it.
+
+  Blood Debt (At the beginning of your end phase, if Mark of the Beast is in your banished zone, lose 1[Life].)

@@ -1,0 +1,21 @@
+---
+key: EVR079
+card_key: zoom_in_red
+name: Zoom In
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR079.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  When you attack with Zoom in, opt X, where X is the number of times you have boosted this combat chain. (Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)
+
+  Boost (As an additional cost to play Zoom In, you may banish the top card of your deck. If it's a Mechanologist card, Zoom In gains go again.)

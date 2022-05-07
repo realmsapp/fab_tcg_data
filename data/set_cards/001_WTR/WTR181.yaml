@@ -1,0 +1,21 @@
+---
+key: WTR181
+card_key: demolition_crew_blue
+name: Demolition Crew
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/181.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '4'
+cost: '2'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  As an additional cost to play Demolition Crew, reveal a card with cost [2 resource] or greater.
+
+  **Dominate** *(The defending hero can't defend Demolition Crew with more than 1 card from their hand.)*

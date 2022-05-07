@@ -1,0 +1,22 @@
+---
+key: MON144
+card_key: graveling_growl_red
+name: Graveling Growl
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON144.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+subtypes:
+- attack
+attack: '7'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Play Graveling Growl only if a card with 6 or more [Power] has been put into your banished zone this turn.
+
+  Blood Debt (At the beginning of your end phase, if Graveling Growl is in your banished zone, lose 1[Life].)

@@ -1,0 +1,20 @@
+---
+key: MON006
+card_key: genesis_yellow
+name: Genesis
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON006.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- illusionist
+- light
+subtypes:
+- aura
+cost: '4'
+resources: '2'
+game_text: ! |-
+  At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
+
+  Spectra (Genesis can be attacked. When Genesis becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)

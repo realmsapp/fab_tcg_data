@@ -1,0 +1,19 @@
+---
+key: ARC139
+card_key: reverberate_yellow
+name: Reverberate
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/139.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Deal 2 arcane damage to target opposing hero.
+
+  If Reverberate deals damage, you may banish a Wizard 'non-attack' action card from your hand with [resource] cost less than or equal to the damage dealt by Reverberate. If you do, you may play it this turn as though it were an instant.

@@ -1,0 +1,19 @@
+---
+key: WTR085
+card_key: pounding_gale_red
+name: Pounding Gale
+set: WTR
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/85.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Combo** - If Open the Center was the last attack this combat chain, Pounding Gale gains, "If Pounding Gale would deal damage to a hero, instead it deals double that damage."

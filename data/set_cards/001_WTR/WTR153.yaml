@@ -1,0 +1,16 @@
+---
+key: WTR153
+card_key: goliath_gauntlet
+name: Goliath Gauntlet
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/153.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- arms
+defense: '0'
+game_text: ! |-
+  **Action** - Destroy Goliath Gauntlet: The next attack action card with cost [2 resource] or greater you play this turn gains +2[attack]. **Go again**

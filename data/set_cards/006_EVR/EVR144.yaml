@@ -1,0 +1,21 @@
+---
+key: EVR144
+card_key: coalescence_mirage_red
+name: Coalescence Mirage
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR144.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+subtypes:
+- attack
+attack: '7'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Phantasm (If Coalescence Mirage is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Coalescence Mirage and close the combat chain.)
+
+  When Coalescence Mirage is destroyed, you may put an Illusionist aura card with cost 0 from your hand into the arena.

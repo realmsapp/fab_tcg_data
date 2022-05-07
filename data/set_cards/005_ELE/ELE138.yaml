@@ -1,0 +1,19 @@
+---
+key: ELE138
+card_key: earthlore_surge_yellow
+name: Earthlore Surge
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE138.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+
+cost: '2'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  The next attack action card you play this turn gains +4 [Power].
+
+  **Go again**

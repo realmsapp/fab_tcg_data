@@ -1,0 +1,21 @@
+---
+key: WTR016
+card_key: savage_feast_blue
+name: Savage Feast
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/16.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  As an additional cost to play Savage Feast, discard a random card.
+
+  If the discarded card has 6 or more [attack], Savage Feast gains **go again**.

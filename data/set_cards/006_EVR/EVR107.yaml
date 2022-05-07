@@ -1,0 +1,22 @@
+---
+key: EVR107
+card_key: runeblood_incantation_red
+name: Runeblood Incantation
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR107.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- aura
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Go again
+
+  Runeblood Incantation enters the arena with 3 verse counters on it.
+
+  At the beginning of your action phase, remove a verse counter from Runeblood Incantation. If you do create a Runechant token. Otherwise, destroy Runeblood Incantation.

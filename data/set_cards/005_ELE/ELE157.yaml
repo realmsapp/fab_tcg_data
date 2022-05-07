@@ -1,0 +1,19 @@
+---
+key: ELE157
+card_key: icy_encounter_red
+name: Icy Encounter
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE157.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ice
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  If Icy Encounter hits a hero, create a Frostbite token under their control.

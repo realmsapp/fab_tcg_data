@@ -1,0 +1,18 @@
+---
+key: MON218
+card_key: eclipse_existence_blue
+name: Eclipse Existence
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON218.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- shadow
+
+cost: '0'
+resources: '3'
+game_text: ! |-
+  Whenever an attack you control hits a Light hero this turn, you may banish a card from their soul. If they do, they lose 1[Life].
+
+  If you have more [Life] than an opposing Light hero, you may banish an action card from your graveyard.

@@ -1,0 +1,20 @@
+---
+key: ELE093
+card_key: exposed_to_the_elements_blue
+name: Exposed to the Elements
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE093.png?w=350&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- elemental
+
+cost: '2'
+resources: '3'
+game_text: ! |-
+  **Earth and/or Ice Fusion** *(As an additional cost to play Exposed to the Elements, you may reveal an Earth and/or Ice card from your hand.)*
+
+  If Exposed to the Elements was **fused** with an Earth card, put a -1 [Defense] counter on target equipment.
+
+  If Exposed to the Elements was **fused** with an Ice card, destroy an equipment with 0 [Defense] controlled by target hero unless they pay [2 Resource].

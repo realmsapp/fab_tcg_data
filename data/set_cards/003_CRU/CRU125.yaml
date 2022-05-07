@@ -1,0 +1,18 @@
+---
+key: CRU125
+card_key: feign_death_yellow
+name: Feign Death
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/125.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- ranger
+
+cost: '1'
+resources: '2'
+game_text: ! |-
+  Play Feign Death only if you have been dealt damage this turn.
+
+  The next time you would be dealt damage this turn, prevent it.

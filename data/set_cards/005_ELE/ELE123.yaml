@@ -1,0 +1,19 @@
+---
+key: ELE123
+card_key: weave_earth_yellow
+name: Weave Earth
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE123.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+
+cost: '0'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  The next Earth or Elemental attack action card you play this turn gains +2 [Power]. If it's **fused**, instead it gains +3 [Power].
+
+  **Go again**

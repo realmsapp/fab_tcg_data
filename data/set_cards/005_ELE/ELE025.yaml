@@ -1,0 +1,25 @@
+---
+key: ELE025
+card_key: emerging_avalanche_red
+name: Emerging Avalanche
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE025.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+- elemental
+subtypes:
+- aura
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Ice Fusion** *(As an additional cost to play Emerging Avalanche, you may reveal an Ice card from your hand.)*
+
+  **Go again**
+
+  When Emerging Avalanche enters the arena, if it was **fused**, create a Frostbite token under target hero control.
+
+  At the beginning of your action phase, destroy Emerging Avalanche then the next attack action card you play this turn gains +3 [Power].

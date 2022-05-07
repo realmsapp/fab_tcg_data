@@ -1,0 +1,19 @@
+---
+key: EVR003
+card_key: ready_to_roll_blue
+name: Ready to Roll
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR003.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- brute
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! "**Kayo Specialization** *(You may only have Ready to Roll in your deck
+  if your hero is Kayo.)*\r\n\r\nIf you would roll 1 or more dice this turn, instead
+  roll that many dice plus 1 and ignore the lowest roll.\r\n\r\n**Go again**"
+specialization: Kayo

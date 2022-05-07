@@ -1,0 +1,18 @@
+---
+key: EVR169
+card_key: pick_a_card_any_card_blue
+name: Pick a Card, Any Card
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR169.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! "Look at target opponent's hand, then name a card.\r\n\r\nChoose a random
+  card from their hand and reveal it. If it's the named card, create a Silver token.
+  Repeat this process once.\r\n\r\n**Go again**"

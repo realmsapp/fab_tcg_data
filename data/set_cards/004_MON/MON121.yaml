@@ -1,0 +1,18 @@
+---
+key: MON121
+card_key: hexagore_the_death_hydra
+name: Hexagore, the Death Hydra
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON121.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- brute
+- shadow
+
+attack: '6'
+game_text: ! |-
+  Once per Turn Action - [2 Resource]: Attack
+
+  Whenever you attack with Hexagore, it deals damage to you equal to 6 minus the number of cards with blood debt in your banished zone.

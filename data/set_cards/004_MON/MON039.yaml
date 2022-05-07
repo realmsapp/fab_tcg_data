@@ -1,0 +1,20 @@
+---
+key: MON039
+card_key: valiant_thrust_red
+name: Valiant Thrust
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON039.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+- light
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  If you've charged this turn, Valiant Thrust gains +3 [Power].

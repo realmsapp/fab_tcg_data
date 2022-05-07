@@ -1,0 +1,14 @@
+---
+key: WTR224
+card_key: cracked_bauble
+name: Cracked Bauble
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/224.png?w=300&fit=clip&auto=compress
+card_type: resource
+supertypes:
+- generic
+
+game_text: ! |-
+  *Cracked bauble exists to support Booster Draft and Sealed Deck Formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.*

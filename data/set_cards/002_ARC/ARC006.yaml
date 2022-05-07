@@ -1,0 +1,21 @@
+---
+key: ARC006
+card_key: high_octane_red
+name: High Octane
+set: ARC
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/6.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Whenever you **boost** a card this turn, gain 1 action point.
+
+  Draw a card.
+
+  **Go again**

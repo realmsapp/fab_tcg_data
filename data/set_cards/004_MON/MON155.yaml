@@ -1,0 +1,20 @@
+---
+key: MON155
+card_key: galaxxi_black
+name: Galaxxi Black
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON155.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- runeblade
+- shadow
+
+attack: '1'
+game_text: ! |-
+  Once per Turn Action - [1 Resource]: Attack
+
+  If you have played a card from your banished zone this turn, {name} gains +2 [Power] until end of turn.
+
+  If {name} hits a hero, deal 1 arcane damage to that hero.

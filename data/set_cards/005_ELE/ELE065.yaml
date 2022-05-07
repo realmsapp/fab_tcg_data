@@ -1,0 +1,24 @@
+---
+key: ELE065
+card_key: flicker_wisp_yellow
+name: Flicker Wisp
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE065.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- elemental
+
+cost: '0'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  **Lightning Fusion** *(As an additional cost to play Flicker Wisp, you may reveal a Lightning card from your hand.)*
+
+  If Flicker Wisp was **fused**, until end of turn, action card effects you control that deal arcane damage, instead deal that much arcane damage plus 1.
+
+  Deal 1 arcane damage to target hero.
+
+  **Go again**

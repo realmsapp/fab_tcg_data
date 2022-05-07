@@ -1,0 +1,17 @@
+---
+key: ELE130
+card_key: autumns_touch_blue
+name: Autumn's Touch
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE130.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+subtypes:
+- attack
+attack: '5'
+cost: '3'
+defense: '3'
+resources: '3'

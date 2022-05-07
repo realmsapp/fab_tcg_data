@@ -1,0 +1,21 @@
+---
+key: ELE118
+card_key: tome_of_harvests_blue
+name: Tome of Harvests
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE118.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+
+cost: '3'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  As an additional cost to play Tome of Harvests, put a card from your arsenal on the bottom of your deck.
+
+  Draw 3 cards.
+
+  **Go again**

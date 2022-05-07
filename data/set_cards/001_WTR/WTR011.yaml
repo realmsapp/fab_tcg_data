@@ -1,0 +1,21 @@
+---
+key: WTR011
+card_key: breakneck_battery_red
+name: Breakneck Battery
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/11.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Breakneck Battery, discard a random card.
+
+  If the discarded card has 6 or more [attack], Breakneck Battery gains **go again**.

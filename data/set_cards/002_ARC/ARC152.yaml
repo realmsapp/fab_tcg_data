@@ -1,0 +1,16 @@
+---
+key: ARC152
+card_key: vest_of_the_first_fist
+name: Vest of the First Fist
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/152.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- chest
+defense: '0'
+game_text: ! |-
+  When an attack action card you control hits, you may destroy Vest of the First Fist. If you do, gain [2 resource].

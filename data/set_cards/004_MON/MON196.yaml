@@ -1,0 +1,19 @@
+---
+key: MON196
+card_key: consuming_aftermath_yellow
+name: Consuming Aftermath
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON196.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- shadow
+subtypes:
+- attack
+attack: '5'
+cost: '3'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  As an additional cost to play Consuming Aftermath, you may banish a card from your hand. If a Shadow card is banished this way, Consuming Aftermath gains dominate. (The defending hero can't defend Consuming Aftermath with more than 1 card from their hand.)

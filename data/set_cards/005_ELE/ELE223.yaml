@@ -1,0 +1,19 @@
+---
+key: ELE223
+card_key: duskblade
+name: Duskblade
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE223.png?w=350&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- runeblade
+
+attack: '2'
+game_text: ! |-
+  **Once per Turn Action** - [1 Resource]: **Attack**
+
+  Whenever you attack with Duskblade, if you've played an attack action card and a 'non-attack' action card this turn, put a +1 [Power] counter on Duskblade.
+
+  At the beginning of your end phase, if you haven't played an attack action card and a 'non-attack' action card this turn, remove all +1 [Power] counters from Duskblade.

@@ -1,0 +1,19 @@
+---
+key: WTR089
+card_key: blackout_kick_red
+name: Blackout Kick
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/89.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +3[attack].

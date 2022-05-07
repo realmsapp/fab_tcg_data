@@ -1,0 +1,18 @@
+---
+key: MON222
+card_key: tear_limb_from_limb_blue
+name: Tear Limb from Limb
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON222.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+
+cost: '2'
+resources: '3'
+game_text: ! |-
+  Draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, the next Brute attack action card you play this turn gains +X [Power], where X is it's base [Power].
+
+  Go again

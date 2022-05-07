@@ -1,0 +1,18 @@
+---
+key: EVR179
+card_key: amulet_of_ignition_yellow
+name: Amulet of Ignition
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR179.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+resources: '2'
+game_text: ! |-
+  Go again
+
+  Instant - Destroy Amulet of Ignition: The next ability you activate this turn costs [Resource] less. Activate this ability only if you haven't played a card or activated an ability this turn.

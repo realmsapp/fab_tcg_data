@@ -1,0 +1,25 @@
+---
+key: WTR159
+card_key: enlightened_strike_red
+name: Enlightened Strike
+set: WTR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/159.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '5'
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
+
+  Choose 1;
+
+  * Draw a card.
+  * Enlightened strike gains +2[attack].
+  * Enlightened strike gains **go again**.

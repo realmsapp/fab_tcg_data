@@ -1,0 +1,19 @@
+---
+key: MON000
+card_key: great_library_of_solana
+name: Great Library of Solana
+set: MON
+rarity: fabled
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON000-CF.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- light
+
+cost: '2'
+game_text: ! |-
+  Legendary (You may only have 1 Great Library of Solana in your deck.)
+
+  At the beginning of each end phase, if a hero has 2 or more cards with yellow color strips in their pitch zone, they gain +1 [Intellect] until end of turn.
+
+  Action - Discard 2 cards with yellow color strips: Destroy Great Library of Solana. Any hero may activate this ability. Go again

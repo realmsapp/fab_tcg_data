@@ -1,0 +1,21 @@
+---
+key: CRU167
+card_key: cindering_foresight_blue
+name: Cindering Foresight
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/167.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  If it's not your turn, you may play Cindering Foresight as though it were an instant.
+
+  The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.
+
+  **Opt 1** *(Look at the top card of your deck. You may put it on the top or bottom or your deck.)*

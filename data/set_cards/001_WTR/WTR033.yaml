@@ -1,0 +1,21 @@
+---
+key: WTR033
+card_key: awakening_bellow_yellow
+name: Awakening Bellow
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/33.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  The next Brute attack action card you play this turn gains +2[attack].
+
+  **Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.)*
+
+  **Go again**

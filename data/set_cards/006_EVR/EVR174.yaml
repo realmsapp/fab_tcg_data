@@ -1,0 +1,19 @@
+---
+key: EVR174
+card_key: even_bigger_than_that_yellow
+name: Even Bigger Than That!
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR174.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- generic
+
+cost: '0'
+resources: '2'
+game_text: ! "Play Even Bigger Than That! only if you've dealt [Power] damage this
+  turn.\r\n\r\n**Opt 2**, then reveal the top card of your deck. If it has [Power]
+  greater than the amount of damage you've dealt this turn, create a Quicken token
+  and draw a card. *(Look at the top 2 cards of your deck. You may put them on the
+  top and/or bottom in any order.)*"

@@ -1,0 +1,17 @@
+---
+key: EVR054
+card_key: shatter_yellow
+name: Shatter
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR054.png?w=350&fit=clip&auto=compress,format
+card_type: attack_reaction
+supertypes:
+- warrior
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Until end of turn, target 2H weapon gains "Whenever this would deal [Power] damage, instead you may destroy target defending equipment with [Defense] less than the damage that would be dealt this way."

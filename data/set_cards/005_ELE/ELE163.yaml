@@ -1,0 +1,18 @@
+---
+key: ELE163
+card_key: chill_to_the_bone_red
+name: Chill to the Bone
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE163.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ice
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  The next time an Ice or Elemental attack hits a hero this turn, create 3 Frostbite tokens under their control.
+
+  **Go again**

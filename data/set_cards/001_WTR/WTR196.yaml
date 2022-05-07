@@ -1,0 +1,21 @@
+---
+key: WTR196
+card_key: scour_the_battlescape_blue
+name: Scour the Battlescape
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/196.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '1'
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+
+  If Scour the Battlescape is played from arsenal, it gains **go again**.

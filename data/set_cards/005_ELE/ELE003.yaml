@@ -1,0 +1,18 @@
+---
+key: ELE003
+card_key: winters_wail
+name: Winter's Wail
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE003.png?w=350&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- guardian
+- elemental
+
+attack: '4'
+game_text: ! |-
+  Once per Turn Action - [3 Resource]: Attack
+
+  If an Ice card is pitched this way, Winter's Wail gains "If this hits a hero, create a Frostbite token under their control."

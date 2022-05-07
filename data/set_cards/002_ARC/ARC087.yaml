@@ -1,0 +1,19 @@
+---
+key: ARC087
+card_key: spellblade_assault_blue
+name: Spellblade Assault
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/87.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '2'
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Create 2 Runechant tokens. *(They’re auras with “When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.”)*

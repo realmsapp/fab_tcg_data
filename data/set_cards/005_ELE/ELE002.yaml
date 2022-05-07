@@ -1,0 +1,23 @@
+---
+key: ELE002
+card_key: oldhim
+name: Oldhim
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE002.png?w=350&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- guardian
+- elemental
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  **Essence of Earth and Ice** *(You may have Earth and Ice cards in your deck.)*
+
+  **Once per Turn Defense Reaction** - [3 Resource]: If an Earth card is pitched this way, prevent the next 2 damage that would be dealt to Oldhim this turn. If an Ice card is pitched this way, the attacking hero puts a card from their hand on top of their deck.
+essences:
+- earth
+- ice

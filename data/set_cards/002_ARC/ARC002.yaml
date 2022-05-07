@@ -1,0 +1,17 @@
+---
+key: ARC002
+card_key: dash
+name: Dash
+set: ARC
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/2.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- mechanologist
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  You may start the game with a Mechanologist item with cost [2 resource] or less in the arena. *(It's considered to have entered the arena.)*

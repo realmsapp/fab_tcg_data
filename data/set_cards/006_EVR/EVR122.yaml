@@ -1,0 +1,17 @@
+---
+key: EVR122
+card_key: sigil_of_parapets_blue
+name: Sigil of Parapets
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR122.png?w=350&fit=clip&auto=compress,format
+card_type: defense_reaction
+supertypes:
+- wizard
+
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  While Sigil of Parapets is defending, whenever you play a Wizard card, Sigil of Parapet's gains +2[Defense].

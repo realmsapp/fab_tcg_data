@@ -1,0 +1,21 @@
+---
+key: EVR023
+card_key: nerves_of_steel_blue
+name: Nerves of Steel
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR023.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- aura
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! "When Nerves of Steel enters the arena, remove a -1 [Defense] counter
+  from a chest equipment you control.\r\n\r\n**Battleworn** and **temper** on equipment
+  you control dosen't trigger if it defends an attack with 2 or less [Power].*(Battleworn
+  and temper trigger when the combat chain closes.)*\r\n\r\nWhen your hero is dealt
+  damage, destroy Nerves of Steel."

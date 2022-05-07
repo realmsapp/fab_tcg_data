@@ -1,0 +1,19 @@
+---
+key: EVR027
+card_key: macho_grande_red
+name: Macho Grande
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR027.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- attack
+attack: '10'
+cost: '7'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Dominate** *(The defending hero can't defend Macho Grande with more than 1 card from their hand.)*

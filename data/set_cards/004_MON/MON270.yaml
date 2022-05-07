@@ -1,0 +1,21 @@
+---
+key: MON270
+card_key: brandish_yellow
+name: Brandish
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON270.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '2'
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  If Brandish hits, your next weapon attack this turn gains +1 [Power].
+
+  Go again

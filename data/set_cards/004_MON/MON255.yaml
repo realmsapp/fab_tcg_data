@@ -1,0 +1,19 @@
+---
+key: MON255
+card_key: tremor_of_iarathael_yellow
+name: Tremor of iArathael
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON255.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  If a card has been put into your banished zone this turn, Tremor of iArathael gains +2 [Power].

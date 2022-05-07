@@ -1,0 +1,24 @@
+---
+key: MON004
+card_key: herald_of_erudition_yellow
+name: Herald of Erudition
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON004.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- illusionist
+- light
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Dominate (The defending hero can't defend Herald of Erudition with more than 1 card from their hand.)
+
+  If {name} hits, put it into your hero's soul and draw 2 cards.
+
+  Phantasm (If Herald of Erudition is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Herald of Erudition and close the combat chain.)

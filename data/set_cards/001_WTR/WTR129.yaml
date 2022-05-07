@@ -1,0 +1,17 @@
+---
+key: WTR129
+card_key: warriors_valor_red
+name: Warrior's Valor
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/129.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Your next weapon attack this turn gains +3[attack] and "If this hits, the attack gains **go again**"

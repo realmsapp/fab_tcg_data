@@ -1,0 +1,18 @@
+---
+key: CRU102
+card_key: viziertronic_model_i
+name: Viziertronic Model i
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/102.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- mechanologist
+subtypes:
+- head
+defense: '0'
+game_text: ! |-
+  **Action** - Destroy Viziertronic Model i: Whenever you boost this turn, draw a card then put a card from your hand on top of your deck.
+
+  **Arcane Barrier 2** *(If your hero would be dealt arcane damage, you may pay [2 resource] instead. If you do, prevent 2 arcane damage that source would deal.)*

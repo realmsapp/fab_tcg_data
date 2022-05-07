@@ -1,0 +1,18 @@
+---
+key: ELE034
+card_key: voltaire_strike_twice
+name: Voltaire, Strike Twice
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE034.png?w=350&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- ranger
+- elemental
+
+game_text: ! |-
+  **Twice per Turn Instant** - [1 Resource]: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1:
+
+  * It gains +1 [Power] until end of turn.
+  * It gains **go again** until end of turn.

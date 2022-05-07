@@ -1,0 +1,21 @@
+---
+key: ELE095
+card_key: entwine_earth_yellow
+name: Entwine Earth
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE095.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- elemental
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  **Earth Fusion** *(As an additional cost to play Entwine Earth, you may reveal an Earth card from your hand.)*
+
+  If Entwine Earth was **fused**, it gains +2 [Power].

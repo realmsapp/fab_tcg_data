@@ -1,0 +1,18 @@
+---
+key: ARC116
+card_key: storm_striders
+name: Storm Striders
+set: ARC
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/116.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- wizard
+subtypes:
+- legs
+defense: '0'
+game_text: ! |-
+  **Instant** - [resource], destroy Storm Striders: You may play your next Wizard ‘non-attack’ action card this turn as though it were an instant.
+
+  **Arcane Barrier 2** *(If your hero would be dealt arcane damage, you may pay [2 resource] instead. If you do, prevent 2 arcane damage that source would deal.)*

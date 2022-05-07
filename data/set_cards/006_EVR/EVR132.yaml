@@ -1,0 +1,20 @@
+---
+key: EVR132
+card_key: pyroglyphic_protection_yellow
+name: Pyroglyphic Protection
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR132.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+subtypes:
+- aura
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If your hero would be dealt arcane damage, prevent 2 arcane damage that source would deal.
+
+  At the beginning of your action phase, destroy Pyroglyphic Protection.

@@ -1,0 +1,19 @@
+---
+key: WTR050
+card_key: disable_blue
+name: Disable
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/50.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- attack
+attack: '7'
+cost: '5'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of it's owners deck.

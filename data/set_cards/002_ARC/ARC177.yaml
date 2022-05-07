@@ -1,0 +1,19 @@
+---
+key: ARC177
+card_key: back_alley_breakline_yellow
+name: Back Alley Breakline
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/177.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  If an activated ability or action card effect puts Back Alley Breakline face-up into a zone from your deck, gain 1 action point.

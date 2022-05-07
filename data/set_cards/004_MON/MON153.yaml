@@ -1,0 +1,19 @@
+---
+key: MON153
+card_key: chane_bound_by_shadow
+name: Chane, Bound by Shadow
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON153.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- runeblade
+- shadow
+
+intellect: '4'
+life: '40'
+game_text: ! |+
+  Once per Turn Action - Create a Soul Shackle token: Your next Runeblade or Shadow action this turn gains go again. Go again (It's an aura with "At the beginning of your action phase, banish the top card of your deck.")
+
+...

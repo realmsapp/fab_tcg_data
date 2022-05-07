@@ -1,0 +1,17 @@
+---
+key: ARC076
+card_key: viserai
+name: Viserai
+set: ARC
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/76.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- runeblade
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. *(It's an aura with "When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.")*

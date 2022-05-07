@@ -1,0 +1,19 @@
+---
+key: ARC126
+card_key: aether_spindle_red
+name: Aether Spindle
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/126.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Deal 4 arcane damage to the target opposing hero.
+
+  **Opt X**, where X is the damage dealt by Aether Spindle. *(Look at the top X ards of your deck. You may put them on the top and/or bottom in any order.)*

@@ -1,0 +1,26 @@
+---
+key: ARC080
+card_key: arknight_ascendancy_red
+name: Arknight Ascendancy
+set: ARC
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/80.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '5'
+cost: '6'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Viserai Specialization** *(You may only have Arknight Ascendancy in your deck if your hero is Viserai.)*
+
+  Arknight Ascendancy costs [resource] less to play for each Runechant you control.
+
+  If Arknight Ascendancy hits, create X Runechant tokens, where X is the damage dealt by Arknight Ascendancy.
+
+  **Dominate**
+specialization: Viserai

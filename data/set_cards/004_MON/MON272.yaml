@@ -1,0 +1,21 @@
+---
+key: MON272
+card_key: frontline_scout_red
+name: Frontline Scout
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON272.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  You may look at the defending hero's hand.
+
+  If Frontline Scout is played from arsenal, it gains go again.

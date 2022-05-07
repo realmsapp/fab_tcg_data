@@ -1,0 +1,19 @@
+---
+key: ARC082
+card_key: ninth_blade_of_the_blood_oath_yellow
+name: Ninth Blade of the Blood Oath
+set: ARC
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/82.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '9'
+cost: '9'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Ninth Blade of the Blood Oath costs [resource] less to play for each Runechant token you control.
