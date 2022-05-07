@@ -27,6 +27,10 @@
   name: Legendary
   symbol: L
 
+- rarity_key: fabled
+  name: Fabled
+  symbol: F
+
 - rarity_key: marvel
   name: Marvel
   symbol: ▲
