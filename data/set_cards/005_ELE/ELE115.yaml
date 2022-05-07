@@ -1,0 +1,16 @@
+---
+key: ELE115
+card_key: crown_of_seeds
+name: Crown of Seeds
+set: ELE
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE115-CF.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- earth
+subtypes:
+- head
+defense: '0'
+game_text: ! |-
+  **Once per Turn Instant** - [1 Resource], put a face down card from your arsenal on the bottom of your deck: Draw a card and prevent the next 1 damage that would be dealt to your hero this turn.

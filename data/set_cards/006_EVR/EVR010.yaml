@@ -1,0 +1,18 @@
+---
+key: EVR010
+card_key: bare_fangs_blue
+name: Bare Fangs
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR010.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '4'
+cost: '2'
+resources: '3'
+game_text: ! |-
+  When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, Bare Fangs gains +2 [Power].

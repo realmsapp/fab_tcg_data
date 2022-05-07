@@ -1,0 +1,15 @@
+---
+key: WTR075
+card_key: seismic_surge
+name: Seismic Surge
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/75.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- guardian
+subtypes:
+- aura
+game_text: ! |-
+  At the beginning of your action phase, destroy Seismic Surge then the next Guardian attack action card you pay, costs [cost] less to play.

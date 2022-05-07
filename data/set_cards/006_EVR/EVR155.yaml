@@ -1,0 +1,14 @@
+---
+key: EVR155
+card_key: arcane_lantern
+name: Arcane Lantern
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR155.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- generic
+
+game_text: ! |-
+  **Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay [Resource] instead. If you do, prevent 1 arcane damage that source would deal.)*

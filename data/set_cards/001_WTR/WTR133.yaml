@@ -1,0 +1,17 @@
+---
+key: WTR133
+card_key: ironsong_response_yellow
+name: Ironsong Response
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/133.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- warrior
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Reprise** - If the defending hero has defended with a card from their hand this chain link, the target weapon attack gains +2[attack].

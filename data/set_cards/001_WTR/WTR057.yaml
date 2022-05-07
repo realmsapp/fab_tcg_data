@@ -1,0 +1,19 @@
+---
+key: WTR057
+card_key: buckling_blow_red
+name: Buckling Blow
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/57.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- attack
+attack: '8'
+cost: '4'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Crush** - If Buckling does 4 or more damage to a hero, put a -1[defense] counter on target equipment they control.

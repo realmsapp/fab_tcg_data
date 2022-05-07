@@ -1,0 +1,22 @@
+---
+key: ELE018
+card_key: glacial_footsteps_blue
+name: Glacial Footsteps
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE018.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+- elemental
+subtypes:
+- attack
+attack: '8'
+cost: '6'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Ice Fusion** *(As an additional cost to play Glacial Footsteps, you may reveal an Ice card from your hand.)*
+
+  If Glacial Footsteps was **fused**, it gains **dominate**. *(The defending hero can't defend Glacial Footsteps with more than 1 card from their hand.)*

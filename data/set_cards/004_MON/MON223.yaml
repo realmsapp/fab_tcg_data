@@ -1,0 +1,20 @@
+---
+key: MON223
+card_key: pulping_red
+name: Pulping
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON223.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+resources: '1'
+game_text: ! |-
+  Draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, Pulping gains dominate. (The defending hero can't defend Pulping with more than 1 card from their hand.)
+
+  While Pulping is defended by less than 2 non-equipment cards, it has go again.

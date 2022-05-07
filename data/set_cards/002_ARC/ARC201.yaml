@@ -1,0 +1,17 @@
+---
+key: ARC201
+card_key: fate_foreseen_yellow
+name: Fate Foreseen
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/201.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- generic
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*

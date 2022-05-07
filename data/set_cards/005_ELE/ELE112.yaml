@@ -1,0 +1,20 @@
+---
+key: ELE112
+card_key: pulse_of_volthaven_red
+name: Pulse of Volthaven
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE112.png?w=350&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- lightning
+- ice
+
+cost: '0'
+resources: '1'
+game_text: ! |-
+  **Legendary** *(You may only have 1 Pulse of Volthaven in your deck.)*
+
+  Your next Lightning, Ice, or Elemental attack this turn gains +4 [Power].
+legendary: true

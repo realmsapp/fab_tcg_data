@@ -1,0 +1,19 @@
+---
+key: CRU063
+card_key: flying_kick_red
+name: Flying Kick
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/63.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  If Flying Kick is played as chain link 3 or higher, it gains +2[attack].

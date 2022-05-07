@@ -1,0 +1,21 @@
+---
+key: CRU008
+card_key: massacre_red
+name: Massacre
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/8.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '6'
+cost: '3'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  If you have discarded a card with 6 or more [attack] this turn, Massacre gains +2[attack] and **intimidate**.
+
+  If Massacre is discarded to pay the cost of a Brute attack action card, **intimidate**.

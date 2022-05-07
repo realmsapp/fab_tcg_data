@@ -1,0 +1,19 @@
+---
+key: ARC000
+card_key: eye_of_ophidia_blue
+name: Eye of Ophidia
+set: ARC
+rarity: fabled
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/0.png?w=300&fit=clip&auto=compress
+card_type: resource
+supertypes:
+- generic
+subtypes:
+- gem
+resources: '3'
+game_text: ! |-
+  **Legendary** *(You may only have 1 Eye of Ophidia in your deck.)*
+
+  When you pitch Eye of Ophidia, **opt 2**.
+legendary: true

@@ -1,0 +1,21 @@
+---
+key: CRU144
+card_key: runeblood_barrier_yellow
+name: Runeblood Barrier
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/144.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+
+cost: '3'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  Create 4 Runechant tokens.
+
+  If your hero would be dealt damage, instead destroy that many Runechants you control and prevent 1 damage for each Runechant destroyed this way.
+
+  At the beginning of your action phase, destroy Runeblood Barrier.

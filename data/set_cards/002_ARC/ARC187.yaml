@@ -1,0 +1,21 @@
+---
+key: ARC187
+card_key: moon_wish_blue
+name: Moon Wish
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/187.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '2'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  You may put a card from your hand on top of your deck rather than pay Moon Wish's [resource] cost.
+
+  If Moon Wish hits, search your deck for a card named Sun Kiss, reveal it, put it into your hand, then shuffle your deck.

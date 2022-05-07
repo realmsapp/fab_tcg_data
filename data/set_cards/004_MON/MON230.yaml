@@ -1,0 +1,18 @@
+---
+key: MON230
+card_key: aether_ironweave
+name: Aether Ironweave
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON230.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- runeblade
+subtypes:
+- chest
+defense: '1'
+game_text: ! |-
+  Action - Destroy Aether Ironweave: Gain [2 Resource]. Activate this ability only if you have played an attack action card and a 'non-attack' action card this turn. Go again
+
+  Battleworn (If you defend with Aether Ironweave, put a -1[Defense] counter on it when the combat chain closes.)

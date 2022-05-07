@@ -1,0 +1,19 @@
+---
+key: EVR136
+card_key: timekeepers_whim_blue
+name: Timekeeper's Whim
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR136.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Deal 3 arcane damage to target hero.
+
+  If Timekeeper's Whim is played during an opponents turn, put it on the bottom of your deck.

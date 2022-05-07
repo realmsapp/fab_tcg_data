@@ -1,0 +1,21 @@
+---
+key: MON062
+card_key: celestial_cataclysm_yellow
+name: Celestial Cataclysm
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON062.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- light
+subtypes:
+- attack
+attack: '7'
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  As an additional cost to play Celestial Cataclysm, banish 3 cards from your hero's soul.
+
+  Go again

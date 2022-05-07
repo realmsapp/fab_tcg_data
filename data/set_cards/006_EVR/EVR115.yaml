@@ -1,0 +1,19 @@
+---
+key: EVR115
+card_key: reek_of_corruption_blue
+name: Reek of Corruption
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR115.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '2'
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  If you have played or created an aura this turn, Reek of Corruption gains "When this hits a hero, they discard a card."

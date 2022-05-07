@@ -1,0 +1,17 @@
+---
+key: MON031
+card_key: raydn_duskbane
+name: Raydn, Duskbane
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON031.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- warrior
+- light
+
+game_text: ! |-
+  Once per Turn Action - 0: Attack
+
+  If you've charged this turn, Raydn gains +3 [Power].

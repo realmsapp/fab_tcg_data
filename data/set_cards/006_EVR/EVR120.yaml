@@ -1,0 +1,22 @@
+---
+key: EVR120
+card_key: iyslander
+name: Iyslander
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR120.png?w=350&fit=clip&auto=compress,format
+card_type: hero
+supertypes:
+- wizard
+- elemental
+subtypes:
+- young
+intellect: '4'
+life: '18'
+game_text: ! "**Essence of Ice** *(You may have Ice cards in your deck.)*\r\n\r\nIf
+  it's not your turn, you may play a 'non-attack' action cards with blue color strips
+  from your arsenal as though they were an instant.\r\n\r\nWhenever you play an Ice
+  card during an opponents turn, create a Frostbite token under their control."
+essences:
+- ice

@@ -1,0 +1,16 @@
+---
+key: EVR033
+card_key: steadfast_red
+name: Steadfast
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR033.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- guardian
+
+cost: '3'
+resources: '1'
+game_text: ! |-
+  Prevent the next 6 damage that would be dealt to your hero this turn by a source of your choice.

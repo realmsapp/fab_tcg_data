@@ -7,13 +7,13 @@ module FabTcgData
         SetCard.new(
           key: item.fetch(:key),
           card_key: item.fetch(:name).gsub(/[^\p{L}]|[1-9]/, " ").squish.gsub(/\s/, "_").downcase,
-          name: item.fetch(:name),
-
           set: Sets.fetch(item.fetch(:key).slice(0...3)),
+
           rarity: Rarities.fetch(item.fetch(:rarity)),
           artist: Artists.fetch(item.fetch(:artist, "unknown")),
           image_url: item.fetch(:image_url),
 
+          name: item.fetch(:name),
           card_type: CardTypes.fetch(item.fetch(:card_type)),
           supertypes: item.fetch(:supertypes, []).map { |stk| Supertypes.fetch(stk) },
           subtypes: item.fetch(:subtypes, []).map { |stk| Subtypes.fetch(stk) },
@@ -106,12 +106,23 @@ module FabTcgData
       end
     end
 
-    ALL = Lookup.load("set_cards/**/*.yaml") do |item|
-      SetCard.load(item)
-    rescue StandardError => e
-      raise ParseError, item.inspect
+    def self.fetch(key)
+      _cache.fetch(key) do
+        set_card = nil
+        Lookup.load("set_cards/**/#{key}.yaml") do |item|
+          begin
+            set_card = SetCard.load(item)
+          rescue => e
+            raise ParseError, item.inspect
+          end
+          _cache[key] = set_card
+        end
+        set_card
+      end
     end
 
-    def self.fetch(key, *args) = ALL.fetch(key, *args)
+    def self._cache
+      @_cache ||= {}
+    end
   end
 end

@@ -1,0 +1,23 @@
+---
+key: ELE092
+card_key: flashfreeze_red
+name: Flashfreeze
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE092.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- elemental
+
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  **Ice and/or Lightning Fusion** *(As an additional cost to play Flashfreeze, you may reveal an Ice and/or Lightning card from your hand.)*
+
+  If Flashfreeze was **fused** with an Ice card, attacks you control this turn gain "When you attack with this, it gains **dominate** unless the defending hero pays [2 Resource].
+
+  If Flashfreeze was **fused** with a Lightning card, attacks you control this turn gain "If this hits a hero, deal 3 damage to them."
+
+  **Go again**

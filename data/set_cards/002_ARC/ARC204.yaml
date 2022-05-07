@@ -1,0 +1,19 @@
+---
+key: ARC204
+card_key: come_to_fight_yellow
+name: Come to Fight
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/204.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  The next attack action card you play this turn gains +2[attack].
+
+  **Go again**

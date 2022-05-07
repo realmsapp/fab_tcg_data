@@ -1,0 +1,19 @@
+---
+key: WTR101
+card_key: leg_tap_red
+name: Leg Tap
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/101.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  **Go again**

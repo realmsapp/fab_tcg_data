@@ -1,0 +1,19 @@
+---
+key: WTR161
+card_key: last_ditch_effort_blue
+name: Last Ditch Effort
+set: WTR
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/161.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '4'
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  When you play Last Ditch Effort, if you have no cards in your deck, it gains +4[attack] and **go again**.

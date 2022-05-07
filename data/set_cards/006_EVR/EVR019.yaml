@@ -1,0 +1,19 @@
+---
+key: EVR019
+card_key: valda_brightaxe
+name: Valda Brightaxe
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR019.png?w=350&fit=clip&auto=compress,format
+card_type: hero
+supertypes:
+- guardian
+subtypes:
+- young
+intellect: '4'
+life: '21'
+game_text: ! "Whenever an opponent draws a card during an action phase, create a Seismic
+  Surge token for each card drawn this way.\r\n\r\nAt the start of your turn, if you
+  control 3 or more Seismic Surge tokens, cards you own with **crush** gain **dominate**
+  this turn."

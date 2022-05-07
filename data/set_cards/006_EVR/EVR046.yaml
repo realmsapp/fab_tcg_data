@@ -1,0 +1,19 @@
+---
+key: EVR046
+card_key: ride_the_tailwind_blue
+name: Ride the Tailwind
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR046.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '1'
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! "When Ride the Tailwind hits, the next attack action card with 2 or less
+  base [Power] you play this combat chain gains **go again**.\r\n\r\n**Go again**"

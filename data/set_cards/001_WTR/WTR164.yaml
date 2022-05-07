@@ -1,0 +1,19 @@
+---
+key: WTR164
+card_key: drone_of_brutality_red
+name: Drone of Brutality
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/164.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.

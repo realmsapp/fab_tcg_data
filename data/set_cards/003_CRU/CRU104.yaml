@@ -1,0 +1,21 @@
+---
+key: CRU104
+card_key: absorption_dome_yellow
+name: Absorption Dome
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/104.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '0'
+resources: '2'
+game_text: ! |-
+  Absorption Dome enters the arena with steam counters on it equal to the number of times you have **boosted** this turn.
+
+  If you would be dealt damage, remove that many steam counters from Absorption Dome instead, then prevent damage equal to the number of steam counters removed in this way.
+
+  When Absorption Dome has no steam counters on it, destroy it.

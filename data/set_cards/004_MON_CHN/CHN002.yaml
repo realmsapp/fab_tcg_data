@@ -1,0 +1,20 @@
+---
+key: CHN002
+card_key: lord_sutcliffe
+name: Lord Sutcliffe
+set: CHN
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/CHN002.png?w=300&fit=clip&auto=compress
+card_type: mentor
+supertypes:
+- runeblade
+- shadow
+
+defense: '3'
+game_text: ! |-
+  Mentor (You may only have Sutcliffe in your deck if your hero is young.)
+
+  At the start of your turn, if Sutcliffe is face down in your arsenal, you may turn him face up.
+
+  Whenever you play a 'non-attack' action card, deal 1 arcane damage to each hero and put a lesson counter on Sutcliffe for each damage dealt this way. Then if there are 3 or more lesson counters on Sutcliffe, banish him, search your deck a specialization card, put it face up into your arsenal, and shuffle your deck.

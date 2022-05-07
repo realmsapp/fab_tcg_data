@@ -1,0 +1,19 @@
+---
+key: CRU067
+card_key: soulbead_strike_yellow
+name: Soulbead Strike
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/67.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If Soulbead Strike hits, it gains **go again**.

@@ -1,0 +1,22 @@
+---
+key: MON042
+card_key: bolt_of_courage_red
+name: Bolt of Courage
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON042.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+- light
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Bolt of Courage, you may charge your hero's soul. (Put a card from your hand face up under your hero card.)
+
+  If you've charged this turn, Bolt of Courage gains "If this hits, draw a card."

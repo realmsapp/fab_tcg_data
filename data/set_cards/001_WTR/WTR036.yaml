@@ -1,0 +1,21 @@
+---
+key: WTR036
+card_key: primeval_bellow_yellow
+name: Primeval Bellow
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/36.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  As an additional cost to play Primeval Bellow, discard a random card.
+
+  Your next brute attack this turn gains +4[attack].
+
+  **Go again**

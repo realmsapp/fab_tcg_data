@@ -1,0 +1,27 @@
+---
+key: ELE066
+card_key: force_of_nature_blue
+name: Force of Nature
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE066.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- elemental
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Briar Specialization** *(You may only have Force of Nature in your deck if your hero is Briar.)*
+
+  **Earth Fusion** *(As an additional cost to play Force of Nature, you may reveal an Earth card from your hand.)*
+
+  Whenever an attack action card you control hits this turn, if its [Power] is greater than its base [Power], draw a card.
+
+  If Force of Nature was **fused**, your next attack this turn gains +1 [Power].
+
+  **Go again**
+specialization: Briar

@@ -1,0 +1,14 @@
+---
+key: EVR121
+card_key: krakens_aethervein
+name: Kraken's Aethervein
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR121.png?w=350&fit=clip&auto=compress,format
+card_type: weapon
+supertypes:
+- wizard
+
+game_text: ! |-
+  **Once per Turn Instant** - [3 Resource]: Deal 1 arcane damage to target opposing hero. Draw a card for each arcane damage dealt this way.

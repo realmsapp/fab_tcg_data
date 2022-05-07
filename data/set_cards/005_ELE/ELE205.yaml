@@ -1,0 +1,19 @@
+---
+key: ELE205
+card_key: tear_asunder_blue
+name: Tear Asunder
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE205.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Your next Guardian attack this turn gains +1 [Power], **dominate**, and "If this hits a hero, they discard 2 cards."
+
+  **Go again**

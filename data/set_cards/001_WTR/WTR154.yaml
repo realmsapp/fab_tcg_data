@@ -1,0 +1,16 @@
+---
+key: WTR154
+card_key: snapdragon_scalers
+name: Snapdragon Scalers
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/154.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- legs
+defense: '0'
+game_text: ! |-
+  **Attack reaction** - Destroy Snapdragon Scalers: Target attack action card with cost [resource] or less gains **go again**.

@@ -1,0 +1,15 @@
+---
+key: ELE203
+card_key: rampart_of_the_rams_head
+name: Rampart of the Ram's Head
+set: ELE
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE203-CF.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- guardian
+
+defense: '0'
+game_text: ! |-
+  Whenever you defend with Rampart of the Ram's Head, you may pay [1 Resource]. If you do, it gains +1 [Defense] until end of turn.

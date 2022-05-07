@@ -1,0 +1,19 @@
+---
+key: EVR072
+card_key: teklo_pounder_blue
+name: Teklo Pounder
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR072.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '2'
+resources: '3'
+game_text: ! "Teklo Pounder enters the arena with 3 steam counters on it. When Teklo
+  Pounder has no steam counters on it, destroy it. \r\n\r\n**Once per Turn Effect**-
+  Whenever you **boost** an attack action card, remove a steam counter from Teklo
+  Pounder. If you do, the attack gains +2 [Power]."

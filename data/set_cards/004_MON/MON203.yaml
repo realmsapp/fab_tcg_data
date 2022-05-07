@@ -1,0 +1,21 @@
+---
+key: MON203
+card_key: ghostly_visit_red
+name: Ghostly Visit
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON203.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- shadow
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  You may play Ghostly Visit from your banished zone.
+
+  Blood Debt (At the beginning of your end phase, if Ghostly Visit is in your banished zone, lose 1[Life].)

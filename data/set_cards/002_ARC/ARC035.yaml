@@ -1,0 +1,21 @@
+---
+key: ARC035
+card_key: dissipation_shield_yellow
+name: Dissipation Shield
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/35.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '2'
+resources: '2'
+game_text: ! |-
+  Dissipation Shield enters the arena with 4 steam counters on it.
+
+  At the beginning of your action phase, destroy Dissipation Shield unless you remove a steam counter from it.
+
+  **Instant** - Destroy Dissipation Shield: The next time your hero would be dealt damaage this turn, prevent X damage, where X is the number of steam counters on Dissipation Shield.

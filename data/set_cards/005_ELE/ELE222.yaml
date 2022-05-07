@@ -1,0 +1,17 @@
+---
+key: ELE222
+card_key: rosetta_thorn
+name: Rosetta Thorn
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE222.png?w=350&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- runeblade
+
+attack: '2'
+game_text: ! |-
+  **Once per Turn Action** - [1 Resource]: **Attack**
+
+  Whenever you attack with Rosetta Thorn, if you've played an attack action card and a 'non-attack' action card this turn, deal 2 arcane damage to target hero.

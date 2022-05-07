@@ -1,0 +1,16 @@
+---
+key: EVR087
+card_key: dreadbore
+name: Dreadbore
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR087.png?w=350&fit=clip&auto=compress,format
+card_type: weapon
+supertypes:
+- ranger
+
+game_text: ! "**Once per Turn Action** - [Resource]: You may put an arrow card from
+  your hand face up into an empty arsenal zone you control. If you do, it gains +1
+  [Power] until end of turn. **Go again**\r\n\r\nArrows you control have \"Defense
+  reactions can't be played from hand this chain link.\""

@@ -1,0 +1,19 @@
+---
+key: MON193
+card_key: shadow_puppetry_red
+name: Shadow Puppetry
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON193.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- shadow
+
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  The next attack action card you play this turn gains +1 [Power], go again and "If this attack hits, look at the top card of your deck. You may banish it."
+
+  Go again

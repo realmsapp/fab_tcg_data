@@ -1,0 +1,22 @@
+---
+key: ELE005
+card_key: oaken_old_red
+name: Oaken Old
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE005.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+- elemental
+subtypes:
+- attack
+attack: '7'
+cost: '3'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Earth and Ice Fusion** *(As an additional cost to play Oaken Old, you may reveal an Earth and an Ice card from your hand.)*
+
+  If Oaken Old was **fused**, it gains +2 [Power], **dominate**, and "If this hits a hero, they put 2 random cards from their hand on the bottom of their deck in any order."

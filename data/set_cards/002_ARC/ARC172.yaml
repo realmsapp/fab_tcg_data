@@ -1,0 +1,20 @@
+---
+key: ARC172
+card_key: plunder_run_blue
+name: Plunder Run
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/172.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next time an attack action card you control hits this turn, draw a card.
+  If plunder run is played from arsenal, then next attack action card you play this turn gains [+1 attack].
+
+  **Go again**

@@ -1,0 +1,17 @@
+---
+key: ELE111
+card_key: frostbite
+name: Frostbite
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE111.png?w=350&fit=clip&auto=compress
+card_type: token
+supertypes:
+- elemental
+subtypes:
+- aura
+game_text: ! |-
+  Cards and activated abilities you control cost an additional [1 Resource].
+
+  At the beginning of your end phase or when you play a card or activate an ability, destroy Frostbite.

@@ -1,0 +1,18 @@
+---
+key: CRU025
+card_key: crater_fist
+name: Crater Fist
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/25.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- guardian
+subtypes:
+- arms
+defense: '2'
+game_text: ! |-
+  **Action - [3 resource],** destroy Crater Fist: Your attacks with **crush** gain +2[attack] this turn. **Go again**
+
+  **Temper** *(If you defend with Crater Fist, put a -1[defense] counter on it when the combat chain closes then destroy it if it has 0[defense].)*

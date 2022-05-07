@@ -1,0 +1,19 @@
+---
+key: ARC077
+card_key: nebula_blade
+name: Nebula Blade
+set: ARC
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/77.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- runeblade
+
+attack: '1'
+game_text: ! |-
+  **Once per Turn Action** - [2 resource]: **Attack**
+
+  If Nebula Blade hits , create a Runechant token.
+
+  If you have played a ‘non-attack’ action card this turn, Nebula Blade gains [+3 attack] until end of turn.

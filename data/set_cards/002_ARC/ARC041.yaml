@@ -1,0 +1,20 @@
+---
+key: ARC041
+card_key: skullbone_crosswrap
+name: Skullbone Crosswrap
+set: ARC
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/41.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- ranger
+subtypes:
+- head
+defense: '1'
+game_text: ! |-
+  **Once per Turn Action** - Turn a face down card in your arsenal face up: **Opt 1**. **Go again**
+
+  **Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay [resource] instead. If you do, prevent 1 arcane damage that source would deal.)*
+
+  **Blade Break** *(If you defend with Skullbone Crosswrap, destroy it when the combat chain closes.)*

@@ -1,0 +1,16 @@
+---
+key: MON228
+card_key: smash_with_a_big_tree_blue
+name: Smash with a Big Tree
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON228.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+resources: '3'

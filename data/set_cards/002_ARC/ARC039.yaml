@@ -1,0 +1,17 @@
+---
+key: ARC039
+card_key: azalea
+name: Azalea
+set: ARC
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/39.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- ranger
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  **Once per Turn Action** - 0: Put a card from your arsenal on the bottom of your deck. If you do, put the top card of your deck face up into your arsenal. If it's an arrow card, it gains **dominate** until end of turn. **Go again** *(The defending hero can't defend the attack with more than 1 card from their hand.)*

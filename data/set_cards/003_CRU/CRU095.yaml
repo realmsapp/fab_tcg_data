@@ -1,0 +1,21 @@
+---
+key: CRU095
+card_key: push_forward_yellow
+name: Push Forward
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/95.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Your next weapon attack this turn gains +2[attack].
+
+  If you have attacked with a weapon this turn, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*
+
+  **Go again**

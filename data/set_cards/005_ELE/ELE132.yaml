@@ -1,0 +1,19 @@
+---
+key: ELE132
+card_key: break_ground_yellow
+name: Break Ground
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE132.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+subtypes:
+- attack
+attack: '6'
+cost: '3'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.

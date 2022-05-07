@@ -1,0 +1,16 @@
+---
+key: ARC113
+card_key: kano_dracai_of_aether
+name: Kano, Dracai of Aether
+set: ARC
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/113.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- wizard
+
+intellect: '4'
+life: '30'
+game_text: ! |-
+  **Instant** - [3 resource]: Look at the top card of your deck. If it's a 'non-attack' action card, you may banish it. If you do, you may play it this turn as though it were an instant.

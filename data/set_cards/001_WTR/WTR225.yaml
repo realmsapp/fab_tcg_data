@@ -1,0 +1,17 @@
+---
+key: WTR225
+card_key: quicken
+name: Quicken
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/225.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- generic
+subtypes:
+- aura
+game_text: ! |-
+  *(Auras stay in the arena until they are destroyed.)*
+
+  When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**.

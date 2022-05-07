@@ -1,0 +1,22 @@
+---
+key: MON132
+card_key: convulsions_from_the_bellows_of_hell_red
+name: Convulsions from the Bellows of Hell
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON132.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As as additional cost to play Convulsions from the Bellows of Hell, banish 3 random cards from your graveyard.
+
+  If a card with 6 or more [Power] is banished this way, the next attack action card you play this turn gains +3 [Power] and dominate. (The defending hero can't defend the attack with more than 1 card from their hand.)
+
+  Go again

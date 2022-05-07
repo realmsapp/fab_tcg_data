@@ -1,0 +1,21 @@
+---
+key: ARC017
+card_key: aether_sink_yellow
+name: Aether Sink
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/17.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- item
+cost: '1'
+resources: '2'
+game_text: ! |-
+  Aether Sink enters the arena with a steam counter on it.
+
+  **Action** - [resource]: If there are no steam counters on Aether Sink, put a steam counter on it. **Go again**
+
+  **Instant** - Remove a steam counter from Aether Sink: Aether Sink gains Arcane Barrier 2 until end of turn.

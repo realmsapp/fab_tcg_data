@@ -1,0 +1,19 @@
+---
+key: MON220
+card_key: ursur_the_soul_reaper
+name: Ursur, the Soul Reaper
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON220.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- shadow
+
+life: '6'
+game_text: ! |-
+  (Allies can be attacked and can't be defended with [Defense]. They are destroyed when they have taken damage equal to their [Life]. At end of turn, heal all damage dealt to Ursur.)
+
+  Once per Turn Action - 0: Attack
+
+  While Ursur is attacking a hero with 1 or more cards in their soul, the attack has go again.

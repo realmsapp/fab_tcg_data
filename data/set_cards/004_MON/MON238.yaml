@@ -1,0 +1,15 @@
+---
+key: MON238
+card_key: blood_drop_brocade
+name: Blood Drop Brocade
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON238.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- chest
+game_text: ! |-
+  Instant - Destroy Blood Drop Brocade: Gain [1 Resource]. Activate this ability only if you have dealt or been dealt [Power] damage this turn. (When an equipment is destroyed, it's put into the graveyard.)

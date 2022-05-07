@@ -1,0 +1,16 @@
+---
+key: WTR156
+card_key: ironrot_plate
+name: Ironrot Plate
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/156.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- chest
+defense: '1'
+game_text: ! |-
+  **Blade break** *(If you defend with Ironrot Plate, destroy it when the combat chain closes.)*

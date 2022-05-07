@@ -1,0 +1,21 @@
+---
+key: MON290
+card_key: yinti_yanti_red
+name: Yinti Yanti
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON290.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  While Yinti Yanti is attacking and you control an aura, it has +1 [Power].
+
+  While Yinti Yanti is defending and you control an aura, it has +1[Defense].

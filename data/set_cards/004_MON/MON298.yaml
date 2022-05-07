@@ -1,0 +1,19 @@
+---
+key: MON298
+card_key: minnowism_blue
+name: Minnowism
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON298.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next attack action card with 3 or less base [Power] you play this turn gains +1 [Power].
+
+  Go again

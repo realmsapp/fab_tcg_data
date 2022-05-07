@@ -1,0 +1,17 @@
+---
+key: CRU100
+card_key: teklo_plasma_pistol
+name: Teklo Plasma Pistol
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/100.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- mechanologist
+
+attack: '2'
+game_text: ! |-
+  **Action** - Remove a steam counter from Teklo Plasma Pistol: **Attack**
+
+  **Action** - [resource]: If there are no steam counters on Teklo Plasma Pistol, put a steam counter on it. **Go again**

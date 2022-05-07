@@ -1,0 +1,21 @@
+---
+key: ELE151
+card_key: ice_quake_red
+name: Ice Quake
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE151.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ice
+
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Your next attack this turn gains +3 [Power].
+
+  Whenever an attack hits a hero this turn, create a Frostbite token under their control.
+
+  **Go again**

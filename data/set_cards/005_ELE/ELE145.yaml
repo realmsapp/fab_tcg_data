@@ -1,0 +1,16 @@
+---
+key: ELE145
+card_key: coat_of_frost
+name: Coat of Frost
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE145.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- ice
+subtypes:
+- chest
+defense: '0'
+game_text: ! |-
+  **Action** - Destroy Coat of Frost: Create a Frostbite token under target hero's control. **Go again**

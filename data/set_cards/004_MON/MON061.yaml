@@ -1,0 +1,17 @@
+---
+key: MON061
+card_key: halo_of_illumination
+name: Halo of Illumination
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON061.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- light
+subtypes:
+- head
+game_text: ! |-
+  Instant - [1 Resource], destroy Halo of Illumination: Put a card from your hand into your hero's soul. If it's a Light card, draw a card. (Put the card face up under your hero card.)
+
+  Spellvoid 2 (If your hero would be dealt arcane damage, you may destroy Halo of Illumination instead. If you do, prevent 2 arcane damage that source would deal.)

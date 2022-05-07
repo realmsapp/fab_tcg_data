@@ -1,0 +1,24 @@
+---
+key: EVR017
+card_key: bravo_star_of_the_show
+name: Bravo, Star of the Show
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR017.png?w=350&fit=clip&auto=compress,format
+card_type: hero
+supertypes:
+- guardian
+- elemental
+
+intellect: '4'
+life: '40'
+game_text: ! "**Essence of Earth, Ice, and Lightning** *(You may have Earth, Ice,
+  and Lightning cards in your deck.)*\r\n\r\nAt the start of your turn, you may reveal
+  an Earth, an Ice, and a Lightning card from your hand. If you do, the next attack
+  action card with cost 3 or greater you play this turn gains +2 [Power], **dominate**,
+  and **go again**."
+essences:
+- earth
+- ice
+- lightning

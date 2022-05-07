@@ -1,0 +1,20 @@
+---
+key: EVR159
+card_key: knick_knack_bric_a_brac_red
+name: Knick Knack Bric-a-brac
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR159.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+
+cost: '3'
+defense: '2'
+resources: '1'
+game_text: ! "As an additional cost to play Knick Knack Bric-a-brac, you may destroy
+  any number of Copper, Silver, and/or Gold you control.\r\n\r\nSearch your deck for
+  a card with Amulet, Potion, or Talisman in its name, put it into the arena, then
+  shuffle. For each 4 Copper, 2 Silver, and/or 1 Gold destroyed this way, repeat this
+  process."

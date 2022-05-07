@@ -1,0 +1,19 @@
+---
+key: MON287
+card_key: surging_militia_red
+name: Surging Militia
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON287.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Surging Militia has +1 [Power] for each non-equipment card defending it.

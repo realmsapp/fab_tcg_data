@@ -1,0 +1,15 @@
+---
+key: BOL006
+card_key: spell_fray_cloak
+name: Spell Fray Cloak
+set: BOL
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/BOL006.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- chest
+game_text: ! |-
+  Spellvoid 1 (If your hero would be dealt arcane damage, you may destroy Spell Fray Cloak. If you do, prevent 1 arcane damage that source would deal.)

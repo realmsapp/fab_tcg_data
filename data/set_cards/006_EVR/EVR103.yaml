@@ -1,0 +1,18 @@
+---
+key: EVR103
+card_key: vexing_quillhand
+name: Vexing Quillhand
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR103.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- runeblade
+subtypes:
+- arms
+defense: '0'
+game_text: ! "**Action** - Destroy Vexing Quillhand: Create 2 Runechant tokens. **Go
+  again**\r\n\r\n**Arcane Barrier 1** *(If your hero would be dealt arcane damage,
+  you may pay [Resource] instead. If you do, prevent 1 arcane damage that source would
+  deal.)*"

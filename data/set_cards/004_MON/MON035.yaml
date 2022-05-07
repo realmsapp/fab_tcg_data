@@ -1,0 +1,25 @@
+---
+key: MON035
+card_key: v_of_the_vanguard_yellow
+name: V of the Vanguard
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON035.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+- light
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Boltyn Specialization (You may only have V of the Vanguard in your deck if your hero is Boltyn.)
+
+  As an additional cost to play V of the Vanguard, you may charge your hero's soul any number of times. (Put 1 or more cards from your hand face up under your hero card.)
+
+  Attacks on this combat chain gain +1 [Power] for each Light card charged this way.
+specialization: Boltyn

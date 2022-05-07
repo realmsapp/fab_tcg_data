@@ -1,0 +1,19 @@
+---
+key: CRU127
+card_key: pitfall_trap_yellow
+name: Pitfall Trap
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/127.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- ranger
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  *(Traps can only be played from arsenal.)*
+
+  Deal 2 damage to the attacking hero unless they pay [resource].

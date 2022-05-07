@@ -1,0 +1,19 @@
+---
+key: WTR220
+card_key: nimblism_blue
+name: Nimblism
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/220.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next attack action card with cost [resource] or less you play this turn gains +1[attack].
+
+  **Go again**

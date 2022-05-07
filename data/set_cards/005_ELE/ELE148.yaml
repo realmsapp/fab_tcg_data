@@ -1,0 +1,19 @@
+---
+key: ELE148
+card_key: frost_fang_red
+name: Frost Fang
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE148.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ice
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  If Frost Fang hits a hero, they discard a card unless they pay [2 Resource].

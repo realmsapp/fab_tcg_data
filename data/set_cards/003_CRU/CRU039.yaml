@@ -1,0 +1,20 @@
+---
+key: CRU039
+card_key: emerging_dominance_yellow
+name: Emerging Dominance
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/39.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- aura
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  *(Auras stay in the arena until they are destroyed.)*
+
+  At the beginning of your action phase, destroy Emerging Dominance then the next Guardian arttack action card you play this turn gains +2[attack] and **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*

@@ -1,0 +1,19 @@
+---
+key: WTR029
+card_key: wrecker_romp_red
+name: Wrecker Romp
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/29.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '8'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Wrecker Romp, discard a random card.

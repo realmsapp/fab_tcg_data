@@ -1,0 +1,19 @@
+---
+key: ARC214
+card_key: sun_kiss_blue
+name: Sun Kiss
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/214.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  Gain 2[life].
+
+  If you have played a card named Moon Wish this turn, draw a card and Sun Kiss gains **go again**.

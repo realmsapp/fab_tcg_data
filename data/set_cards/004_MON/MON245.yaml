@@ -1,0 +1,21 @@
+---
+key: MON245
+card_key: exude_confidence_red
+name: Exude Confidence
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON245.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '4'
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  While Exude Confidence isn't defended by a card with equal or greater [Power], the defending hero can't play or activate instants or defense reactions this combat chain.
+
+  Instant - [3 Resource]: Exude Confidence gains +2 [Power]. Activate this ability only while Exude Confidence is attacking.

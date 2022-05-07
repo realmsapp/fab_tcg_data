@@ -1,0 +1,17 @@
+---
+key: EVR015
+card_key: bad_beats_yellow
+name: Bad Beats
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR015.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- brute
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! "Roll a 6 sided die. If the number rolled is a 5 or 6, the next Brute
+  attack action card you play this turn gains +5 [Power].\r\n\r\n**Go again**"

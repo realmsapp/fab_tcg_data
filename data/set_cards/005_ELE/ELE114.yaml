@@ -1,0 +1,21 @@
+---
+key: ELE114
+card_key: pulse_of_isenloft_blue
+name: Pulse of Isenloft
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE114.png?w=350&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- ice
+- earth
+
+cost: '2'
+defense: '6'
+resources: '3'
+game_text: ! |-
+  **Legendary** *(You may only have 1 Pulse of Isenloft in your deck.)*
+
+  Earth, Ice, and Elemental action cards have +1 [Defense] while defending this turn.
+legendary?: true

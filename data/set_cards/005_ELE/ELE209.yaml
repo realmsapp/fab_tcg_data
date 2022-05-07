@@ -1,0 +1,19 @@
+---
+key: ELE209
+card_key: thump_red
+name: Thump
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE209.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- attack
+attack: '6'
+cost: '4'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  While Thump's [Power] is greater than its base [Power], it gains **dominate** and "If this hits a hero, they discard a card." *(The defending hero can't defend Thump with more than 1 card from their hand.)*

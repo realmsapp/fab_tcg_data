@@ -1,0 +1,22 @@
+---
+key: EVR161
+card_key: life_of_the_party_red
+name: Life of the Party
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR161.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '4'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! "You may discard or destroy a card you control named Crazy Brew rather
+  than pay Life of the Party's [Resource] cost. If you do, choose all modes, otherwise
+  choose 1 at random;\r\n\r\n- Life of the Party gains \"When this hits, gain life
+  2 [Life].\"\r\n- Life of the Party gains +2 [Power].\r\n- Life of the Party gains
+  **go again**."

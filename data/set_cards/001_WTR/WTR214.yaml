@@ -1,0 +1,17 @@
+---
+key: WTR214
+card_key: unmovable_blue
+name: Unmovable
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/214.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- generic
+
+cost: '3'
+defense: '5'
+resources: '3'
+game_text: ! |-
+  If Unmovable is played from arsenal, it gains +1[defense].

@@ -1,0 +1,17 @@
+---
+key: MON104
+card_key: spectral_shield
+name: Spectral Shield
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON104.png?w=300&fit=clip&auto=compress
+card_type: token
+supertypes:
+- illusionist
+subtypes:
+- aura
+game_text: ! |-
+  (Auras stay in the arena until they are destroyed.)
+
+  If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.

@@ -1,0 +1,19 @@
+---
+key: MON301
+card_key: warmongers_recital_blue
+name: Warmongers Recital
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON301.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next attack action card you play this turn gains +1 [Power] and "If this hits, put it on the bottom of your deck."
+
+  Go again

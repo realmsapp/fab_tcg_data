@@ -1,0 +1,16 @@
+---
+key: ELE214
+card_key: honing_hood
+name: Honing Hood
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE214.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- ranger
+subtypes:
+- head
+defense: '0'
+game_text: ! |-
+  **Instant** - Destroy Honing Hood: Return all cards in your arsenal to your hand, then put a card from your hand face down into your arsenal.

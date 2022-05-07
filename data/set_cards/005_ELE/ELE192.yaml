@@ -1,0 +1,17 @@
+---
+key: ELE192
+card_key: heavens_claws_red
+name: Heaven's Claws
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE192.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- lightning
+subtypes:
+- attack
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '1'

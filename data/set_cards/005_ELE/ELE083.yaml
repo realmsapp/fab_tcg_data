@@ -1,0 +1,24 @@
+---
+key: ELE083
+card_key: stir_the_wildwood_yellow
+name: Stir the Wildwood
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE083.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- elemental
+subtypes:
+- attack
+attack: '4'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Earth Fusion** *(As an additional cost to play Stir the Wildwood, you may reveal an Earth card from your hand.)*
+
+  If you have dealt arcane damage to an opposing hero this turn, Stir the Wildwood gains +2 [Power].
+
+  If Stir the Wildwood was **fused**, it gains +2 [Power].

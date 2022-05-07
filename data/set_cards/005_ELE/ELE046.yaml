@@ -1,0 +1,23 @@
+---
+key: ELE046
+card_key: blizzard_bolt_blue
+name: Blizzard Bolt
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE046.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+- elemental
+
+attack: '3'
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  *(Arrows can only be played from arsenal and only if you control a bow.)*
+
+  **Ice Fusion** *(As an additional cost to play Blizzard Bolt, you may reveal an Ice card from your hand.)*
+
+  If Blizzard Bolt was **fused**, whenever an attack deals damage to a hero this turn, create a Frostbite token under their control.

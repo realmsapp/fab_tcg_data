@@ -1,0 +1,19 @@
+---
+key: MON279
+card_key: pound_for_pound_yellow
+name: Pound for Pound
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON279.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '5'
+cost: '3'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  When you play Pound for Pound, if you have less [Life] than an opposing hero, it gains dominate. (The defending hero can't defend Pound for Pound with more than 1 card from their hand.)

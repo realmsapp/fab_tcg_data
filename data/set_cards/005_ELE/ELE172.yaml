@@ -1,0 +1,19 @@
+---
+key: ELE172
+card_key: amulet_of_ice_blue
+name: Amulet of Ice
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE172.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ice
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! |-
+  **Go again**
+
+  **Instant** - Destroy Amulet of Ice: Target hero discards a card unless they pay [2 Resource]. Activate this ability only if you have **Ice fused** this turn.

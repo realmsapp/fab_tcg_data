@@ -1,0 +1,22 @@
+---
+key: WTR083
+card_key: mugenshi_release_yellow
+name: 'Mugenshi: RELEASE'
+set: WTR
+rarity: super_rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/83.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '4'
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Katsu Specialization** *(You may only have Mugenshi: RELEASE in your deck if your hero is Katsu.)*
+
+  **Combo** - If Whelming Gustwave was the last attack this combat chain, Mugenshi: RELEASE gains +1[attack], **go again**, and  "If this hits, search your deck for any number of cards named Lord of Wind, reveal them, put them into your hand, then shuffle your deck."
+specialization: Katsu

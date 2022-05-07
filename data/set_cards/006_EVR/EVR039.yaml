@@ -1,0 +1,22 @@
+---
+key: EVR039
+card_key: spring_tidings_yellow
+name: Spring Tidings
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR039.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '2'
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! "**Benji Specialization** *(You may only have Spring Tidings in your
+  deck if your hero is Benji.)*\r\n\r\nWhen Spring Tidings hits, draw a card for each
+  other attack action card with 2 or less base [Power] you control on the combat chain.\r\n\r\n**Go
+  again**"
+specialization: Benji

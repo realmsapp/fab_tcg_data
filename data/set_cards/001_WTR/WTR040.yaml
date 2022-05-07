@@ -1,0 +1,17 @@
+---
+key: WTR040
+card_key: anothos
+name: Anothos
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/40.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- guardian
+
+attack: '4'
+game_text: ! |-
+  **Once per turn action [3 resource] - Attack**
+
+  If you have 2 or more cards in your pitch zone with cost [3 resource] or greater, Anothos gains +2[attack].

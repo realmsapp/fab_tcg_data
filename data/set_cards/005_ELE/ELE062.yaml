@@ -1,0 +1,24 @@
+---
+key: ELE062
+card_key: briar_warden_of_thorns
+name: Briar, Warden of Thorns
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE062.png?w=350&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- runeblade
+- elemental
+
+intellect: '4'
+life: '40'
+game_text: ! |-
+  **Essence of Earth and Lightning** *(You may have Earth and Lightning cards in your deck.)*
+
+  Whenever an attack action card you control deals damage to an opposing hero, create an Embodiment of Earth token.
+
+  Whenever you play your second 'non-attack' action card each turn, create an Embodiment of Lightning token.
+essences:
+- earth
+- lightning

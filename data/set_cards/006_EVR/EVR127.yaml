@@ -1,0 +1,19 @@
+---
+key: EVR127
+card_key: emeritus_scolding_blue
+name: Emeritus Scolding
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR127.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Deal 2 arcane damage to target hero.
+
+  If Emeritus Scolding is played during an opponents turn, instead deal 4 arcane damage to target hero.

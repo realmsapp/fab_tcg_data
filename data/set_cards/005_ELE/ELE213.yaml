@@ -1,0 +1,20 @@
+---
+key: ELE213
+card_key: new_horizon
+name: New Horizon
+set: ELE
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE213-CF.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- ranger
+subtypes:
+- head
+defense: '2'
+game_text: ! |-
+  While you have a face up card in your arsenal, you have an additional arsenal zone.
+
+  When New Horizon is destroyed, destroy all cards in your arsenal.
+
+  **Blade Break** *(If you defend with New Horizon, destroy it when the combat chain closes.)*

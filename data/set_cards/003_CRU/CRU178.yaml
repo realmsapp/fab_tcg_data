@@ -1,0 +1,20 @@
+---
+key: CRU178
+card_key: fyendals_spring_tunic
+name: Fyendal's Spring Tunic
+set: CRU
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/178.png?w=300&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- chest
+defense: '1'
+game_text: ! |-
+  At the start of your turn, if Fyendal's Spring Tunic has less than 3 energy counters, you may put an energy counter on it.
+
+  **Instant** - Remove 3 energy counters from Fyendal's Spring tunic: Gain [resource]
+
+  **Blade Break** (If you defend with Fyendal's Spring tunic, destroy it when the combat chain closes.)

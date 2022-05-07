@@ -1,0 +1,21 @@
+---
+key: CRU010
+card_key: barraging_big_horn_red
+name: Barraging Big Horn
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/10.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '7'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Barraging Bighorn, discard a random card.
+
+  While Barraging Bighorn is defended by less than 2 non-equipment cards, it has **go again**.

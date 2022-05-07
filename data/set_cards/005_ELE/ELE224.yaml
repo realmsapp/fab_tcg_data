@@ -1,0 +1,20 @@
+---
+key: ELE224
+card_key: spellbound_creepers
+name: Spellbound Creepers
+set: ELE
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE224-CF.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- runeblade
+subtypes:
+- legs
+defense: '1'
+game_text: ! |-
+  **Once per Turn Instant** - [1 Resource], put a bind counter on Spellbound Creepers: You may play your next 'non-attack' action card this turn as though it were an instant. Activate this ability only if you have attacked or defended with an attack action card this turn.
+
+  At the beginning of your end phase, destroy Spellbound Creepers unless you have dealt arcane damage this turn equal to or greater than the number of bind counters on Spellbound Creepers.
+
+  **Blade Break** *(If you defend with Spellbound Creepers, destroy it when the combat chain closes.)*

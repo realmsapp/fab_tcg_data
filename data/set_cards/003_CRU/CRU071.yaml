@@ -1,0 +1,19 @@
+---
+key: CRU071
+card_key: torrent_of_tempo_blue
+name: Torrent of Tempo
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/71.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '2'
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  If Torrent of Tempo hits, it gains **go again**.

@@ -1,0 +1,21 @@
+---
+key: CRU111
+card_key: combustible_courier_blue
+name: Combustible Courier
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/111.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- attack
+attack: '1'
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! "If Combustible Courier hits, the next attack you **boost** this turn
+  gains +3[attack].\n\n**Boost* *(As an additional cost to play Combustible Courier,
+  you may banish the top card of your deck. If it's a Mechanologist card, Combustible
+  Courier gains **go again**.)* "

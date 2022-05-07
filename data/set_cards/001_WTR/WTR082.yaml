@@ -1,0 +1,19 @@
+---
+key: WTR082
+card_key: ancestral_empowerment_red
+name: Ancestral Empowerment
+set: WTR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/82.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- ninja
+
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Target Ninja attack action card gains +1[attack].
+
+  Draw a card.

@@ -1,0 +1,21 @@
+---
+key: CRU124
+card_key: poison_the_tips_yellow
+name: Poison the Tips
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/124.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+
+cost: '0'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  Until end of turn, arrows you control gain "If this hits a hero, they discard a card."
+
+  **Reload** *(If you have no cards in your arsenal, you may put a card from your hand face down into your arsenal.)*
+
+  **Go again**

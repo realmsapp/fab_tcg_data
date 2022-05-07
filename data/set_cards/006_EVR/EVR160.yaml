@@ -1,0 +1,17 @@
+---
+key: EVR160
+card_key: this_rounds_on_me_blue
+name: This Round's on Me
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR160.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! "Each hero draws a card.\r\n\r\nUntil the start of your next turn, attacks
+  that target you have -1 [Power].\r\n\r\n**Go again**"

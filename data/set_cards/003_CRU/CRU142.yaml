@@ -1,0 +1,23 @@
+---
+key: CRU142
+card_key: dread_triptych_blue
+name: Dread Triptych
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/142.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '4'
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  If you've played a 'non-attack' action card this turn, create a Runechant token.
+
+  If you've dealt arcane damage this turn, create a Runechant token.
+
+  If you've Dread Triptych hits, create a Runechant token.

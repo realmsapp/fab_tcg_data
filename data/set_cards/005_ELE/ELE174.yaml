@@ -1,0 +1,16 @@
+---
+key: ELE174
+card_key: mark_of_lightning
+name: Mark of Lightning
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE174.png?w=350&fit=clip&auto=compress
+card_type: equipment
+supertypes:
+- lightning
+subtypes:
+- arms
+defense: '0'
+game_text: ! |-
+  Whenever a Lightning or Elemental attack you control is defended by a card from hand, you may destroy Mark of Lightning. If you do, the attack deals 1 damage to the defending hero.

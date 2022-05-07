@@ -1,0 +1,14 @@
+---
+key: CRU160
+card_key: aether_conduit
+name: Aether Conduit
+set: CRU
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/160.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- wizard
+
+game_text: ! "**Once per Turn Action - [2 resource]: ** Deal 2 arcane damage to target
+  hero. "

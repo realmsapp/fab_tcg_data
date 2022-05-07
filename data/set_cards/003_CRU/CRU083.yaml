@@ -1,0 +1,19 @@
+---
+key: CRU083
+card_key: unified_decree_yellow
+name: Unified Decree
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/83.png?w=300&fit=clip&auto=compress
+card_type: attack_reaction
+supertypes:
+- warrior
+
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Target weapon attack gains +3[attack].
+
+  **Reprise** If the defending hero has defended with a card from their hand this chain link, look at top card of your deck. If it's an attack action card, you may banish it. If you do, you may play it this combat chain.

@@ -1,0 +1,19 @@
+---
+key: WTR198
+card_key: regurgitating_slog_yellow
+name: Regurgitating Slog
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/198.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '5'
+cost: '2'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism. If you do, Regurgitating Slog gains **dominate**. *(The defending hero can't defend Regurgitating Slog with more than 1 card from their hand.)*

@@ -1,0 +1,19 @@
+---
+key: ELE134
+card_key: burgeoning_red
+name: Burgeoning
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE134.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  If Burgeoning is played from arsenal, it gains +1 [Power].

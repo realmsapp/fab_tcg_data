@@ -1,0 +1,18 @@
+---
+key: ELE033
+card_key: shiver
+name: Shiver
+set: ELE
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE033.png?w=350&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- ranger
+- elemental
+
+game_text: ! |-
+  **Once per Turn Instant** - [Resource]: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
+
+  * It gains +1 [Power] until end of turn.
+  * It gains **dominate** until end of turn. *(The defending hero can't defend the attack with more than 1 card from their hand.)*

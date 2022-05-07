@@ -1,0 +1,18 @@
+---
+key: EVR106
+card_key: reveal_in_runeblood_red
+name: Reveal in Runeblood
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR106.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- runeblade
+
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! "If you have played an attack action card and another 'non-attack' action
+  card this turn, create 4 Runechant tokens. \r\n\r\nAt the beginning of your end
+  phase, destroy all Runechants you control.\r\n\r\n**Go again**"

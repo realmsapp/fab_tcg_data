@@ -1,0 +1,21 @@
+---
+key: ARC165
+card_key: life_for_a_life_yellow
+name: Life for a Life
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/165.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  If Life for a Life hits, gain 1 [life].
+
+  When you play Life for a Life, if you have less [life] than your opponent, it gains **go again**.

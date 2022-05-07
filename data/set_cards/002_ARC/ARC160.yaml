@@ -1,0 +1,21 @@
+---
+key: ARC160
+card_key: art_of_war_yellow
+name: Art of War
+set: ARC
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/160.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- generic
+
+cost: '1'
+resources: '2'
+game_text: ! |-
+  Choose 2;
+
+  * Attack action cards you control gain +1[attack] and +1[defense] this turn.
+  * The next attack action card you play this turn, gains **go again**.
+  * Until end of turn, you may defend with attack action cards from arsenal.
+  * You may banish an attack action card from your hand. If you do, draw 2 cards.

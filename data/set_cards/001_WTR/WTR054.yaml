@@ -1,0 +1,22 @@
+---
+key: WTR054
+card_key: blessing_of_deliverance_red
+name: Blessing of Deliverance
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/54.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- aura
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Go again**
+
+  When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 resource] or greater, draw a card.
+
+  At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 3 cards of your deck. Gain 1[life] for each card with cost [3 resource] or greater revealed this way.

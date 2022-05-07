@@ -1,0 +1,19 @@
+---
+key: WTR201
+card_key: wounded_bull_yellow
+name: Wounded Bull
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/201.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '6'
+cost: '3'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  When you play Wounded Bull, if you have less [life] than your opponent, Wounded Bull gains +1[attack].

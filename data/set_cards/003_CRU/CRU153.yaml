@@ -1,0 +1,21 @@
+---
+key: CRU153
+card_key: meat_and_greet_blue
+name: Meat and Greet
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/153.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '2'
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  If Meat and Greet hits, create a Runechant Token. *(They're auras with "When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.")*
+
+  If you have dealt or deal arcane damage to an opposing hero this turn, Meat and Greet gains **go again**.

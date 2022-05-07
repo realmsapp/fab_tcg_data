@@ -1,0 +1,17 @@
+---
+key: EVR191
+card_key: talisman_of_recompense_yellow
+name: Talisman of Recompense
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR191.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+cost: '0'
+resources: '2'
+game_text: ! "**Go again**\r\n\r\nWhenever you pitch a card, if you would gain exactly
+  [Resource], instead destroy Talisman of Recompense and gain [3 Resource]."

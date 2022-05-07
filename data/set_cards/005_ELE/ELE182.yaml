@@ -1,0 +1,19 @@
+---
+key: ELE182
+card_key: weave_lightning_blue
+name: Weave Lightning
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE182.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- lightning
+
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next LIghtning or Elemental attack action card you play this turn gains +1 [Attack]. If it's **fused**, it gains **go again**.
+
+  **Go again**

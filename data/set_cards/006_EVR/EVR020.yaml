@@ -1,0 +1,18 @@
+---
+key: EVR020
+card_key: earthlore_bounty
+name: Earthlore Bounty
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR020.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- guardian
+subtypes:
+- chest
+defense: '2'
+game_text: ! "Whenever you draw a card from the effect of an action card, create a
+  Seismic Surge token for each card drawn this way. \r\n\r\n**Temper** *(If you defend
+  with Earthlore Bounty, put a -1 [Defense] counter on it when the combat chain closes
+  then destroy it if it has 0 [Defense].)*"

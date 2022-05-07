@@ -1,0 +1,21 @@
+---
+key: MON139
+card_key: deadwood_rumbler_yellow
+name: Deadwood Rumbler
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON139.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- brute
+- shadow
+subtypes:
+- attack
+attack: '7'
+cost: '3'
+resources: '2'
+game_text: ! |-
+  Draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, banish a card from a graveyard.
+
+  Blood Debt (At the beginning of your end phase, if Deadwood Rumbler is in your banished zone, lose 1[Life].)

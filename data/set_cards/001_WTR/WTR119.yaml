@@ -1,0 +1,22 @@
+---
+key: WTR119
+card_key: steelblade_supremacy_red
+name: Steelblade Supremacy
+set: WTR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/119.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- warrior
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Dorinthea Specialization** *(You may only have Steelblade Supremacy in your deck if your hero is Dorinthea.)*
+
+  Until end of turn, target weapon gains +2[attack] and "Whenever this weapon hits, draw a card."
+
+  **Go again**
+specialization: Dorinthea

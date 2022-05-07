@@ -1,0 +1,19 @@
+---
+key: ARC026
+card_key: zero_to_sixty_red
+name: Zero to Sixty
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/26.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- attack
+attack: '4'
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Boost** *(As an additional cost to play Zero to Sixty, you may banish the top card of your deck. If it's a Mechanologist card, Zero to Sixty gains **go again**.)*

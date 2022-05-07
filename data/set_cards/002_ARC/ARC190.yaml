@@ -1,0 +1,19 @@
+---
+key: ARC190
+card_key: push_the_point_blue
+name: Push the Point
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/190.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '2'
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  If the last attack on this combat chain hit, Push the Point gains +2[attack].

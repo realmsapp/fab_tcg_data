@@ -1,0 +1,21 @@
+---
+key: ARC191
+card_key: ravenous_rabble_red
+name: Ravenous Rabble
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/191.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '5'
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Reveal the top card of your deck. Ravenous Rabble gets [-X attack], where X is the pitch value of the card revealed this way.
+
+  **Go again**

@@ -1,0 +1,16 @@
+---
+key: ELE184
+card_key: lightning_press_yellow
+name: Lightning Press
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE184.png?w=350&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- lightning
+
+cost: '0'
+resources: '2'
+game_text: ! |-
+  Target attack action card with cost 1 or less gains +2 [Power].

@@ -1,0 +1,22 @@
+---
+key: ELE226
+card_key: sting_of_sorcery_blue
+name: Sting of Sorcery
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE226.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- aura
+cost: '0'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  **Go again**
+
+  Attack action cards you control gain "When you attack with this, deal 1 arcane damage to target hero."
+
+  At the beginning of your end phase, destroy Sting of Sorcery.

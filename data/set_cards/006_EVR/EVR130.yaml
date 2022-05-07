@@ -1,0 +1,18 @@
+---
+key: EVR130
+card_key: pry_blue
+name: Pry
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR130.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Target hero reveals a card from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
+
+  You may choose a card revealed this way. If you do, that hero puts it on the bottom of their deck then draws a card.

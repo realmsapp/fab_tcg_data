@@ -1,0 +1,17 @@
+---
+key: MON221
+card_key: ravenous_meataxe
+name: Ravenous Meataxe
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON221.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- brute
+
+attack: '3'
+game_text: ! |-
+  Once per Turn Action - [2 Resource]: Attack
+
+  Whenever you attack with Ravenous Meataxe, draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, Ravenous Meataxe gains +2 [Power] until end of turn.

@@ -1,0 +1,19 @@
+---
+key: CRU056
+card_key: herons_flight_red
+name: Heron's Flight
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/56.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Combo** - If Crane Dance was the last attack this combat chain, Heron's Flight gains +2[attack] and you choose attack action or 'non-attack' action. Heron's Flight can only be defended by cards of that type.

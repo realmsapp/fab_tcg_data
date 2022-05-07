@@ -1,0 +1,17 @@
+---
+key: WTR051
+card_key: staunch_response_red
+name: Staunch Response
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/51.png?w=300&fit=clip&auto=compress
+card_type: defense_reaction
+supertypes:
+- guardian
+
+cost: '2'
+defense: '7'
+resources: '1'
+game_text: ! |-
+  As an additional cost to play Staunch Response, you may pay [4 resource]. If you do, Staunch Response gains +3[defense].

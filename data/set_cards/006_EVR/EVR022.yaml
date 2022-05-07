@@ -1,0 +1,17 @@
+---
+key: EVR022
+card_key: imposing_visage_blue
+name: Imposing Visage
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR022.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- guardian
+
+cost: '0'
+defense: '3'
+resources: '3'
+game_text: ! "Search your deck for an aura card with cost X or less, put it into the
+  arena, then shuffle.\r\n\r\n**Go again**"

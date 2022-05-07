@@ -1,0 +1,22 @@
+---
+key: MON015
+card_key: herald_of_protection_yellow
+name: Herald of Protection
+set: MON
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON015.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- illusionist
+- light
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  If Herald of Protection hits, put it into your hero's soul and create a Spectral Shield token. (It's an Illusionist aura with "If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.")
+
+  Phantasm (If Herald of Protection is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Herald of Protection and close the combat chain.)

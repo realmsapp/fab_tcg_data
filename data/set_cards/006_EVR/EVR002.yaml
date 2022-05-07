@@ -1,0 +1,19 @@
+---
+key: EVR002
+card_key: swing_big_red
+name: Swing Big
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR002.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- brute
+subtypes:
+- attack
+attack: '8'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.

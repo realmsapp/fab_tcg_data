@@ -1,0 +1,22 @@
+---
+key: MON162
+card_key: dimenxxional_gateway_red
+name: Dimenxxional Gateway
+set: MON
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON162.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- shadow
+
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  Opt 3 (Look at the top 3 cards of your deck. You may put them on the top and/or bottom in any order.)
+
+  Reveal the top card of your deck. If it's a Runeblade card, deal 1 arcane damage to each opposing hero. If it's a Shadow card, you may banish it.
+
+  Go again

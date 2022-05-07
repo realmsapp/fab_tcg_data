@@ -1,0 +1,18 @@
+---
+key: EVR188
+card_key: talisman_of_balance_blue
+name: Talisman of Balance
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR188.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! "**Go again**\r\n\r\nAt the beginning of your end phase, if you have
+  less cards in arsenal than an opposing hero, destroy Talisman of Balance and put
+  the top card of your deck into an empty arsenal zone you control."

@@ -1,0 +1,19 @@
+---
+key: ARC029
+card_key: zipper_hit_red
+name: Zipper Hit
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/29.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- mechanologist
+subtypes:
+- attack
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Boost** *(As an additional cost to play Zipper Hit, you may banish the top card of your deck. If it's a Mechanologist card, Zipper Hit gains **go again**.)*

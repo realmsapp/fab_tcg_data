@@ -1,0 +1,21 @@
+---
+key: MON158
+card_key: invert_existence_blue
+name: 'Invert Existence '
+set: MON
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON158.png?w=300&fit=clip&auto=compress
+card_type: instant
+supertypes:
+- runeblade
+- shadow
+
+cost: '1'
+resources: '3'
+game_text: ! |-
+  You may play Invert Existence from your banished zone.
+
+  Banish up to 2 cards in an opposing hero's graveyard. If an attack action card and a 'non-attack' action card are banished this way, deal 2 arcane damage to that hero.
+
+  Blood Debt (At the beginning of your end phase, if Invert Existence is in your banished zone, lose 1[Life].)

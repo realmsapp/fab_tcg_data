@@ -1,0 +1,20 @@
+---
+key: ELE089
+card_key: inspire_lightning_yellow
+name: Inspire Lightning
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE089.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- elemental
+
+cost: '1'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  **Lightning Fusion** *(As an additional cost to play Inspire Lightning, you may reveal a Lightning card from your hand.)*
+
+  If Inspire Lightning was **fused**, deal 2 arcane damage to target hero.

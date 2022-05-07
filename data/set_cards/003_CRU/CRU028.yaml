@@ -1,0 +1,22 @@
+---
+key: CRU028
+card_key: stamp_authority_blue
+name: Stamp Authority
+set: CRU
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/28.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- aura
+cost: '3'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  When Stamp Authority enters the arena, if you have 2 or more cards in your pitch zone with cost 3 or greater, your hero gains +1[intellect] until end of turn.
+
+  While Stamp Authority is in the arena, attack action card effects do not trigger when they hit.
+
+  At the beginning of your action phase, destroy Stamp Authority.

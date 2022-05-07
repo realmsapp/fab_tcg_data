@@ -1,0 +1,19 @@
+---
+key: CRU170
+card_key: foreboding_bolt_blue
+name: Foreboding Bolt
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/170.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  Deal 1 arcane damage to target hero.
+
+  **Opt 1** *(Look at the top card of your deck. You may put it on the bottom.)*

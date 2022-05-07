@@ -1,0 +1,21 @@
+---
+key: ELE100
+card_key: entwine_lightning_red
+name: Entwine Lightning
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE100.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- elemental
+subtypes:
+- attack
+attack: '4'
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  **Lightning Fusion** *(As an additional cost to play Entwine Lightning, you may reveal a Lightning card from your hand.)*
+
+  If Entwine Lightning was **fused**, it gains **go again**.

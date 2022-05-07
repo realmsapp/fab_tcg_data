@@ -1,0 +1,17 @@
+---
+key: WTR172
+card_key: timesnap_potion_blue
+name: Timesnap Potion
+set: WTR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/172.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+cost: '0'
+resources: '3'
+game_text: ! |-
+  **Action** - Destroy Timesnap Potion: Gain 2 action points.

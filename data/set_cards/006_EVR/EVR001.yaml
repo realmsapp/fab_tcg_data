@@ -1,0 +1,18 @@
+---
+key: EVR001
+card_key: skull_crushers
+name: Skull Crushers
+set: EVR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR001.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- brute
+subtypes:
+- arms
+defense: '1'
+game_text: ! "Whenever you roll a 5 or 6 on a die, your Brute attacks gain +1 [Power]
+  this turn.\r\n\r\nWhenever you roll a 1 on a die, destroy Skull Crushers.\r\n\r\n**Battleworn**
+  *(If you defend with Skull Crushers, put a -1 [Defense] counter on it when the combat
+  chain closes.)*"

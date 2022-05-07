@@ -1,0 +1,17 @@
+---
+key: ARC142
+card_key: scalding_rain_yellow
+name: Scalding Rain
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/142.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  Deal 3 arcane damage to target hero.

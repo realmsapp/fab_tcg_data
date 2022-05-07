@@ -1,0 +1,23 @@
+---
+key: ELE056
+card_key: flake_out_red
+name: Flake Out
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE056.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+- elemental
+
+attack: '5'
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  *(Arrows can only be played from arsenal and only if you control a bow.)*
+
+  **Ice Fusion** *(As an additional cost to play Flake Out, you may reveal an Ice card from your hand.)*
+
+  If Flake Out was **fused**, it gains **dominate**. *(The defending hero can't defend Flake Out with more than 1 card from their hand.)*

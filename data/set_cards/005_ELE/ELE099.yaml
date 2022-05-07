@@ -1,0 +1,21 @@
+---
+key: ELE099
+card_key: entwine_ice_blue
+name: Entwine Ice
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE099.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- elemental
+subtypes:
+- attack
+attack: '3'
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  **Ice Fusion** *(As an additional cost to play Entwine Ice, you may reveal an Ice card from your hand.)*
+
+  If Entwine Ice was **fused**, it gains **dominate**. *(The defending hero can't defend Entwine Ice with more than 1 card from their hand.)*

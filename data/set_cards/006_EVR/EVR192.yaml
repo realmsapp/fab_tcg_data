@@ -1,0 +1,18 @@
+---
+key: EVR192
+card_key: talisman_of_tithes_blue
+name: Talisman of Tithes
+set: EVR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR192.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- item
+resources: '3'
+game_text: ! |-
+  Go again
+
+  If an opponent would draw 1 or more cards during your action phase, instead destroy Talisman of Tithes and they draw that many cards minus 1.

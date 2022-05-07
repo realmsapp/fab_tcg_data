@@ -1,0 +1,21 @@
+---
+key: ARC182
+card_key: fervent_forerunner_red
+name: Fervent Forerunner
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/182.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+attack: '3'
+cost: '0'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  If Fervent Forerunner hits, **opt 2**. *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
+
+  If Fervent Forerunner is played from arsenal, it gains **go again**.

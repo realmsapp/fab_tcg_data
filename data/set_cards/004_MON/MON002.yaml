@@ -1,0 +1,18 @@
+---
+key: MON002
+card_key: prism
+name: Prism
+set: MON
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/MON002.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- illusionist
+- light
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  Once per Turn Instant - [2 Resource], banish a card from Prism's soul: Create a Spectral Shield token. (It's an Illusionist aura with "If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.")

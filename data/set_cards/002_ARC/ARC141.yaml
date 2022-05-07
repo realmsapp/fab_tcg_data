@@ -1,0 +1,17 @@
+---
+key: ARC141
+card_key: scalding_rain_red
+name: Scalding Rain
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/141.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Deal 4 arcane damage to target hero.

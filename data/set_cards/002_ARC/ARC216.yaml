@@ -1,0 +1,19 @@
+---
+key: ARC216
+card_key: whisper_of_the_oracle_yellow
+name: Whisper of the Oracle
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/216.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Opt 3** (Look at the top 3 cards of your deck. You may put them on the top and/or bottom in any order.)
+
+  **Go again**

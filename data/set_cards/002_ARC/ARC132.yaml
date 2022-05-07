@@ -1,0 +1,19 @@
+---
+key: ARC132
+card_key: aether_flare_red
+name: Aether Flare
+set: ARC
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/132.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- wizard
+
+cost: '1'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  Deal 3 arcane damage to target opposing hero.
+
+  The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage, plus X, where X is the damage dealt by Aether Flare.

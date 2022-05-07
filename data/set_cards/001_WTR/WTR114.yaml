@@ -1,0 +1,17 @@
+---
+key: WTR114
+card_key: dorinthea
+name: Dorinthea
+set: WTR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/114.png?w=300&fit=clip&auto=compress
+card_type: hero
+supertypes:
+- warrior
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  **Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.

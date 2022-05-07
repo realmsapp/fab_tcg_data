@@ -1,0 +1,21 @@
+---
+key: EVR112
+card_key: drowning_dire_blue
+name: Drowning Dire
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR112.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- runeblade
+subtypes:
+- attack
+attack: '3'
+cost: '2'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  If you have played or created an aura this turn, Drowning Dire gains dominate. (The defending hero can't defend Drowning Dire with more than 1 card from their hand.)
+
+  When Drowning Dire hits, you may put a 'non-attack' action card from your graveyard on the bottom of your deck.

@@ -1,0 +1,22 @@
+---
+key: ELE208
+card_key: embolden_blue
+name: Embolden
+set: ELE
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE208.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- guardian
+subtypes:
+- aura
+cost: '4'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  **Go again**
+
+  When Embolden enters the arena, if you control another non-token aura, draw a card.
+
+  At the beginning of your action phase, destroy Embolden then the next Guardian attack action card you play this turn gains +3 [Power].

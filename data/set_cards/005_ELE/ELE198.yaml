@@ -1,0 +1,21 @@
+---
+key: ELE198
+card_key: electrify_red
+name: Electrify
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE198.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- lightning
+
+cost: '1'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  The next time an attack action card hits a hero this turn, it deals 3 damage to them.
+
+  If Electrify is played from arsenal, draw a card.
+
+  **Go again**

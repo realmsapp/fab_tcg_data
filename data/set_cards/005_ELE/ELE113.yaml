@@ -1,0 +1,23 @@
+---
+key: ELE113
+card_key: pulse_of_candlehold_yellow
+name: Pulse of Candlehold
+set: ELE
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE113.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- earth
+- lightning
+
+cost: '0'
+defense: '3'
+resources: '2'
+game_text: ! |-
+  **Legendary** *(You may only have 1 Pulse of Candlhold in your deck.)*
+
+  Put up to 2 target Earth, Lightning and/or Elemental action cards from your graveyard on top of your deck. Banish Pulse of Candlhold.
+
+  **Go again**
+legendary: true

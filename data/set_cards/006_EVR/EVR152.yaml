@@ -1,0 +1,19 @@
+---
+key: EVR152
+card_key: veiled_intentions_blue
+name: Veiled Intentions
+set: EVR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/EVR152.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+
+cost: '1'
+defense: '2'
+resources: '3'
+game_text: ! |-
+  The next attack action card you play this turn is IIlustionist in addition to its other card types, and gains +2[Power], phantasm, and "When this this is destroyed, draw a card."
+
+  Go again

@@ -1,0 +1,17 @@
+---
+key: CRU048
+card_key: harmonized_kodachi
+name: Harmonized Kodachi
+set: CRU
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/cru/48.png?w=300&fit=clip&auto=compress
+card_type: weapon
+supertypes:
+- ninja
+
+attack: '1'
+game_text: ! |-
+  **Once per Turn Action** - [resource]: Attack
+
+  If you have a card in your pitch zone with cost 0, Harmonized Kodachi gains **go again**.

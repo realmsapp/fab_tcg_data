@@ -1,0 +1,24 @@
+---
+key: ARC167
+card_key: enchanting_melody_red
+name: Enchanting Melody
+set: ARC
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/arc/167.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+subtypes:
+- aura
+cost: '2'
+defense: '2'
+resources: '1'
+game_text: ! |-
+  *(Auras stay in the arena yntil they are destroyed.)*
+
+  **Go again**
+
+  If you would be dealt damage, instead destroy Enchanting Melody and prevent 4 of that damage.
+
+  At the beginning of your end phase, destroy Enchanting Melody unless you have played a 'non-attack' action card this turn.

@@ -1,0 +1,19 @@
+---
+key: WTR222
+card_key: sloggism_yellow
+name: Sloggism
+set: WTR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/wtr/222.png?w=300&fit=clip&auto=compress
+card_type: action
+supertypes:
+- generic
+
+cost: '3'
+defense: '2'
+resources: '2'
+game_text: ! |-
+  The next attack action card with cost [2 resource] or greater you play this turn gains +5[attack].
+
+  **Go again**

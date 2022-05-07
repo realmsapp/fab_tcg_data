@@ -1,0 +1,24 @@
+---
+key: ELE079
+card_key: rites_of_replenishment_red
+name: Rites of Replenishment
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE079.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- runeblade
+- elemental
+subtypes:
+- attack
+attack: '6'
+cost: '2'
+defense: '3'
+resources: '1'
+game_text: ! |-
+  **Earth Fusion** *(As an additional cost to play Rites of Replenishment, you may reveal an Earth card from your hand.)*
+
+  When you attack with Rites of Replenishment, if you have dealt arcane damage this turn, you may put a 'non-attack' action card from your graveyard on the bottom of your deck.
+
+  When you attack with Rites of Replenishment, if it was **fused**, you may put an attack action card from your graveyard on the bottom of your deck.

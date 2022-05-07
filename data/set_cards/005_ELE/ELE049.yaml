@@ -1,0 +1,23 @@
+---
+key: ELE049
+card_key: buzz_bolt_blue
+name: Buzz Bolt
+set: ELE
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/ELE049.png?w=350&fit=clip&auto=compress
+card_type: action
+supertypes:
+- ranger
+- elemental
+
+attack: '3'
+cost: '1'
+defense: '3'
+resources: '3'
+game_text: ! |-
+  *(Arrows can only be played from arsenal and only if you control a bow.)*
+
+  **Lightning Fusion** *(As an additional cost to play Buzz Bolt, you may reveal a Lightning card from your hand.)*
+
+  If Buzz Bolt was **fused**, whenever an attack hits a hero this turn, it deals 1 damage to them.
