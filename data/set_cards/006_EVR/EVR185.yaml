@@ -1,7 +1,7 @@
 ---
 key: EVR185
-card_key: potion_of_d_j_vu_blue
-name: Potion of D j  Vu
+card_key: potion_of_deja_vu_blue
+name: Potion of Déjà Vu
 set: EVR
 rarity: rare
 artist: unknown
@@ -14,4 +14,4 @@ subtypes:
 cost: '0'
 resources: '3'
 game_text: ! |-
-  **Instant** - Destroy Potion of D j  Vu: Put all cards from your pitch zone on top of your deck in any order. *(Opponents don't get to see the order of the cards.)*
+  **Instant** - Destroy Potion of Déjà Vu: Put all cards from your pitch zone on top of your deck in any order. *(Opponents don't get to see the order of the cards.)*
