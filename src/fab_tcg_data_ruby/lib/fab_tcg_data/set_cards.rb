@@ -112,7 +112,7 @@ module FabTcgData
         Lookup.load("set_cards/**/#{key}.yaml") do |item|
           begin
             set_card = SetCard.load(item)
-          rescue => e
+          rescue StandardError => e
             raise ParseError, item.inspect
           end
           _cache[key] = set_card
