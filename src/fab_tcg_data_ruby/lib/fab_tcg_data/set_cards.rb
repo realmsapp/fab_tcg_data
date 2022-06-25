@@ -2,6 +2,26 @@
 
 module FabTcgData
   module SetCards
+    class Variant
+      def self.load(set_card_key, item)
+        Variant.new(
+          set_card_key:,
+          finish: PrintFinishes.fetch(item.fetch("finish")),
+          printing: SetPrintings.fetch(item.fetch("printing")),
+        )
+      end
+
+      include ValueSemantics.for_attributes {
+        set_card_key
+        printing
+        finish
+      }
+
+      def key
+        [printing.key, set_card_key, finish.code].compact.join("-")
+      end
+    end
+
     class SetCard
       def self.load(item)
         SetCard.new(
@@ -33,6 +53,7 @@ module FabTcgData
           legendary?: item.fetch(:legendary, false),
           specialization: item.fetch(:specialization, "none"),
 
+          variants: item.fetch(:variants, []).map { |k| Variant.load(item.fetch(:key), k) },
           print_finishes: item.fetch(:print_feature_keys, []),
           print_features: item.fetch(:print_finish_keys, []),
         )
@@ -72,6 +93,7 @@ module FabTcgData
         specialization String, default: nil # TODO
 
         # Printing
+        variants ArrayOf(Variant), default: []
         print_finishes ArrayOf(PrintFinishes::PrintFinish), default: []
         print_features ArrayOf(PrintFeatures::PrintFeature), default: []
       }
@@ -102,6 +124,7 @@ module FabTcgData
           specialization:,
           print_finishes: print_finishes.map(&:key),
           print_features: print_features.map(&:key),
+          variants: variants.map(&:key),
         }.reject { |_a, b| b.blank? }.to_h
       end
     end

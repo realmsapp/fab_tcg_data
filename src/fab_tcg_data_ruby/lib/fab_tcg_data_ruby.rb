@@ -20,6 +20,7 @@ require "fab_tcg_data/card_types"
 require "fab_tcg_data/supertypes"
 require "fab_tcg_data/subtypes"
 require "fab_tcg_data/keywords"
+require "fab_tcg_data/set_printings"
 require "fab_tcg_data/set_cards"
 
 module FabTcgData

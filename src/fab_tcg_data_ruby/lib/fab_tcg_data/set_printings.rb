@@ -1,22 +1,22 @@
 # frozen_string_literal: true
 
 module FabTcgData
-  module PrintFinishes
+  module SetPrintings
     include Concerns::OptionList
 
-    class PrintFinish
+    class SetPrinting
       include ValueSemantics.for_attributes {
         key String
         name String
-        code Either(nil, String)
+        language String
       }
     end
 
-    ALL = Lookup.load("print_finishes.yaml") do |item|
-      PrintFinish.new(
-        key: item.fetch(:print_finish_key),
+    ALL = Lookup.load("set_printings.yaml") do |item|
+      SetPrinting.new(
+        key: item.fetch(:key),
         name: item.fetch(:name),
-        code: item.fetch(:code),
+        language: item.fetch(:language),
       )
     end
 

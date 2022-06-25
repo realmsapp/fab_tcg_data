@@ -1,16 +1,10 @@
 - key: WTR
   name: Welcome to Rathe Alpha
   date_printed: 2019-08-01
-  printed_in: Belgium
   language: en
-  out_of_print: true
-  size: 16_700 Displays
 
 - key: U-WTR
   name: Welcome to Rathe Unlimited
   date_printed: 2020-09-01
-  printed_in: Belgium & Japan
   language: en
-  out_of_print: true
-  size: TBA
 
