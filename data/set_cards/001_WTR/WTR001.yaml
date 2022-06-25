@@ -13,3 +13,8 @@ intellect: '4'
 life: '40'
 game_text: ! |-
   When you discard a card with 6 or more [attack] during your action phase, *intimidate*.
+printings:
+- key: U-WTR001
+  printing: WTR
+  finishes:
+  - normal
