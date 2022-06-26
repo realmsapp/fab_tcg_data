@@ -3,6 +3,9 @@
   release_key: WTR
   kind: booster_set
   name: Welcome to Rathe - Booster Set
+  printing_keys:
+  - WTR
+  - U-WTR
 
 - set_key: TEA
   release_key: WTR

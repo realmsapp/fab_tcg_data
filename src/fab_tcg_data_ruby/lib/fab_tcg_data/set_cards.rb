@@ -18,7 +18,10 @@ module FabTcgData
       }
 
       def key
-        [printing.key, set_card_key, finish.code].compact.join("-")
+        @key ||= [
+          [printing.key, set_card_key.slice(3..)].join,
+          finish.code,
+        ].join("-")
       end
     end
 
@@ -54,8 +57,6 @@ module FabTcgData
           specialization: item.fetch(:specialization, "none"),
 
           variants: item.fetch(:variants, []).map { |k| Variant.load(item.fetch(:key), k) },
-          print_finishes: item.fetch(:print_feature_keys, []),
-          print_features: item.fetch(:print_finish_keys, []),
         )
       end
 
@@ -94,8 +95,6 @@ module FabTcgData
 
         # Printing
         variants ArrayOf(Variant), default: []
-        print_finishes ArrayOf(PrintFinishes::PrintFinish), default: []
-        print_features ArrayOf(PrintFeatures::PrintFeature), default: []
       }
 
       def attributes
@@ -122,10 +121,16 @@ module FabTcgData
           essences: essences.map(&:key),
           legendary?: legendary?,
           specialization:,
-          print_finishes: print_finishes.map(&:key),
-          print_features: print_features.map(&:key),
           variants: variants.map(&:key),
         }.reject { |_a, b| b.blank? }.to_h
+      end
+
+      def printed_variants
+        set.printings.each_with_object([]) do |printing, memo|
+          printing.finishes_for(self).each do |finish|
+            memo << Variant.new(set_card_key: key, finish:, printing:)
+          end
+        end
       end
     end
 

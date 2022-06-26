@@ -10,6 +10,7 @@ module FabTcgData
         name String
         kind String
         release_key String
+        printings ArrayOf(SetPrintings::SetPrinting), default: []
       }
     end
 
@@ -19,6 +20,9 @@ module FabTcgData
         name: item.fetch(:name),
         kind: item.fetch(:kind),
         release_key: item.fetch(:release_key),
+        printings: item.fetch(:printing_keys, []).map do |printing_key|
+          SetPrintings.fetch(printing_key)
+        end
       )
     end
 

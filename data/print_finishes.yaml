@@ -1,6 +1,6 @@
 ---
 - print_finish_key: regular
-  name: Regular
+  name: Normal
   code: null
 
 - print_finish_key: rainbow_foil

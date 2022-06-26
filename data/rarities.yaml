@@ -11,10 +11,6 @@
   name: Rare
   symbol: R
 
-- rarity_key: rare
-  name: Rare
-  symbol: R
-
 - rarity_key: super_rare
   name: Super Rare
   symbol: S
