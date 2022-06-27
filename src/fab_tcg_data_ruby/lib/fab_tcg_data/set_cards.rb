@@ -2,6 +2,12 @@
 
 module FabTcgData
   module SetCards
+    class Persona
+      include ValueSemantics.for_attributes {
+        key
+      }
+    end
+
     class Variant
       def self.load(set_card_key, item)
         Variant.new(
@@ -54,9 +60,13 @@ module FabTcgData
           keywords: item.fetch(:keywords, []).map { |k| Keywords.fetch(k) },
           essences: item.fetch(:essences, []).map { |k| Supertypes.fetch(k) },
           legendary?: item.fetch(:legendary, false),
-          specialization: item.fetch(:specialization, "none"),
-
+          specializations: item.fetch(:specializations) do
+            Array.wrap(item.fetch(:specialization, [])).map { |k| Persona.new(key: k) }
+          end,
           variants: item.fetch(:variants, []).map { |k| Variant.load(item.fetch(:key), k) },
+          position: item.fetch(:position, item.key?(:back_key) ? "back" : "front"),
+          front_key: item.fetch(:front_key, nil),
+          back_key: item.fetch(:back_key, nil),
         )
       end
 
@@ -91,16 +101,22 @@ module FabTcgData
         keywords ArrayOf(Keywords::Keyword), default: []
         essences ArrayOf(Supertypes::Supertype), default: []
         legendary? Bool(), default: false
-        specialization String, default: nil # TODO
+        specializations ArrayOf(Persona), default: []
 
         # Printing
         variants ArrayOf(Variant), default: []
+        position Either("front", "back"), default: "front"
+        front_key Either(String, nil), default: nil
+        back_key Either(String, nil), default: nil
       }
 
       def attributes
         {
           key:,
           card_key:,
+          front_key:,
+          back_key:,
+          position:,
           name:,
           set: set.key,
           rarity: rarity.key,
@@ -120,7 +136,7 @@ module FabTcgData
           keywords: keywords.map(&:key),
           essences: essences.map(&:key),
           legendary?: legendary?,
-          specialization:,
+          specializations: specializations.map(&:key),
           variants: variants.map(&:key),
         }.reject { |_a, b| b.blank? }.to_h
       end
@@ -130,6 +146,33 @@ module FabTcgData
           printing.finishes_for(self).each do |finish|
             memo << Variant.new(set_card_key: key, finish:, printing:)
           end
+        end
+      end
+
+      def to_realms_yaml
+        data = attributes
+        data[:game_text] = LiteralScalar.new(data[:game_text]) if data[:game_text].present?
+        data[:flavor_text] = LiteralScalar.new(data[:flavor_text]) if data[:flavor_text].present?
+        data.delete(:specialization) if data[:specialization] == "none"
+        data.delete(:position) if data[:position] == "front"
+        YAML.dump(data.stringify_keys)
+      end
+
+      class LiteralScalar
+        attr_reader :str
+
+        def initialize(str)
+          @str = str
+        end
+
+        def blank?
+          str.blank?
+        end
+
+        def encode_with(coder)
+          coder.style = Psych::Nodes::Scalar::LITERAL
+          coder.scalar = str
+          coder.tag = nil
         end
       end
     end
