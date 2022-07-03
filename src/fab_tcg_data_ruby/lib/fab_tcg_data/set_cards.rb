@@ -9,12 +9,14 @@ module FabTcgData
     end
 
     class Variant
-      def self.load(set_card_key, item)
-        Variant.new(
-          set_card_key:,
-          finish: PrintFinishes.fetch(item.fetch("finish")),
-          printing: SetPrintings.fetch(item.fetch("printing")),
-        )
+      def self.load(set_card_key, key)
+        printing = SetPrintings::ALL.values.find do |sp|
+          key.starts_with?(sp.key)
+        end
+        finish = PrintFinishes::ALL.values.find(-> { PrintFinishes.fetch("regular") }) do |f|
+          key.ends_with?("-#{f.code}")
+        end
+        Variant.new(set_card_key:, finish:, printing:)
       end
 
       include ValueSemantics.for_attributes {
@@ -25,9 +27,9 @@ module FabTcgData
 
       def key
         @key ||= [
-          [printing.key, set_card_key.slice(3..)].join,
+          [printing.key, set_card_key.slice(3..)].compact.join,
           finish.code,
-        ].join("-")
+        ].compact.join("-")
       end
     end
 
@@ -35,7 +37,6 @@ module FabTcgData
       def self.load(item)
         SetCard.new(
           key: item.fetch(:key),
-          card_key: item.fetch(:name).gsub(/[^\p{L}]|[1-9]/, " ").squish.gsub(/\s/, "_").downcase,
           set: Sets.fetch(item.fetch(:key).slice(0...3)),
 
           rarity: Rarities.fetch(item.fetch(:rarity)),
@@ -72,7 +73,6 @@ module FabTcgData
 
       include ValueSemantics.for_attributes {
         key String
-        card_key String
         name String
 
         set Sets::Set
@@ -110,6 +110,26 @@ module FabTcgData
         back_key Either(String, nil), default: nil
       }
 
+      def name_slug
+        @name_slug ||= name.gsub(/[^\p{L}]|[1-9]/, " ").squish.gsub(/\s/, "_").downcase
+      end
+
+      def color
+        @color ||= begin
+          case resources
+          when "3" then "blue"
+          when "2" then "yellow"
+          when "1" then "red"
+          else
+            nil
+          end
+        end
+      end
+
+      def card_key
+        @card_key ||= [name_slug, color].compact.join("-")
+      end
+
       def attributes
         {
           key:,
@@ -135,7 +155,7 @@ module FabTcgData
           flavor_text:,
           keywords: keywords.map(&:key),
           essences: essences.map(&:key),
-          legendary?: legendary?,
+          legendary: legendary?,
           specializations: specializations.map(&:key),
           variants: variants.map(&:key),
         }.reject { |_a, b| b.blank? }.to_h
@@ -153,8 +173,10 @@ module FabTcgData
         data = attributes
         data[:game_text] = LiteralScalar.new(data[:game_text]) if data[:game_text].present?
         data[:flavor_text] = LiteralScalar.new(data[:flavor_text]) if data[:flavor_text].present?
+        data[:variants] = printed_variants.map(&:key)
         data.delete(:specialization) if data[:specialization] == "none"
         data.delete(:position) if data[:position] == "front"
+        data.delete(:card_key)
         YAML.dump(data.stringify_keys)
       end
 

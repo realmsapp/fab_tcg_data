@@ -7,3 +7,14 @@ RSpec::Core::RakeTask.new(:spec) do |t|
 end
 
 task default: :spec
+
+require "fab_tcg_data_ruby"
+require "debug"
+
+task :generate do
+  card_files = Dir[FabTcgData::Lookup.root_path + "/data/set_cards/**/*.yaml"]
+  [FabTcgData::SetCards.fetch("WTR000")].each do |card|
+    path = card_files.find { |a| a.include?("#{card.key}.yaml") }
+    File.write(path, card.to_realms_yaml)
+  end
+end

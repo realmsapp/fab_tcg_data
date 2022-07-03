@@ -33,7 +33,7 @@ module FabTcgData
         finishes = Set.new
         case card.rarity.key
         when "token"
-          finishes.add(PrintFinishes.fetch("normal"))
+          finishes.add(PrintFinishes.fetch("regular"))
         when "fabled", "legendary"
           finishes.add(PrintFinishes.fetch("rainbow_foil"))
         else
@@ -49,7 +49,7 @@ module FabTcgData
         finishes = Set.new
         case card.rarity.key
         when "token"
-          finishes.add(PrintFinishes.fetch("normal"))
+          finishes.add(PrintFinishes.fetch("regular"))
         when "fabled", "legendary"
           finishes.add(PrintFinishes.fetch("cold_foil"))
         else
