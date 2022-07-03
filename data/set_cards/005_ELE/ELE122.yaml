@@ -1,6 +1,5 @@
 ---
 key: ELE122
-card_key: weave_earth_red
 name: Weave Earth
 set: ELE
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE122.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - earth
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   The next Earth or Elemental attack action card you play this turn gains +3 [Power]. If it's **fused**, instead it gains +4 [Power].
 

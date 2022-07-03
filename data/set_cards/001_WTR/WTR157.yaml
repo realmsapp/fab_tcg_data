@@ -1,6 +1,5 @@
 ---
 key: WTR157
-card_key: ironrot_gauntlet
 name: Ironrot Gauntlet
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '1'
 game_text: ! |-
   **Blade break** *(If you defend with Ironrot Gauntlet, destroy it when the combat chain closes.)*
+variants:
+- WTR157
+- WTR157-RF
+- U-WTR157
+- U-WTR157-RF

@@ -1,6 +1,5 @@
 ---
 key: WTR191
-card_key: scar_for_a_scar_red
 name: Scar for a Scar
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '2'
 game_text: ! |-
   When you play Scar for a Scar, if you have less [life] than your opponent, it gains **go again**.
+variants:
+- WTR191
+- WTR191-RF
+- U-WTR191
+- U-WTR191-RF

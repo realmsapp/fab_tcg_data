@@ -1,6 +1,5 @@
 ---
 key: WTR104
-card_key: rising_knee_thrust_red
 name: Rising Knee Thrust
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '3'
+defense: '3'
 game_text: ! |-
   **Combo** If Leg Tap was the last attack this combat chain, Rising Knee Thrust gains +2[attack] and **go again**.
+variants:
+- WTR104
+- WTR104-RF
+- U-WTR104
+- U-WTR104-RF

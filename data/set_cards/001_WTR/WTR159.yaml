@@ -1,6 +1,5 @@
 ---
 key: WTR159
-card_key: enlightened_strike_red
 name: Enlightened Strike
 set: WTR
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '5'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '5'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Enlightened Strike, put a card from your hand on the bottom of your deck.
 
@@ -23,3 +22,8 @@ game_text: ! |-
   * Draw a card.
   * Enlightened strike gains +2[attack].
   * Enlightened strike gains **go again**.
+variants:
+- WTR159
+- WTR159-RF
+- U-WTR159
+- U-WTR159-RF

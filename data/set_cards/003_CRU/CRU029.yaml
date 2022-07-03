@@ -1,6 +1,5 @@
 ---
 key: CRU029
-card_key: towering_titan_red
 name: Towering Titan
 set: CRU
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '1'
 cost: '9'
 defense: '3'
-resources: '1'
 game_text: ! |-
   *(Auras stay in the arena until they are destroyed.)*
 

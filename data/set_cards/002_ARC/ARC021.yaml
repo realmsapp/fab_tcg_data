@@ -1,6 +1,5 @@
 ---
 key: ARC021
-card_key: over_loop_yellow
 name: Over Loop
 set: ARC
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If Over Loop hits, put it on the bottom of your deck.
 

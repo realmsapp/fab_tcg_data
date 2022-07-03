@@ -1,6 +1,5 @@
 ---
 key: WTR160
-card_key: tome_of_fyendal_yellow
 name: Tome of Fyendal
 set: WTR
 rarity: majestic
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/160.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
+resources: '2'
 cost: '1'
 defense: '2'
-resources: '2'
 game_text: ! |-
   Draw 2 cards.
 
   If Tome of Fyendal is played from arsenal, gain 1[life] for each card in your hand.
+variants:
+- WTR160
+- WTR160-RF
+- U-WTR160
+- U-WTR160-RF

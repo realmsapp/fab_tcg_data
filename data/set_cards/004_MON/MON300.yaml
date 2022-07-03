@@ -1,6 +1,5 @@
 ---
 key: MON300
-card_key: warmongers_recital_yellow
 name: Warmonger's Recital
 set: MON
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON300.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - generic
-
+resources: '2'
 cost: '1'
 defense: '2'
-resources: '2'
 game_text: ! |-
   The next attack action card you play this turn gains +2 [Power] and "If this hits, put it on the bottom of your deck."
 

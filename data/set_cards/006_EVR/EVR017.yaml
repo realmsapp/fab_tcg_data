@@ -1,6 +1,5 @@
 ---
 key: EVR017
-card_key: bravo_star_of_the_show
 name: Bravo, Star of the Show
 set: EVR
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - guardian
 - elemental
-
 intellect: '4'
 life: '40'
 game_text: ! "**Essence of Earth, Ice, and Lightning** *(You may have Earth, Ice,

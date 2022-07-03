@@ -1,6 +1,5 @@
 ---
 key: ELE112
-card_key: pulse_of_volthaven_red
 name: Pulse of Volthaven
 set: ELE
 rarity: majestic
@@ -10,9 +9,8 @@ card_type: instant
 supertypes:
 - lightning
 - ice
-
-cost: '0'
 resources: '1'
+cost: '0'
 game_text: ! |-
   **Legendary** *(You may only have 1 Pulse of Volthaven in your deck.)*
 

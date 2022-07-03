@@ -1,6 +1,5 @@
 ---
 key: WTR067
-card_key: debilitate_yellow
 name: Debilitate
 set: WTR
 rarity: common
@@ -11,10 +10,15 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '7'
-cost: '4'
-defense: '3'
 resources: '2'
+cost: '4'
+attack: '7'
+defense: '3'
 game_text: ! |2-
 
   **Crush** - If Debilitate does 4 or more damage to a hero, their first attack during their next turn has -2[attack].
+variants:
+- WTR067
+- WTR067-RF
+- U-WTR067
+- U-WTR067-RF

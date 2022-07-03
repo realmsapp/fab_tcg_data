@@ -4,13 +4,13 @@ name: Cold Snap
 set: UPR
 rarity: common
 artist: mateusz_wisniewski
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png
 card_type: action
 supertypes:
 - ice
 resources: '3'
 cost: '1'
 defense: '2'
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR149.width-450.png
 game_text: ! |-
   Target hero may pay {1:resource}. If they don't, **freeze** a
   card in their arsenal or an ally they control until

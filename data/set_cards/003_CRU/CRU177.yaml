@@ -1,6 +1,5 @@
 ---
 key: CRU177
-card_key: talishar_the_lost_prince
 name: Talishar, the Lost Prince
 set: CRU
 rarity: rare
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/177.png?w=300&fit=clip&auto=compre
 card_type: weapon
 supertypes:
 - generic
-
 attack: '4'
 game_text: ! "**Once per Turn action - [2 resource]**, put a rust token on Talishar,
   the Lost Prince: **Attack**\n\nAt the beginning of your end phase, if Talishar,

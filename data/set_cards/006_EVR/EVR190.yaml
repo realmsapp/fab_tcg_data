@@ -1,6 +1,5 @@
 ---
 key: EVR190
-card_key: talisman_of_featherfoot_yellow
 name: Talisman of Featherfoot
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '2'
+cost: '0'
 game_text: ! "**Go again**\r\n\r\nWhen an attack you control gains exactly +1 [Power]
   from an effect during the reaction step, destroy Talisman of Featherfoot and the
   attack gains **go again**."

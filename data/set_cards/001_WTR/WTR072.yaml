@@ -1,6 +1,5 @@
 ---
 key: WTR072
-card_key: stonewall_confidence_red
 name: Stonewall Confidence
 set: WTR
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '1'
 cost: '2'
 defense: '3'
-resources: '1'
 game_text: ! |
   *(Auras stay in the arena until they are destroyed.)*
 
@@ -22,3 +21,8 @@ game_text: ! |
   While Stonewall Confidence is in the arena, cards you control with cost [3 resource] or greater, gain +4[defense] while defending.
 
   At the beginning of your action phase, destroy Stonewall Confidence.
+variants:
+- WTR072
+- WTR072-RF
+- U-WTR072
+- U-WTR072-RF

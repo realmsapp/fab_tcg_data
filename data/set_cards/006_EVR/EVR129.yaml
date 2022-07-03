@@ -1,6 +1,5 @@
 ---
 key: EVR129
-card_key: pry_yellow
 name: Pry
 set: EVR
 rarity: common
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR129.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - wizard
-
-defense: '3'
 resources: '2'
+defense: '3'
 game_text: ! |-
   Target hero reveals 2 cards from their hand. If Pry is played during an opponents turn, instead they reveal all cards in their hand.
 

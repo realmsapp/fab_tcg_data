@@ -1,6 +1,5 @@
 ---
 key: CRU158
-card_key: kano_dracai_of_aether
 name: Kano, Dracai of Aether
 set: CRU
 rarity: common
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/158.png?w=300&fit=clip&auto=compre
 card_type: hero
 supertypes:
 - wizard
-
 intellect: '4'
 life: '30'
 game_text: ! |-

@@ -1,6 +1,5 @@
 ---
 key: WTR199
-card_key: regurgitating_slog_blue
 name: Regurgitating Slog
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '2'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '2'
 game_text: ! |-
   As an additional cost to play Regurgitating Slog, you may banish a card named Sloggism. If you do, Regurgitating Slog gains **dominate**. *(The defending hero can't defend Regurgitating Slog with more than 1 card from their hand.)*
+variants:
+- WTR199
+- WTR199-RF
+- U-WTR199
+- U-WTR199-RF

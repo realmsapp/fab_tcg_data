@@ -1,6 +1,5 @@
 ---
 key: WTR189
-card_key: raging_onslaught_yellow
 name: Raging Onslaught
 set: WTR
 rarity: common
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '6'
-cost: '3'
-defense: '3'
 resources: '2'
+cost: '3'
+attack: '6'
+defense: '3'
+variants:
+- WTR189
+- WTR189-RF
+- U-WTR189
+- U-WTR189-RF

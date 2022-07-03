@@ -1,6 +1,5 @@
 ---
 key: CRU124
-card_key: poison_the_tips_yellow
 name: Poison the Tips
 set: CRU
 rarity: majestic
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/124.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - ranger
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! |-
   Until end of turn, arrows you control gain "If this hits a hero, they discard a card."
 

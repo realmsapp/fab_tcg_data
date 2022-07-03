@@ -1,6 +1,5 @@
 ---
 key: EVR107
-card_key: runeblood_incantation_red
 name: Runeblood Incantation
 set: EVR
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - aura
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Go again
 

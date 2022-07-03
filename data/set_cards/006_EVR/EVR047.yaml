@@ -1,6 +1,5 @@
 ---
 key: EVR047
-card_key: twin_twisters_red
 name: Twin Twisters
 set: EVR
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '2'
 resources: '1'
+cost: '1'
+attack: '3'
+defense: '2'
 game_text: ! "Choose 1;\r\n\r\n- Twin Twisters gains \"When this hits, your next attack
   this combat chain gains +1 [Power].\"\r\n- Twin Twisters gains +1 [Power].\r\n\r\n**Go
   again**"

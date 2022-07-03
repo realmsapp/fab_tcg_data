@@ -1,6 +1,5 @@
 ---
 key: MON102
-card_key: spears_of_surreality_yellow
 name: Spears of Surreality
 set: MON
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - illusionist
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   Phantasm (If Spears of Surreality is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Spears of Surreality and close the combat chain.)
 

@@ -1,6 +1,5 @@
 ---
 key: ARC118
-card_key: blazing_aether_red
 name: Blazing Aether
 set: ARC
 rarity: majestic
@@ -9,12 +8,12 @@ image_url: https://fabdb2.imgix.net/cards/arc/118.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - wizard
-
+resources: '1'
 cost: '1'
 defense: '3'
-resources: '1'
 game_text: ! |-
   **Kano Specialization** *(You may only have Blazing Aether in your deck if your hero is Kano.)*
 
   Deal X arcane damage to target hero, where X is the amount of arcane damage you have dealt to that hero this turn.
-specialization: Kano
+specializations:
+- Kano

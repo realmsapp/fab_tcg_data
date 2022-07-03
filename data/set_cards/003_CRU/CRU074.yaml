@@ -1,6 +1,5 @@
 ---
 key: CRU074
-card_key: whirling_mist_blossom_yellow
 name: Whirling Mist Blossom
 set: CRU
 rarity: common
@@ -11,14 +10,15 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '2'
 resources: '2'
+cost: '1'
+attack: '2'
+defense: '2'
 game_text: ! |-
   **Ira Specialization** *(You may only have Whirling Mist Blossom in your deck if your hero is Ira.)*
 
   If Whirling Mist Blossom hits, and it's the second or higher chain link in a row to hit, draw 2 cards.
 
   **Go again**
-specialization: Ira
+specializations:
+- Ira

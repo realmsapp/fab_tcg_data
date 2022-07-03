@@ -1,6 +1,5 @@
 ---
 key: MON007
-card_key: herald_of_judgment_yellow
 name: Herald of Judgment
 set: MON
 rarity: rare
@@ -12,14 +11,15 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '6'
+defense: '3'
 game_text: ! |-
   Prism Specialization (You may only have Herald of Judgment in your deck if your hero is Prism.)
 
   If Herald of Judgment hits, put it into your hero's soul and the defending hero can't play cards from their banished zone during their next action phase. (Put this card face up under your hero card.)
 
   Phantasm (If Herald of Judgment is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Herald of Judgment and close the combat chain.)
-specialization: Prism
+specializations:
+- Prism

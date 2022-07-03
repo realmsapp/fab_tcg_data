@@ -1,6 +1,5 @@
 ---
 key: MON178
-card_key: rifted_torment_yellow
 name: Rifted Torment
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '3'
+defense: '3'
 game_text: ! |-
   You may play Rifted Torment from your banished zone. If you do, deal 1 arcane damage to target hero.
 

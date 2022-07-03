@@ -1,6 +1,5 @@
 ---
 key: ARC009
-card_key: spark_of_genius_yellow
 name: Spark of Genius
 set: ARC
 rarity: super_rare
@@ -9,14 +8,14 @@ image_url: https://fabdb2.imgix.net/cards/arc/9.png?w=300&fit=clip&auto=compress
 card_type: action
 supertypes:
 - mechanologist
-
+resources: '2'
 cost: xx
 defense: '3'
-resources: '2'
 game_text: ! |-
   **Dash specialization** *(You may only have Teklo Core in your deck if your hero is Dash.)*
 
   Search your deck for a Mechanologist item card with cost X, put into the arena, then shuffle your deck.
 
   If you have boosted this turn, draw a card.
-specialization: Dash
+specializations:
+- Dash

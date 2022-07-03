@@ -1,6 +1,5 @@
 ---
 key: MON099
-card_key: enigma_chimera_yellow
 name: Enigma Chimera
 set: MON
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - illusionist
 subtypes:
 - attack
-attack: '7'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '7'
+defense: '3'
 game_text: ! |-
   Phantasm (If Enigma Chimera is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Enigma Chimera and close the combat chain.)

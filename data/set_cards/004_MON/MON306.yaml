@@ -1,6 +1,5 @@
 ---
 key: MON306
-card_key: cracked_bauble_yellow
 name: Cracked Bauble
 set: MON
 rarity: token
@@ -9,5 +8,4 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON306.png?w=300&fit=clip&au
 card_type: resource
 supertypes:
 - generic
-
 resources: '2'

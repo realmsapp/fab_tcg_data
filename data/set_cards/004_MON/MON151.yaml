@@ -1,6 +1,5 @@
 ---
 key: MON151
-card_key: unworldly_bellow_yellow
 name: Unworldly Bellow
 set: MON
 rarity: common
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - brute
 - shadow
-
+resources: '2'
 cost: '1'
 defense: '3'
-resources: '2'
 game_text: ! |-
   As as additional cost to play Unworldly Bellow, banish 3 random cards from your graveyard.
 

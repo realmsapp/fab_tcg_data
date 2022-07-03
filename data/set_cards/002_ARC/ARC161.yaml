@@ -1,6 +1,5 @@
 ---
 key: ARC161
-card_key: pursuit_of_knowledge_blue
 name: Pursuit of Knowledge
 set: ARC
 rarity: super_rare
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '2'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '2'
 game_text: ! |-
   If Pursuit of Knowledge hits, your hero gains +1[intellect] until end of turn.

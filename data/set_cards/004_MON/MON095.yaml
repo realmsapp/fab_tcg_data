@@ -1,6 +1,5 @@
 ---
 key: MON095
-card_key: phantasmify_red
 name: Phantasmify
 set: MON
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON095.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - illusionist
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   The next attack action card you play this turn is Illusionist in addition to its other class types, and gains +5 [Power] and phantasm. (If the attack is defended by a non-Illusionist attack action card with 6 or more [Power], destroy it and close the combat chain.) 
 

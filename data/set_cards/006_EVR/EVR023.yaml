@@ -1,6 +1,5 @@
 ---
 key: EVR023
-card_key: nerves_of_steel_blue
 name: Nerves of Steel
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '3'
 cost: '3'
 defense: '3'
-resources: '3'
 game_text: ! "When Nerves of Steel enters the arena, remove a -1 [Defense] counter
   from a chest equipment you control.\r\n\r\n**Battleworn** and **temper** on equipment
   you control dosen't trigger if it defends an attack with 2 or less [Power].*(Battleworn

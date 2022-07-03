@@ -1,6 +1,5 @@
 ---
 key: WTR063
-card_key: crush_confidence_red
 name: Crush Confidence
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '7'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '7'
+defense: '3'
 game_text: ! |-
   **Crush** - If Crush Confidence does 4 or more damage to a hero, they lose all hero card effects and abilities until the end of their next turn. *(Treat the hero card as if the text box was empt.)*
+variants:
+- WTR063
+- WTR063-RF
+- U-WTR063
+- U-WTR063-RF

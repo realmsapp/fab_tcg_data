@@ -1,6 +1,5 @@
 ---
 key: ARC068
-card_key: salvage_shot_blue
 name: Salvage Shot
 set: ARC
 rarity: common
@@ -9,11 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/arc/68.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - ranger
-
-attack: '2'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '2'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

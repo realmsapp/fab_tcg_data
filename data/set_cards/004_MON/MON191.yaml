@@ -1,6 +1,5 @@
 ---
 key: MON191
-card_key: mutated_mass_blue
 name: Mutated Mass
 set: MON
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: "*"
-cost: '1'
-defense: "*"
 resources: '3'
+cost: '1'
+attack: "*"
+defense: "*"
 game_text: ! |-
   You may play Mutated Mass from your banished zone.
 

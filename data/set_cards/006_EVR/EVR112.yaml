@@ -1,6 +1,5 @@
 ---
 key: EVR112
-card_key: drowning_dire_blue
 name: Drowning Dire
 set: EVR
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '3'
+defense: '3'
 game_text: ! |-
   If you have played or created an aura this turn, Drowning Dire gains dominate. (The defending hero can't defend Drowning Dire with more than 1 card from their hand.)
 

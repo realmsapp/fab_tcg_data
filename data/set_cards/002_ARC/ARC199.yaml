@@ -1,6 +1,5 @@
 ---
 key: ARC199
-card_key: vigor_rush_blue
 name: Vigor Rush
 set: ARC
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '2'
 resources: '3'
+cost: '1'
+attack: '2'
+defense: '2'
 game_text: ! |-
   If you have played a ‘non-attack’ action card this turn, Vigor Rush gains **go again**.

@@ -1,6 +1,5 @@
 ---
 key: ARC056
-card_key: take_aim_blue
 name: Take Aim
 set: ARC
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/56.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - ranger
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next Ranger attack action card you play this turn gains +1[attack].
 

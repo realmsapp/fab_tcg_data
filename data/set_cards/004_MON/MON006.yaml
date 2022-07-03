@@ -1,6 +1,5 @@
 ---
 key: MON006
-card_key: genesis_yellow
 name: Genesis
 set: MON
 rarity: majestic
@@ -12,8 +11,8 @@ supertypes:
 - light
 subtypes:
 - aura
-cost: '4'
 resources: '2'
+cost: '4'
 game_text: ! |-
   At the start of your turn, you may put a card from your hand into your hero's soul. If it's an Illusionist card, create a Spectral Shield token. If it's a Light card, draw a card.
 

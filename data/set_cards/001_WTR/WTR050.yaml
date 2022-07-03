@@ -1,6 +1,5 @@
 ---
 key: WTR050
-card_key: disable_blue
 name: Disable
 set: WTR
 rarity: rare
@@ -11,9 +10,14 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '7'
-cost: '5'
-defense: '3'
 resources: '3'
+cost: '5'
+attack: '7'
+defense: '3'
 game_text: ! |-
   **Crush** - If Disable deals 4 or more damage to a hero, put a card from their arsenal on the bottom of it's owners deck.
+variants:
+- WTR050
+- WTR050-RF
+- U-WTR050
+- U-WTR050-RF

@@ -1,6 +1,5 @@
 ---
 key: MON260
-card_key: captains_call_red
 name: Captain's Call
 set: MON
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON260.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - generic
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Choose 1;
 

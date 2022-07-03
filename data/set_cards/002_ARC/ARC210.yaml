@@ -1,6 +1,5 @@
 ---
 key: ARC210
-card_key: lead_the_charge_yellow
 name: Lead the Charge
 set: ARC
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/210.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! |-
   The next time you play an action card with cost [resource] or greater this turn, gain 1 action point.
 

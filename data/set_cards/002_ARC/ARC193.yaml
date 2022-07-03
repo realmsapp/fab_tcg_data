@@ -1,6 +1,5 @@
 ---
 key: ARC193
-card_key: ravenous_rabble_blue
 name: Ravenous Rabble
 set: ARC
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '2'
 resources: '3'
+cost: '0'
+attack: '3'
+defense: '2'
 game_text: ! |-
   Reveal the top card of your deck. Ravenous Rabble gets [-X attack], where X is the pitch value of the card revealed this way.
 

@@ -1,6 +1,5 @@
 ---
 key: EVR099
-card_key: timidity_point_blue
 name: Timidity Point
 set: EVR
 rarity: common
@@ -9,11 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR099.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ranger
-
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   (Arrows can only be played from arsenal and only if you control a bow.)
 

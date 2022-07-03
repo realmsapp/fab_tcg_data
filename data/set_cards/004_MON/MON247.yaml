@@ -1,6 +1,5 @@
 ---
 key: MON247
-card_key: rouse_the_ancients_blue
 name: Rouse the Ancients
 set: MON
 rarity: majestic
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - attack
+resources: '3'
 cost: '3'
 defense: '2'
-resources: '3'
 game_text: ! |-
   As an additional cost to play Rouse the Ancients, you may reveal any number of attack action cards from your hand with 13 or more total [Power]. If you do, Rouse the Ancients gains +7 [Power] and go again.

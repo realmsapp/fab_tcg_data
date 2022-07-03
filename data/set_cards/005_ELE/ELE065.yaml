@@ -1,6 +1,5 @@
 ---
 key: ELE065
-card_key: flicker_wisp_yellow
 name: Flicker Wisp
 set: ELE
 rarity: majestic
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - elemental
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! |-
   **Lightning Fusion** *(As an additional cost to play Flicker Wisp, you may reveal a Lightning card from your hand.)*
 

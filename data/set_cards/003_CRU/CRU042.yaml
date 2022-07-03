@@ -1,6 +1,5 @@
 ---
 key: CRU042
-card_key: blessing_of_serenity_yellow
 name: Blessing of Serenity
 set: CRU
 rarity: common
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/cru/42.png?w=300&fit=clip&auto=compres
 card_type: instant
 supertypes:
 - guardian
-
-cost: '0'
 resources: '2'
+cost: '0'
 game_text: ! |-
   The next time you would be dealt [attack] damage this turn, prevent 2 damage that source would deal.

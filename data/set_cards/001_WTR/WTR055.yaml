@@ -1,6 +1,5 @@
 ---
 key: WTR055
-card_key: blessing_of_deliverance_yellow
 name: Blessing of Deliverance
 set: WTR
 rarity: rare
@@ -11,12 +10,17 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   **Go again**
 
   When Blessing of Deliverance enters the arena, if you have a card in your pitch zone with cost [3 resource] or greater, draw a card.
 
   At the beginning of your action phase, destroy Blessing of Deliverance then reveal the top 2 cards of your deck. Gain 1[life] for each card with cost [3 resource] or greater revealed this way.
+variants:
+- WTR055
+- WTR055-RF
+- U-WTR055
+- U-WTR055-RF

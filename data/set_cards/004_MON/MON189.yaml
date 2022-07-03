@@ -1,6 +1,5 @@
 ---
 key: MON189
-card_key: doomsday_blue
 name: Doomsday
 set: MON
 rarity: legendary
@@ -9,13 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON189-CF.png?w=300&fit=clip
 card_type: instant
 supertypes:
 - shadow
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Legendary Levia Specialization (You may only have 1 Doomsday in your deck and only if your hero is Levia.)
 
   Play Doomsday only if there are 6 or more cards with blood debt in your banished zone.
 
   Create a Blasmophet, the Soul Harvester token.
-specialization: Levia
+specializations:
+- Levia

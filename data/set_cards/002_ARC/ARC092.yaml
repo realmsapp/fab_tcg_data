@@ -1,6 +1,5 @@
 ---
 key: ARC092
-card_key: oath_of_the_arknight_yellow
 name: Oath of the Arknight
 set: ARC
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/92.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - runeblade
-
+resources: '2'
 cost: '2'
 defense: '2'
-resources: '2'
 game_text: ! |-
   Your next Runeblade attack this turn gains +2[attack].
 

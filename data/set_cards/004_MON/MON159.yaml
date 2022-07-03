@@ -1,6 +1,5 @@
 ---
 key: MON159
-card_key: unhallowed_rites_red
 name: Unhallowed Rites
 set: MON
 rarity: rare
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If you have played a 'non-attack' action card this turn, you may play Unhallowed Rites from your banished zone.
 

@@ -1,6 +1,5 @@
 ---
 key: EVR149
-card_key: phantasmal_haze_blue
 name: Phantasmal Haze
 set: EVR
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - illusionist
 subtypes:
 - attack
-attack: '6'
-cost: '3'
-defense: '3'
 resources: '3'
+cost: '3'
+attack: '6'
+defense: '3'
 game_text: ! |-
   Phantasm (If Phantasmal Haze is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Phantasmal Haze and close the combat chain.)
 

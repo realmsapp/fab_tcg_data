@@ -1,6 +1,5 @@
 ---
 key: MON202
-card_key: howl_from_beyond_blue
 name: Howl from Beyond
 set: MON
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON202.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - shadow
-
+resources: '3'
 cost: '2'
 defense: '2'
-resources: '3'
 game_text: ! |-
   You may play Howl from Beyond from your banished zone.
 

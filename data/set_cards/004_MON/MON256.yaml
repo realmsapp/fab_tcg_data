@@ -1,6 +1,5 @@
 ---
 key: MON256
-card_key: tremor_of_iarathael_blue
 name: Tremor of iArathael
 set: MON
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '2'
 resources: '3'
+cost: '1'
+attack: '2'
+defense: '2'
 game_text: ! |-
   If a card has been put into your banished zone this turn, Tremor of iArathael gains +2 [Power].

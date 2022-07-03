@@ -1,6 +1,5 @@
 ---
 key: ELE211
-card_key: thump_blue
 name: Thump
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '4'
-cost: '4'
-defense: '3'
 resources: '3'
+cost: '4'
+attack: '4'
+defense: '3'
 game_text: ! |-
   While Thump's [Power] is greater than its base [Power], it gains **dominate** and "If this hits a hero, they discard a card." *(The defending hero can't defend Thump with more than 1 card from their hand.)*

@@ -1,6 +1,5 @@
 ---
 key: MON037
-card_key: battlefield_blitz_yellow
 name: Battlefield Blitz
 set: MON
 rarity: rare
@@ -12,9 +11,9 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If you've charged this turn, Battlefield Blitz gains go again.

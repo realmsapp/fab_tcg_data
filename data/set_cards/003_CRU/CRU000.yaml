@@ -1,6 +1,5 @@
 ---
 key: CRU000
-card_key: arknight_shard_blue
 name: Arknight Shard
 set: CRU
 rarity: fabled
@@ -17,4 +16,5 @@ game_text: ! |-
 
   When you pitch Arknight Shard, create a Runechant token.
 legendary: true
-specialization: Viserai
+specializations:
+- Viserai

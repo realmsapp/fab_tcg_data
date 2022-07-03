@@ -1,6 +1,5 @@
 ---
 key: ELE226
-card_key: sting_of_sorcery_blue
 name: Sting of Sorcery
 set: ELE
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - aura
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   **Go again**
 

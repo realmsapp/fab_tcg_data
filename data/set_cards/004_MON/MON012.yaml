@@ -1,6 +1,5 @@
 ---
 key: MON012
-card_key: merciful_retribution_yellow
 name: Merciful Retribution
 set: MON
 rarity: rare
@@ -12,8 +11,8 @@ supertypes:
 - light
 subtypes:
 - aura
-cost: '4'
 resources: '2'
+cost: '4'
 game_text: ! |-
   Whenever an aura or attack action card you control is destroyed, deal 1 arcane damage to target hero. If it's a non-token Light card, put it into your hero's soul. (Put it face up under your hero card.)
 

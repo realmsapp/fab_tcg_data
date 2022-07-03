@@ -1,6 +1,5 @@
 ---
 key: WTR004
-card_key: scabskin_leathers
 name: Scabskin Leathers
 set: WTR
 rarity: legendary
@@ -16,3 +15,6 @@ game_text: ! |-
   **Once per Turn Action** - 0: Roll a 6 sided die. Gain action points equal to half the number roll, rounded down.
 
   **Battleworn** *(If you defend with Scabskin Leathers, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR004-CF
+- U-WTR004-RF

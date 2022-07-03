@@ -1,6 +1,5 @@
 ---
 key: CRU182
-card_key: snag_blue
 name: Snag
 set: CRU
 rarity: majestic
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/cru/182.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - generic
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Attack action cards can't gain [attack] from their own effects or the effects of attack reaction cards this turn. *(This only affects [attack] that would be gained after Snag has resolved.)*

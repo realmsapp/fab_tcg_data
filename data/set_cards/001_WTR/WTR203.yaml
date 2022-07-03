@@ -1,6 +1,5 @@
 ---
 key: WTR203
-card_key: wounding_blow_red
 name: Wounding Blow
 set: WTR
 rarity: common
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '3'
+variants:
+- WTR203
+- WTR203-RF
+- U-WTR203
+- U-WTR203-RF

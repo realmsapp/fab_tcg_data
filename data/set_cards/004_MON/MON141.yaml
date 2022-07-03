@@ -1,6 +1,5 @@
 ---
 key: MON141
-card_key: dread_screamer_red
 name: Dread Screamer
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '6'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Dread Screamer, banish 3 random cards from your graveyard.
 

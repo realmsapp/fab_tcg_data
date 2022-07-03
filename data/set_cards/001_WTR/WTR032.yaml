@@ -1,6 +1,5 @@
 ---
 key: WTR032
-card_key: awakening_bellow_red
 name: Awakening Bellow
 set: WTR
 rarity: common
@@ -9,13 +8,17 @@ image_url: https://fabdb2.imgix.net/cards/wtr/32.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - brute
-
+resources: '1'
 cost: '1'
 defense: '3'
-resources: '1'
 game_text: ! |-
   The next Brute attack action card you play this turn gains +3[attack].
 
   **Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.)*
 
   **Go again**
+variants:
+- WTR032
+- WTR032-RF
+- U-WTR032
+- U-WTR032-RF

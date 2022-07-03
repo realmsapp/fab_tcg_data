@@ -1,6 +1,5 @@
 ---
 key: ELE094
-card_key: entwine_earth_red
 name: Entwine Earth
 set: ELE
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '6'
+defense: '2'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Entwine Earth, you may reveal an Earth card from your hand.)*
 

@@ -1,6 +1,5 @@
 ---
 key: ELE076
-card_key: vela_flash_red
 name: Vela Flash
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '5'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
 game_text: ! |-
   **Lightning Fusion** *(As an additional cost to play Vela Flash, you may reveal a Lightning card from your hand.)*
 

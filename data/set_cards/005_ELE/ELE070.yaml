@@ -1,6 +1,5 @@
 ---
 key: ELE070
-card_key: rites_of_lightning_red
 name: Rites of Lightning
 set: ELE
 rarity: rare
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   **Lightning Fusion** *(As an additional cost to play Rites of Lightning, you may reveal a Lightning card from your hand.)*
 

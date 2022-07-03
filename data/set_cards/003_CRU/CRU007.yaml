@@ -1,6 +1,5 @@
 ---
 key: CRU007
-card_key: beast_within_yellow
 name: Beast Within
 set: CRU
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '6'
-cost: '3'
-defense: '3'
 resources: '2'
+cost: '3'
+attack: '6'
+defense: '3'
 game_text: ! |-
   If Beast Within is put into a graveyard from anywhere other than the combat chain, banish the top card of your deck and lose 1[life]. If it has 6 or more [attack], put it into your hand, otherwise repeat this process.

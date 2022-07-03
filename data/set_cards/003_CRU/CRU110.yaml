@@ -1,6 +1,5 @@
 ---
 key: CRU110
-card_key: combustible_courier_yellow
 name: Combustible Courier
 set: CRU
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '3'
+defense: '3'
 game_text: ! "If Combustible Courier hits, the next attack you **boost** this turn
   gains +3[attack].\n\n**Boost* *(As an additional cost to play Combustible Courier,
   you may banish the top card of your deck. If it's a Mechanologist card, Combustible

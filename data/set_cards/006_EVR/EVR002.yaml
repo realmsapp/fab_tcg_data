@@ -1,6 +1,5 @@
 ---
 key: EVR002
-card_key: swing_big_red
 name: Swing Big
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '8'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '8'
+defense: '3'
 game_text: ! |-
   If Swing Big doesn't hit, the defending hero creates a Quicken token when the combat chain closes.

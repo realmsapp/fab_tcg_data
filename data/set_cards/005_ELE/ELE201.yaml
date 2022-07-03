@@ -1,6 +1,5 @@
 ---
 key: ELE201
-card_key: amulet_of_lightning_blue
 name: Amulet of Lightning
 set: ELE
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - lightning
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Go again**
 

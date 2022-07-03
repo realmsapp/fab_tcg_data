@@ -1,6 +1,5 @@
 ---
 key: MON075
-card_key: impenetrable_belief_red
 name: Impenetrable Belief
 set: MON
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '5'
+defense: '2'
 game_text: ! |-
   If 3 or more cards have been put into an opposing hero's banished zone this turn, Impenetrable Belief gains +2[Defense] while defending.

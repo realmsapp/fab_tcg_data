@@ -1,6 +1,5 @@
 ---
 key: CRU142
-card_key: dread_triptych_blue
 name: Dread Triptych
 set: CRU
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '4'
-cost: '3'
-defense: '3'
 resources: '3'
+cost: '3'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If you've played a 'non-attack' action card this turn, create a Runechant token.
 

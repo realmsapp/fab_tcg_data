@@ -1,6 +1,5 @@
 ---
 key: MON274
-card_key: frontline_scout_blue
 name: Frontline Scout
 set: MON
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '1'
-cost: '0'
-defense: '2'
 resources: '3'
+cost: '0'
+attack: '1'
+defense: '2'
 game_text: ! |-
   You may look at the defending hero's hand.
 

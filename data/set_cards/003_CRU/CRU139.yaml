@@ -1,6 +1,5 @@
 ---
 key: CRU139
-card_key: nebula_blade
 name: Nebula Blade
 set: CRU
 rarity: common
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/139.png?w=300&fit=clip&auto=compre
 card_type: weapon
 supertypes:
 - runeblade
-
 attack: '1'
 game_text: ! |-
   Whenever you play a Runeblade card, if you have played another 'non-attack' action card this turn, create a Runechant token. *(It's an aura with "When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.")*

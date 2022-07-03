@@ -1,6 +1,5 @@
 ---
 key: ELE107
-card_key: rejuvenate_yellow
 name: Rejuvenate
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE107.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - elemental
-
+resources: '2'
 cost: '1'
 defense: '2'
-resources: '2'
 game_text: ! |-
   Gain 2 [Life]
 

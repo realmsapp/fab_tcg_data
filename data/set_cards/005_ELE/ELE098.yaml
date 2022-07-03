@@ -1,6 +1,5 @@
 ---
 key: ELE098
-card_key: entwine_ice_yellow
 name: Entwine Ice
 set: ELE
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '2'
 resources: '2'
+cost: '1'
+attack: '4'
+defense: '2'
 game_text: ! |-
   **Ice Fusion** *(As an additional cost to play Entwine Ice, you may reveal an Ice card from your hand.)*
 

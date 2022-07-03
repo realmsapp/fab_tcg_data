@@ -1,6 +1,5 @@
 ---
 key: MON034
-card_key: lumina_ascension_yellow
 name: Lumina Ascension
 set: MON
 rarity: majestic
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - warrior
 - light
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Boltyn Specialization (You may only have Lumina Ascension in your deck if your hero is Boltyn.)
 
@@ -22,4 +20,5 @@ game_text: ! |-
   If you've charged this turn, you may attack an additional time with each weapon you control.
 
   Go again
-specialization: Boltyn
+specializations:
+- Boltyn

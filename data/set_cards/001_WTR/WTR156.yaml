@@ -1,6 +1,5 @@
 ---
 key: WTR156
-card_key: ironrot_plate
 name: Ironrot Plate
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '1'
 game_text: ! |-
   **Blade break** *(If you defend with Ironrot Plate, destroy it when the combat chain closes.)*
+variants:
+- WTR156
+- WTR156-RF
+- U-WTR156
+- U-WTR156-RF

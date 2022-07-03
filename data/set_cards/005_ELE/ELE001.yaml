@@ -1,6 +1,5 @@
 ---
 key: ELE001
-card_key: oldhim_grandfather_of_eternity
 name: Oldhim, Grandfather of Eternity
 set: ELE
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - guardian
 - elemental
-
 intellect: '4'
 life: '40'
 game_text: ! |-

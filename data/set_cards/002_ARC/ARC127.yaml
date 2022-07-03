@@ -1,6 +1,5 @@
 ---
 key: ARC127
-card_key: aether_spindle_yellow
 name: Aether Spindle
 set: ARC
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/127.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - wizard
-
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Deal 3 arcane damage to the target opposing hero.
 

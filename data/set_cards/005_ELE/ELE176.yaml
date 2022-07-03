@@ -1,6 +1,5 @@
 ---
 key: ELE176
-card_key: blink_blue
 name: Blink
 set: ELE
 rarity: majestic
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE176.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - lightning
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Gain 1 action point. *(You can only gain action points during your action phase.)*

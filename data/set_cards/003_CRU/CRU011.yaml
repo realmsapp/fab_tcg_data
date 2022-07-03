@@ -1,6 +1,5 @@
 ---
 key: CRU011
-card_key: barraging_big_horn_yellow
 name: Barraging Big Horn
 set: CRU
 rarity: rare
@@ -11,10 +10,10 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '6'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Barraging Bighorn, discard a random card.
 

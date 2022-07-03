@@ -1,6 +1,5 @@
 ---
 key: EVR038
-card_key: break_tide_yellow
 name: Break Tide
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   **Combo** - If Rushing River or Flood of Force was the last attack this combat chain, Break Tide gains +3 [Power], **dominate**, and "If Break Tide hits, banish the top card of your deck. Until the end of your next turn, you may play it."

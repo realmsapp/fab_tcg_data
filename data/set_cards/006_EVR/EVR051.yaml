@@ -1,6 +1,5 @@
 ---
 key: EVR051
-card_key: wax_on_yellow
 name: Wax On
 set: EVR
 rarity: common
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR051.png?w=350&fit=clip&au
 card_type: defense_reaction
 supertypes:
 - ninja
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! |-
   While Wax On is defending an attack action card with cost 0, it gains +2 [Defense].

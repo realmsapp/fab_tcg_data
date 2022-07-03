@@ -1,6 +1,5 @@
 ---
 key: CRU114
-card_key: overblast_blue
 name: Overblast
 set: CRU
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '3'
+defense: '3'
 game_text: ! |-
   Overblast gains +X[attack] where X is the number of times you have **bosted** this turn.

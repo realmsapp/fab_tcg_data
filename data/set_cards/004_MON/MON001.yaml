@@ -1,6 +1,5 @@
 ---
 key: MON001
-card_key: prism_sculptor_of_arc_light
 name: Prism, Sculptor of Arc Light
 set: MON
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - illusionist
 - light
-
 intellect: '4'
 life: '40'
 game_text: ! |-

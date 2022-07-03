@@ -1,6 +1,5 @@
 ---
 key: ELE162
-card_key: winters_grasp_blue
 name: Winter's Grasp
 set: ELE
 rarity: common
@@ -11,7 +10,7 @@ supertypes:
 - ice
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '3'

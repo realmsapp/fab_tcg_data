@@ -1,6 +1,5 @@
 ---
 key: WTR030
-card_key: wrecker_romp_yellow
 name: Wrecker Romp
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '7'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '7'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Wrecker Romp, discard a random card.
+variants:
+- WTR030
+- WTR030-RF
+- U-WTR030
+- U-WTR030-RF

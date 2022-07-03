@@ -1,6 +1,5 @@
 ---
 key: EVR079
-card_key: zoom_in_red
 name: Zoom In
 set: EVR
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '5'
+defense: '3'
 game_text: ! |-
   When you attack with Zoom in, opt X, where X is the number of times you have boosted this combat chain. (Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)
 

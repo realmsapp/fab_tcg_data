@@ -1,6 +1,5 @@
 ---
 key: WTR175
-card_key: sigil_of_solace_blue
 name: Sigil of Solace
 set: WTR
 rarity: rare
@@ -9,8 +8,12 @@ image_url: https://fabdb2.imgix.net/cards/wtr/175.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - generic
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Gain 1[life]
+variants:
+- WTR175
+- WTR175-RF
+- U-WTR175
+- U-WTR175-RF

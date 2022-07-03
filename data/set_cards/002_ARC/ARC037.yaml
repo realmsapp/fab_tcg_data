@@ -1,6 +1,5 @@
 ---
 key: ARC037
-card_key: optekal_monocle_blue
 name: Optekal Monocle
 set: ARC
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Optekal Monocle enters the arena with 5 steam counters on it. When Optekal Monocle has no steam counters on it, destroy it.
 

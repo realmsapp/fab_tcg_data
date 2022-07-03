@@ -1,6 +1,5 @@
 ---
 key: ELE152
-card_key: ice_quake_yellow
 name: Ice Quake
 set: ELE
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE152.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ice
-
+resources: '2'
 cost: '1'
 defense: '2'
-resources: '2'
 game_text: ! |-
   Your next attack this turn gains +2 [Power].
 

@@ -1,6 +1,5 @@
 ---
 key: WTR117
-card_key: refraction_bolters
 name: Refraction Bolters
 set: WTR
 rarity: common
@@ -16,3 +15,8 @@ game_text: ! |-
   When your weapon attack hits, you may destroy Refraction Bolters. If you do, the attack gains **go again**.
 
   **Battleworn** *(If you defend with Refraction Bolters, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR117
+- WTR117-RF
+- U-WTR117
+- U-WTR117-RF

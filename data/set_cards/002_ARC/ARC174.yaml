@@ -1,6 +1,5 @@
 ---
 key: ARC174
-card_key: eirinas_prayer_yellow
 name: Eirina's Prayer
 set: ARC
 rarity: rare
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/arc/174.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - generic
-
-cost: '1'
 resources: '2'
+cost: '1'
 game_text: ! |-
   Reveal the top card of your deck. Prevent the next X arcane damage that would be dealt to you this turn, where X is 5 minus the pitch value of the card revealed this way. *(The pitch value is located in the top left corner of the card.)*

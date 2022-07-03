@@ -1,6 +1,5 @@
 ---
 key: MON135
-card_key: boneyard_marauder_red
 name: Boneyard Marauder
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '7'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '7'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Boneyard Marauder, banish 3 random cards from your graveyard.
 

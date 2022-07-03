@@ -1,6 +1,5 @@
 ---
 key: EVR177
-card_key: amulet_of_echoes_blue
 name: Amulet of Echoes
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! "**Go again**\r\n\r\n**Instant** - Destroy Amulet of Echoes: Target hero
   discards 2 cards. Activate this ability only if they have played 2 or more cards
   with the same name this turn."

@@ -1,6 +1,5 @@
 ---
 key: ELE037
-card_key: ice_storm_red
 name: Ice Storm
 set: ELE
 rarity: majestic
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - ranger
 - elemental
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   **Ice and Lightning Fusion** *(As an additional cost to play Ice Storm, you may reveal an Ice and a Lightning card from your hand.)*
 

@@ -4,13 +4,13 @@ name: Ice Bolt
 set: UPR
 rarity: common
 artist: sam_yang
+image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png
 card_type: action
 supertypes:
 - ice
 - wizard
-game_text: ! |-
-  Deal 3 arcane damage to any target.
 resources: '3'
 cost: '2'
 defense: '3'
-image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_04.width-450.png
+game_text: ! |-
+  Deal 3 arcane damage to any target.

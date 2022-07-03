@@ -1,6 +1,5 @@
 ---
 key: ELE062
-card_key: briar_warden_of_thorns
 name: Briar, Warden of Thorns
 set: ELE
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - runeblade
 - elemental
-
 intellect: '4'
 life: '40'
 game_text: ! |-

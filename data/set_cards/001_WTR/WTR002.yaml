@@ -1,6 +1,5 @@
 ---
 key: WTR002
-card_key: rhinar
 name: Rhinar
 set: WTR
 rarity: token
@@ -15,3 +14,6 @@ intellect: '4'
 life: '20'
 game_text: ! |-
   When you discard a card with 6 or more [attack] during your action phase, *intimidate*.
+variants:
+- WTR002
+- U-WTR002

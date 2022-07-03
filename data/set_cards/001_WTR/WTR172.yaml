@@ -1,6 +1,5 @@
 ---
 key: WTR172
-card_key: timesnap_potion_blue
 name: Timesnap Potion
 set: WTR
 rarity: rare
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Action** - Destroy Timesnap Potion: Gain 2 action points.
+variants:
+- WTR172
+- WTR172-RF
+- U-WTR172
+- U-WTR172-RF

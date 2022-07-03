@@ -1,6 +1,5 @@
 ---
 key: CRU126
-card_key: tripwire_trap_red
 name: Tripwire Trap
 set: CRU
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/126.png?w=300&fit=clip&auto=compre
 card_type: defense_reaction
 supertypes:
 - ranger
-
+resources: '1'
 cost: '0'
 defense: '4'
-resources: '1'
 game_text: ! |-
   *(Traps can only be played from arsenal.)*
 

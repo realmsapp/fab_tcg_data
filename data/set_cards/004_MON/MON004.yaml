@@ -1,6 +1,5 @@
 ---
 key: MON004
-card_key: herald_of_erudition_yellow
 name: Herald of Erudition
 set: MON
 rarity: majestic
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '5'
+defense: '3'
 game_text: ! |-
   Dominate (The defending hero can't defend Herald of Erudition with more than 1 card from their hand.)
 

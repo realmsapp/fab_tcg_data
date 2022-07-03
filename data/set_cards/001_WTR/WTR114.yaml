@@ -1,6 +1,5 @@
 ---
 key: WTR114
-card_key: dorinthea
 name: Dorinthea
 set: WTR
 rarity: token
@@ -15,3 +14,6 @@ intellect: '4'
 life: '20'
 game_text: ! |-
   **Once per Turn Effect** - When your weapon attack hits, you may attack an additional time with that weapon this turn.
+variants:
+- WTR114
+- U-WTR114

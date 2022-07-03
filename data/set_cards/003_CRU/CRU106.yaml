@@ -1,6 +1,5 @@
 ---
 key: CRU106
-card_key: high_speed_impact_red
 name: High Speed Impact
 set: CRU
 rarity: rare
@@ -11,10 +10,10 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! "If High Speed Impact hits, the next attack you **boost** this combat
   chain gains **dominate**. *(The defending hero can't defend the attack with more
   than 1 card from their hand.)*\n\n**Boost** *(As an additional cost to play High

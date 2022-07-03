@@ -1,6 +1,5 @@
 ---
 key: WTR037
-card_key: primeval_bellow_blue
 name: Primeval Bellow
 set: WTR
 rarity: common
@@ -9,13 +8,17 @@ image_url: https://fabdb2.imgix.net/cards/wtr/37.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - brute
-
+resources: '3'
 cost: '0'
 defense: '3'
-resources: '3'
 game_text: ! |-
   As an additional cost to play Primeval Bellow, discard a random card.
 
   Your next brute attack this turn gains +3[attack].
 
   **Go again**
+variants:
+- WTR037
+- WTR037-RF
+- U-WTR037
+- U-WTR037-RF

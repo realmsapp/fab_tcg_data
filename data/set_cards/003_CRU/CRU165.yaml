@@ -1,6 +1,5 @@
 ---
 key: CRU165
-card_key: cindering_foresight_red
 name: Cindering Foresight
 set: CRU
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/165.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - wizard
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   If it's not your turn, you may play Cindering Foresight as though it were an instant.
 

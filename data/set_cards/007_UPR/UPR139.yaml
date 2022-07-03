@@ -4,6 +4,7 @@ name: Hypothermia
 set: UPR
 rarity: majestic
 artist: alexis_susani
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png
 card_type: action
 supertypes:
 - ice
@@ -13,7 +14,6 @@ subtypes:
 resources: '3'
 cost: '0'
 defense: '2'
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png
 game_text: ! |-
   _(An affliction enters the arena under an opposing
   hero's control.)_

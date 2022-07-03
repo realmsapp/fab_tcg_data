@@ -1,6 +1,5 @@
 ---
 key: ELE092
-card_key: flashfreeze_red
 name: Flashfreeze
 set: ELE
 rarity: majestic
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE092.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - elemental
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   **Ice and/or Lightning Fusion** *(As an additional cost to play Flashfreeze, you may reveal an Ice and/or Lightning card from your hand.)*
 

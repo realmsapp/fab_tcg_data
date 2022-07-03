@@ -1,6 +1,5 @@
 ---
 key: WTR115
-card_key: dawnblade
 name: Dawnblade
 set: WTR
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/wtr/115.png?w=300&fit=clip&auto=compre
 card_type: weapon
 supertypes:
 - warrior
-
 attack: '3'
 game_text: ! |-
   **Once per Turn Action - [resource]: Attack**
@@ -17,3 +15,6 @@ game_text: ! |-
   If Dawnblade hits, and it's the second time it has hit this turn, put a +1[attack] counter on Dawnblade.
 
   At the beginning of your end phase, if Dawnblade did not hit this turn, remove all +1[attack] counters from Dawnblade.
+variants:
+- WTR115
+- U-WTR115

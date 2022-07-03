@@ -1,6 +1,5 @@
 ---
 key: MON147
-card_key: hungering_slaughterbeast_red
 name: Hungering Slaughterbeast
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '7'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '7'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Hungering Slaughterbeast, banish 3 random cards from your graveyard.
 

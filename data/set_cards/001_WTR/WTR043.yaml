@@ -1,6 +1,5 @@
 ---
 key: WTR043
-card_key: crippling_crush_red
 name: Crippling Crush
 set: WTR
 rarity: majestic
@@ -11,12 +10,18 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '11'
-cost: '7'
-defense: '3'
 resources: '1'
+cost: '7'
+attack: '11'
+defense: '3'
 game_text: ! |-
   **Bravo Specialization** *(You may only have Crippling Crush in your deck if your hero is Bravo.)*
 
   **Crush** - If Crippling Crush does 4 or more damage to a hero, they discard 2 random cards.
-specialization: Bravo
+specializations:
+- Bravo
+variants:
+- WTR043
+- WTR043-RF
+- U-WTR043
+- U-WTR043-RF

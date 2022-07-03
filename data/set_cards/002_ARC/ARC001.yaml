@@ -1,6 +1,5 @@
 ---
 key: ARC001
-card_key: dash_inventor_extraordinaire
 name: Dash, Inventor Extraordinaire
 set: ARC
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/arc/1.png?w=300&fit=clip&auto=compress
 card_type: hero
 supertypes:
 - mechanologist
-
 intellect: '4'
 life: '40'
 game_text: ! |-

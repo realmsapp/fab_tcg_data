@@ -1,6 +1,5 @@
 ---
 key: MON225
-card_key: pulping_blue
 name: Pulping
 set: MON
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '4'
-cost: '2'
 resources: '3'
+cost: '2'
+attack: '4'
 game_text: ! |-
   Draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, Pulping gains dominate. (The defending hero can't defend Pulping with more than 1 card from their hand.)
 

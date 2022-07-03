@@ -1,6 +1,5 @@
 ---
 key: WTR008
-card_key: reckless_swing_blue
 name: Reckless Swing
 set: WTR
 rarity: super_rare
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/8.png?w=300&fit=clip&auto=compress
 card_type: defense_reaction
 supertypes:
 - brute
-
+resources: '3'
 cost: '0'
 defense: '4'
-resources: '3'
 game_text: ! |-
   As an additional cost to play Reckless Swing, discard a random card.
 
   If the discarded card has 6 or more [attack], deal 2 damage to the attacking hero.
+variants:
+- WTR008
+- WTR008-RF
+- U-WTR008
+- U-WTR008-RF

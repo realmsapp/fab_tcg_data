@@ -1,6 +1,5 @@
 ---
 key: EVR104
-card_key: runic_reclamation_red
 name: Runic Reclamation
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '7'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '7'
+defense: '3'
 game_text: ! |-
   When Runic Reclamation hits a hero, destroy target aura they control. If you do, create a Runechant token.

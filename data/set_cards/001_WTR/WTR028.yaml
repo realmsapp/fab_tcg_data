@@ -1,6 +1,5 @@
 ---
 key: WTR028
-card_key: smash_instinct_blue
 name: Smash Instinct
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '5'
-cost: '3'
-defense: '3'
 resources: '3'
+cost: '3'
+attack: '5'
+defense: '3'
 game_text: ! |-
   **Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.
+variants:
+- WTR028
+- WTR028-RF
+- U-WTR028
+- U-WTR028-RF

@@ -1,6 +1,5 @@
 ---
 key: WTR124
-card_key: overpower_yellow
 name: Overpower
 set: WTR
 rarity: rare
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/124.png?w=300&fit=clip&auto=compre
 card_type: attack_reaction
 supertypes:
 - warrior
-
+resources: '2'
 cost: '3'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Target weapon attack gains +3[attack].
 
   **Reprise** - If the defending hero has defended with a card from their hand this chain link, the attack gains an additional +2[attack].
+variants:
+- WTR124
+- WTR124-RF
+- U-WTR124
+- U-WTR124-RF

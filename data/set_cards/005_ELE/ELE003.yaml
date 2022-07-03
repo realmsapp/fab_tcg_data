@@ -1,6 +1,5 @@
 ---
 key: ELE003
-card_key: winters_wail
 name: Winter's Wail
 set: ELE
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - guardian
 - elemental
-
 attack: '4'
 game_text: ! |-
   Once per Turn Action - [3 Resource]: Attack

@@ -1,6 +1,5 @@
 ---
 key: WTR225
-card_key: quicken
 name: Quicken
 set: WTR
 rarity: token
@@ -15,3 +14,6 @@ game_text: ! |-
   *(Auras stay in the arena until they are destroyed.)*
 
   When you play an attack action card or attack with a weapon, destroy Quicken then the attack gains **go again**.
+variants:
+- WTR225
+- U-WTR225

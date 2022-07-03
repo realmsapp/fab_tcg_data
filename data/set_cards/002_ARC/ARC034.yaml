@@ -1,6 +1,5 @@
 ---
 key: ARC034
-card_key: locked_and_loaded_blue
 name: Locked and Loaded
 set: ARC
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/34.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - mechanologist
-
+resources: '3'
 cost: '0'
 defense: '3'
-resources: '3'
 game_text: ! |-
   The next Mechanologist attack action card you play this turn gains [+1 attack].
 

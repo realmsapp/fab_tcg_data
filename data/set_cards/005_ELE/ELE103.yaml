@@ -1,6 +1,5 @@
 ---
 key: ELE103
-card_key: invigorate_red
 name: Invigorate
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE103.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - elemental
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   The next attack you **fuse** this turn gains +4 [Power].
 

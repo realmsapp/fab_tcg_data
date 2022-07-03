@@ -1,6 +1,5 @@
 ---
 key: WTR161
-card_key: last_ditch_effort_blue
 name: Last Ditch Effort
 set: WTR
 rarity: super_rare
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '3'
-defense: '3'
 resources: '3'
+cost: '3'
+attack: '4'
+defense: '3'
 game_text: ! |-
   When you play Last Ditch Effort, if you have no cards in your deck, it gains +4[attack] and **go again**.
+variants:
+- WTR161
+- WTR161-RF
+- U-WTR161
+- U-WTR161-RF

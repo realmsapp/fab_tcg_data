@@ -1,6 +1,5 @@
 ---
 key: CRU137
-card_key: increase_the_tension_blue
 name: Increase the Tension
 set: CRU
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/137.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - ranger
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Your next arrow attack this turn gains +1[attack] and "Defense reactions can't be played from hand this chain link."
 

@@ -1,6 +1,5 @@
 ---
 key: CRU027
-card_key: righteous_cleansing_yellow
 name: Righteous Cleansing
 set: CRU
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '10'
-cost: '7'
-defense: '3'
 resources: '2'
+cost: '7'
+attack: '10'
+defense: '3'
 game_text: ! |-
   **Crush** - If Righteous Cleansing deals 4 or more damage to a hero, look at the top 5 cards of their deck. Banish 1 or more cards with the same name from among them, then put the rest on top of their deck in any order.

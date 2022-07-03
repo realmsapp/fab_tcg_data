@@ -1,6 +1,5 @@
 ---
 key: ARC218
-card_key: cracked_bauble_yellow
 name: Cracked Bauble
 set: ARC
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/arc/218.png?w=300&fit=clip&auto=compre
 card_type: resource
 supertypes:
 - generic
-
 resources: '2'
 game_text: ! |-
   *(Cracked Bauble exists to support Booster Draft and Sealed Deck formats. A player may add any number of Cracked Baubles to their deck. Typically, a player would only do this if they did not have enough legally playable cards to make a 30 card minimum deck.)*

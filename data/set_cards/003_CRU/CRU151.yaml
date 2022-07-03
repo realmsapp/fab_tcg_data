@@ -1,6 +1,5 @@
 ---
 key: CRU151
-card_key: meat_and_greet_red
 name: Meat and Greet
 set: CRU
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If Meat and Greet hits, create a Runechant Token. *(They're auras with "When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.")*
 

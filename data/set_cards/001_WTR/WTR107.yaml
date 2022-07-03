@@ -1,6 +1,5 @@
 ---
 key: WTR107
-card_key: surging_strike_red
 name: Surging Strike
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '5'
+defense: '2'
 game_text: ! |-
   **Go again**
+variants:
+- WTR107
+- WTR107-RF
+- U-WTR107
+- U-WTR107-RF

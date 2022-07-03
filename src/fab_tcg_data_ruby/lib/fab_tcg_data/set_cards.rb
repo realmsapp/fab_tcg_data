@@ -62,8 +62,8 @@ module FabTcgData
           essences: item.fetch(:essences, []).map { |k| Supertypes.fetch(k) },
           legendary?: item.fetch(:legendary, false),
           specializations: item.fetch(:specializations) do
-            Array.wrap(item.fetch(:specialization, [])).map { |k| Persona.new(key: k) }
-          end,
+            Array.wrap(item.fetch(:specialization, []))
+          end.map { |k| Persona.new(key: k) },
           variants: item.fetch(:variants, []).map { |k| Variant.load(item.fetch(:key), k) },
           position: item.fetch(:position, item.key?(:back_key) ? "back" : "front"),
           front_key: item.fetch(:front_key, nil),
@@ -157,7 +157,7 @@ module FabTcgData
           essences: essences.map(&:key),
           legendary: legendary?,
           specializations: specializations.map(&:key),
-          variants: variants.map(&:key),
+          variants: printed_variants.map(&:key),
         }.reject { |_a, b| b.blank? }.to_h
       end
 

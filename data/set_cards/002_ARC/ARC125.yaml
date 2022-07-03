@@ -1,6 +1,5 @@
 ---
 key: ARC125
-card_key: absorb_in_aether_blue
 name: Absorb in Aether
 set: ARC
 rarity: rare
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/arc/125.png?w=300&fit=clip&auto=compre
 card_type: defense_reaction
 supertypes:
 - wizard
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 2.

@@ -1,6 +1,5 @@
 ---
 key: ELE148
-card_key: frost_fang_red
 name: Frost Fang
 set: ELE
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - ice
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '5'
+defense: '2'
 game_text: ! |-
   If Frost Fang hits a hero, they discard a card unless they pay [2 Resource].

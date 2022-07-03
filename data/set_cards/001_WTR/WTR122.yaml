@@ -1,6 +1,5 @@
 ---
 key: WTR122
-card_key: ironsong_determination_yellow
 name: Ironsong Determination
 set: WTR
 rarity: super_rare
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/122.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - warrior
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |
   Target weapon gains +1[attack] and **dominate**.
 
   **Go again**
+variants:
+- WTR122
+- WTR122-RF
+- U-WTR122
+- U-WTR122-RF

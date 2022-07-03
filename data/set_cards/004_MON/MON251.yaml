@@ -1,6 +1,5 @@
 ---
 key: MON251
-card_key: seek_horizon_red
 name: Seek Horizon
 set: MON
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '2'
 game_text: ! |-
   As an additional cost to play Seek Horizon, you may put a card from your hand on top of your deck. If you do, Seek Horizon gains go again.

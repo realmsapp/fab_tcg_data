@@ -1,6 +1,5 @@
 ---
 key: ELE166
-card_key: polar_blast_red
 name: Polar Blast
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE166.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ice
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Target opposing hero may pay [3 Resource]. If they don't, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*
 

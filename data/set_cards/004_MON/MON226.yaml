@@ -1,6 +1,5 @@
 ---
 key: MON226
-card_key: smash_with_a_big_tree_red
 name: Smash with a Big Tree
 set: MON
 rarity: common
@@ -11,6 +10,6 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '7'
-cost: '2'
 resources: '1'
+cost: '2'
+attack: '7'

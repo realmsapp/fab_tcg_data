@@ -1,6 +1,5 @@
 ---
 key: ELE093
-card_key: exposed_to_the_elements_blue
 name: Exposed to the Elements
 set: ELE
 rarity: majestic
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE093.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - elemental
-
-cost: '2'
 resources: '3'
+cost: '2'
 game_text: ! |-
   **Earth and/or Ice Fusion** *(As an additional cost to play Exposed to the Elements, you may reveal an Earth and/or Ice card from your hand.)*
 

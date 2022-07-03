@@ -1,6 +1,5 @@
 ---
 key: CRU039
-card_key: emerging_dominance_yellow
 name: Emerging Dominance
 set: CRU
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   *(Auras stay in the arena until they are destroyed.)*
 

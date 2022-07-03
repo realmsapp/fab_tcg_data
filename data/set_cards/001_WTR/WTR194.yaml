@@ -1,6 +1,5 @@
 ---
 key: WTR194
-card_key: scour_the_battlescape_red
 name: Scour the Battlescape
 set: WTR
 rarity: common
@@ -11,11 +10,16 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '3'
+defense: '2'
 game_text: ! |-
   You may put a card from your hand on the bottom of your deck. If you do, draw a card.
 
   If Scour the Battlescape is played from arsenal, it gains **go again**.
+variants:
+- WTR194
+- WTR194-RF
+- U-WTR194
+- U-WTR194-RF

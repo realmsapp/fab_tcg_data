@@ -1,6 +1,5 @@
 ---
 key: EVR043
-card_key: hundred_winds_blue
 name: Hundred Winds
 set: EVR
 rarity: rare
@@ -11,10 +10,10 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '1'
-cost: '0'
-defense: '2'
 resources: '3'
+cost: '0'
+attack: '1'
+defense: '2'
 game_text: ! "**Combo** - If Hundred Winds was the last attack this combat chain,
   this attack gains +1 [Power] for each other card named Hundred Winds you control
   on this combat chain.\r\n\r\n**Go again**"

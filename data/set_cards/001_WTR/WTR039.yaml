@@ -1,6 +1,5 @@
 ---
 key: WTR039
-card_key: bravo
 name: Bravo
 set: WTR
 rarity: token
@@ -15,3 +14,6 @@ intellect: '4'
 life: '20'
 game_text: ! |-
   **Action** - [2 resource]: Until end of turn, your attack action cards with cost [3 resource] or greater gain **dominate**. **Go again** *(The defending hero can't the attack with more than 1 card from their hand.*
+variants:
+- WTR039
+- U-WTR039

@@ -10,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '1'
-cost: '0'
-defense: '2'
 resources: '3'
+cost: '0'
+attack: '1'
+defense: '2'
 game_text: ! |-
   **Go again**
+variants:
+- WTR100
+- WTR100-RF
+- U-WTR100
+- U-WTR100-RF

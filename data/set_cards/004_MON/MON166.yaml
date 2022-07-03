@@ -1,6 +1,5 @@
 ---
 key: MON166
-card_key: seeping_shadows_yellow
 name: Seeping Shadows
 set: MON
 rarity: rare
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - shadow
-
+resources: '2'
 cost: '3'
 defense: '2'
-resources: '2'
 game_text: ! |-
   You may play Seeping Shadows from your banished zone.
 

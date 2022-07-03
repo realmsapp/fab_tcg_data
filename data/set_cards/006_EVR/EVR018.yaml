@@ -1,6 +1,5 @@
 ---
 key: EVR018
-card_key: stalagmite_bastion_of_isenloft
 name: Stalagmite, Bastion of Isenloft
 set: EVR
 rarity: legendary
@@ -10,7 +9,6 @@ card_type: equipment
 supertypes:
 - guardian
 - ice
-
 defense: '2'
 game_text: ! |-
   Whenever you defend with Stalagmite, create a Frostbite token under the attacking hero's control. **Temper**

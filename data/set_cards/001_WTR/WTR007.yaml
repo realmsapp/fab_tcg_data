@@ -1,6 +1,5 @@
 ---
 key: WTR007
-card_key: bloodrush_bellow_yellow
 name: Bloodrush Bellow
 set: WTR
 rarity: majestic
@@ -9,13 +8,17 @@ image_url: https://fabdb2.imgix.net/cards/wtr/7.png?w=300&fit=clip&auto=compress
 card_type: action
 supertypes:
 - brute
-
+resources: '2'
 cost: '1'
 defense: '3'
-resources: '2'
 game_text: ! |-
   As an additional cost to play Bloodrush Bellow, discard a random card.
 
   Your Brute attacks gain +2[attack] this turn.
 
   If the discarded card has 6 or more [attack], draw 2 cards and Bloodrush Bellow gains **go again**
+variants:
+- WTR007
+- WTR007-RF
+- U-WTR007
+- U-WTR007-RF

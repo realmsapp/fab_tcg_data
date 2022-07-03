@@ -1,6 +1,5 @@
 ---
 key: WTR204
-card_key: wounding_blow_yellow
 name: Wounding Blow
 set: WTR
 rarity: common
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '3'
+defense: '3'
+variants:
+- WTR204
+- WTR204-RF
+- U-WTR204
+- U-WTR204-RF

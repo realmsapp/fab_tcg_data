@@ -1,6 +1,5 @@
 ---
 key: ELE155
-card_key: weave_ice_yellow
 name: Weave Ice
 set: ELE
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE155.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ice
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! "The next Ice or Elemental attack action card you play this turn gains
   +2 [Power]. If it's **fused**, it gains **dominate**. *(The defending hero can't
   defend the attack with more than 1 card from their hand.)* \n\n**Go again**"

@@ -1,6 +1,5 @@
 ---
 key: MON180
-card_key: rip_through_reality_red
 name: Rip Through Reality
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   You may play Rip Through Reality from your banished zone.
 

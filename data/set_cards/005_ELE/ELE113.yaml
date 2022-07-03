@@ -1,6 +1,5 @@
 ---
 key: ELE113
-card_key: pulse_of_candlehold_yellow
 name: Pulse of Candlehold
 set: ELE
 rarity: majestic
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - earth
 - lightning
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |-
   **Legendary** *(You may only have 1 Pulse of Candlhold in your deck.)*
 

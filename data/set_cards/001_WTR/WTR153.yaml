@@ -1,6 +1,5 @@
 ---
 key: WTR153
-card_key: goliath_gauntlet
 name: Goliath Gauntlet
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '0'
 game_text: ! |-
   **Action** - Destroy Goliath Gauntlet: The next attack action card with cost [2 resource] or greater you play this turn gains +2[attack]. **Go again**
+variants:
+- WTR153
+- WTR153-RF
+- U-WTR153
+- U-WTR153-RF

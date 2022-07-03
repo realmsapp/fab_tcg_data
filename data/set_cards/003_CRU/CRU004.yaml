@@ -1,6 +1,5 @@
 ---
 key: CRU004
-card_key: mandible_claw
 name: Mandible Claw
 set: CRU
 rarity: rare
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/4.png?w=300&fit=clip&auto=compress
 card_type: weapon
 supertypes:
 - brute
-
 attack: '3'
 game_text: ! |-
   **Once per Turn Action -- [2 resource]: Attack**

@@ -1,6 +1,5 @@
 ---
 key: MON265
-card_key: adrenaline_rush_blue
 name: Adrenaline Rush
 set: MON
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '2'
-defense: '2'
 resources: '3'
+cost: '2'
+attack: '2'
+defense: '2'
 game_text: ! |-
   When you play Adrenaline Rush, if you have less [Life] than an opposing hero, it gains +3 [Power].

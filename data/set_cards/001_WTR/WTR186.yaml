@@ -1,6 +1,5 @@
 ---
 key: WTR186
-card_key: nimble_strike_yellow
 name: Nimble Strike
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '2'
 resources: '2'
+cost: '1'
+attack: '3'
+defense: '2'
 game_text: ! |-
   As an additional cost to play Nimble Strike, you may banish a card named Nimblism from your graveyard. If you do, Nimble Strike gains +1[attack] and **go again**.
+variants:
+- WTR186
+- WTR186-RF
+- U-WTR186
+- U-WTR186-RF

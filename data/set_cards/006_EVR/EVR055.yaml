@@ -1,6 +1,5 @@
 ---
 key: EVR055
-card_key: blood_on_her_hands_yellow
 name: Blood on Her Hands
 set: EVR
 rarity: majestic
@@ -9,14 +8,14 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR055.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - warrior
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! "**Kassai Specialization**\r\n\r\nAs an additional cost to play Blood
   on Her Hands, destroy any number of Copper you control. For each Copper destroyed
   this way, choose a mode. You may choose each mode twice;\r\n\r\n- Target 1H weapon
   gains +1 [Power] this turn while attacking this turn.\r\n- Target 1H weapon gains
   **go again** this turn while attacking this turn.\r\n- Target 1H weapon may attack
   twice this turn.\r\n\r\n**Go again**"
-specialization: Kassai
+specializations:
+- Kassai

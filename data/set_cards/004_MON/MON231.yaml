@@ -1,6 +1,5 @@
 ---
 key: MON231
-card_key: sonata_arcanix_red
 name: Sonata Arcanix
 set: MON
 rarity: majestic
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON231.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - runeblade
-
+resources: '1'
 cost: XX
 defense: '2'
-resources: '1'
 game_text: ! |-
   Reveal the top X+3 cards of your deck.
 

@@ -1,6 +1,5 @@
 ---
 key: WTR212
-card_key: unmovable_red
 name: Unmovable
 set: WTR
 rarity: common
@@ -9,9 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/wtr/212.png?w=300&fit=clip&auto=compre
 card_type: defense_reaction
 supertypes:
 - generic
-
+resources: '1'
 cost: '3'
 defense: '7'
-resources: '1'
 game_text: ! |-
   If Unmovable is played from arsenal, it gains +1[defense].
+variants:
+- WTR212
+- WTR212-RF
+- U-WTR212
+- U-WTR212-RF

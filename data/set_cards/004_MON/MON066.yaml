@@ -1,6 +1,5 @@
 ---
 key: MON066
-card_key: invigorating_light_red
 name: Invigorating Light
 set: MON
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '6'
-cost: '3'
-defense: '2'
 resources: '1'
+cost: '3'
+attack: '6'
+defense: '2'
 game_text: ! |-
   When you play Invigorating Light, if there are no cards in your hero's soul, put it into your hero's soul when the combat chain closes. (Put the card face up under your hero card.)

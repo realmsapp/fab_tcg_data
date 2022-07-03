@@ -1,6 +1,5 @@
 ---
 key: ARC113
-card_key: kano_dracai_of_aether
 name: Kano, Dracai of Aether
 set: ARC
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/arc/113.png?w=300&fit=clip&auto=compre
 card_type: hero
 supertypes:
 - wizard
-
 intellect: '4'
 life: '30'
 game_text: ! |-

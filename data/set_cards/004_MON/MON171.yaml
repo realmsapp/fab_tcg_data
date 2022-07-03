@@ -1,6 +1,5 @@
 ---
 key: MON171
-card_key: piercing_shadow_vise_red
 name: Piercing Shadow Vise
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   You may play Piercing Shadow Vise from your banished zone.
 

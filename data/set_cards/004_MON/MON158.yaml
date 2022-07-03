@@ -1,6 +1,5 @@
 ---
 key: MON158
-card_key: invert_existence_blue
 name: 'Invert Existence '
 set: MON
 rarity: majestic
@@ -10,9 +9,8 @@ card_type: instant
 supertypes:
 - runeblade
 - shadow
-
-cost: '1'
 resources: '3'
+cost: '1'
 game_text: ! |-
   You may play Invert Existence from your banished zone.
 

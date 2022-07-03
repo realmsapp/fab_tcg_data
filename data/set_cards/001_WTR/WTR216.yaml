@@ -1,6 +1,5 @@
 ---
 key: WTR216
-card_key: sink_below_yellow
 name: Sink Below
 set: WTR
 rarity: common
@@ -9,9 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/wtr/216.png?w=300&fit=clip&auto=compre
 card_type: defense_reaction
 supertypes:
 - generic
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |-
   You may put a card from your hand on the bottom of your deck. If you do, draw a card.
+variants:
+- WTR216
+- WTR216-RF
+- U-WTR216
+- U-WTR216-RF

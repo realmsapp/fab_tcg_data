@@ -1,6 +1,5 @@
 ---
 key: ARC031
-card_key: zipper_hit_blue
 name: Zipper Hit
 set: ARC
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   **Boost** *(As an additional cost to play Zipper Hit, you may banish the top card of your deck. If it's a Mechanologist card, Zipper Hit gains **go again**.)*

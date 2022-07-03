@@ -1,6 +1,5 @@
 ---
 key: ARC212
-card_key: sun_kiss_red
 name: Sun Kiss
 set: ARC
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/212.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Gain 3[life].
 

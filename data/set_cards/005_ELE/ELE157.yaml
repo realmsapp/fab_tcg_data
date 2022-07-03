@@ -1,6 +1,5 @@
 ---
 key: ELE157
-card_key: icy_encounter_red
 name: Icy Encounter
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - ice
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '6'
+defense: '2'
 game_text: ! |-
   If Icy Encounter hits a hero, create a Frostbite token under their control.

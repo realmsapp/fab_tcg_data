@@ -1,6 +1,5 @@
 ---
 key: EVR133
-card_key: pyroglyphic_protection_blue
 name: Pyroglyphic Protection
 set: EVR
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - wizard
 subtypes:
 - aura
+resources: '3'
 cost: '2'
 defense: '3'
-resources: '3'
 game_text: ! |-
   If your hero would be dealt arcane damage, prevent 1 arcane damage that source would deal.
 

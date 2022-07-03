@@ -1,6 +1,5 @@
 ---
 key: MON013
-card_key: ode_to_wrath_yellow
 name: Ode to Wrath
 set: MON
 rarity: rare
@@ -12,8 +11,8 @@ supertypes:
 - light
 subtypes:
 - aura
-cost: '4'
 resources: '2'
+cost: '4'
 game_text: ! |-
   Whenever a source you control deals damage to an opposing hero, they lose 1[Life].
 

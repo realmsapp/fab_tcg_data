@@ -1,6 +1,5 @@
 ---
 key: CRU096
-card_key: push_forward_blue
 name: Push Forward
 set: CRU
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/96.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - warrior
-
+resources: '3'
 cost: '1'
 defense: '3'
-resources: '3'
 game_text: ! |-
   Your next weapon attack this turn gains +1[attack].
 

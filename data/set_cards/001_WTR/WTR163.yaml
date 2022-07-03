@@ -1,6 +1,5 @@
 ---
 key: WTR163
-card_key: remembrance_yellow
 name: Remembrance
 set: WTR
 rarity: super_rare
@@ -9,10 +8,14 @@ image_url: https://fabdb2.imgix.net/cards/wtr/163.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - generic
-
-cost: '0'
 resources: '2'
+cost: '0'
 game_text: ! |-
   Shufle up to 3 action cards from your graveyard into your deck.
 
   Banish Rembrance.
+variants:
+- WTR163
+- WTR163-RF
+- U-WTR163
+- U-WTR163-RF

@@ -1,6 +1,5 @@
 ---
 key: WTR069
-card_key: emerging_power_red
 name: Emerging Power
 set: WTR
 rarity: common
@@ -11,12 +10,17 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '1'
 cost: '2'
 defense: '3'
-resources: '1'
 game_text: ! |
   *(Auras stay in the arena until they are destroyed.)*
 
   **Go again**
 
   At the beginning of your action phase, destroy Emerging Power then the next Guardian attack action card you play this turn gains +3[attack].
+variants:
+- WTR069
+- WTR069-RF
+- U-WTR069
+- U-WTR069-RF

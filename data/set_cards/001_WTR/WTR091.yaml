@@ -1,6 +1,5 @@
 ---
 key: WTR091
-card_key: blackout_kick_blue
 name: Blackout Kick
 set: WTR
 rarity: rare
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '2'
+defense: '3'
 game_text: ! |-
   **Combo** - If Rising Knee Thrust was the last attack this combat chain, Blackout Kick gains +1[attack].
+variants:
+- WTR091
+- WTR091-RF
+- U-WTR091
+- U-WTR091-RF

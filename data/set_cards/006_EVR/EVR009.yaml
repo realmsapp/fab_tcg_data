@@ -1,6 +1,5 @@
 ---
 key: EVR009
-card_key: bare_fangs_yellow
 name: Bare Fangs
 set: EVR
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '5'
-cost: '2'
 resources: '2'
+cost: '2'
+attack: '5'
 game_text: ! |-
   When you attack with Bare Fangs, draw a card then discard a random card. If a card with 6 or more [Power] is discarded this way, Bare Fangs gains +2 [Power].

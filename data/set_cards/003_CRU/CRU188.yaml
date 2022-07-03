@@ -1,6 +1,5 @@
 ---
 key: CRU188
-card_key: cash_in_yellow
 name: Cash In
 set: CRU
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/188.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
+resources: '2'
 cost: '4'
 defense: '2'
-resources: '2'
 game_text: ! |-
   You may destroy 4 Coppers, 2 Silvers, or 1 Gold you control rather than pay Cash In's cost.
 

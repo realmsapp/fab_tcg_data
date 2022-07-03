@@ -1,6 +1,5 @@
 ---
 key: CRU064
-card_key: flying_kick_yellow
 name: Flying Kick
 set: CRU
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If Flying Kick is played as chain link 3 or higher, it gains +2[attack].

@@ -1,6 +1,5 @@
 ---
 key: ARC122
-card_key: tome_of_aetherwind_red
 name: Tome of Aetherwind
 set: ARC
 rarity: super_rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/122.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - wizard
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Choose 2. You may choose the same mode more than once;
 

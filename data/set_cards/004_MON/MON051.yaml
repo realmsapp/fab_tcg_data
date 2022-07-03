@@ -1,6 +1,5 @@
 ---
 key: MON051
-card_key: express_lightning_red
 name: Express Lightning
 set: MON
 rarity: common
@@ -12,9 +11,9 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Express Lightning, you may charge your hero's soul. (Put a card from your hand face up under your hero card.)

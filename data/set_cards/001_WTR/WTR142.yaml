@@ -1,6 +1,5 @@
 ---
 key: WTR142
-card_key: sharpen_steel_yellow
 name: Sharpen Steel
 set: WTR
 rarity: common
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/142.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - warrior
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Your next weapon attack this turn gains +2[attack].
 
   **Go again**
+variants:
+- WTR142
+- WTR142-RF
+- U-WTR142
+- U-WTR142-RF

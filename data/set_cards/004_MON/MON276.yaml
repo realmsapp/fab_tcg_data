@@ -1,6 +1,5 @@
 ---
 key: MON276
-card_key: overload_yellow
 name: Overload
 set: MON
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '2'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '2'
 game_text: ! |-
   Dominate (The defending hero can't defend Overload with more than 1 card from their hand.)
 

@@ -1,6 +1,5 @@
 ---
 key: ARC107
-card_key: bloodspill_invocation_yellow
 name: Bloodspill Invocation
 set: ARC
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - aura
+resources: '2'
 cost: '1'
 defense: '2'
-resources: '2'
 game_text: ! |-
   *(Auras stay in the arena until they are destroyed.)*
 

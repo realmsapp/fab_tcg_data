@@ -1,6 +1,5 @@
 ---
 key: ELE183
-card_key: lightning_press_red
 name: Lightning Press
 set: ELE
 rarity: rare
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE183.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - lightning
-
-cost: '0'
 resources: '1'
+cost: '0'
 game_text: ! |-
   Target attack action card with cost 1 or less gains +3 [Power].

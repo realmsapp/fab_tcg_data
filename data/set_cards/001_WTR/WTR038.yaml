@@ -1,6 +1,5 @@
 ---
 key: WTR038
-card_key: bravo_showstopper
 name: Bravo, Showstopper
 set: WTR
 rarity: token
@@ -9,8 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/wtr/38.png?w=300&fit=clip&auto=compres
 card_type: hero
 supertypes:
 - guardian
-
 intellect: '4'
 life: '40'
 game_text: ! |-
   **Action** - [2 resource]: Until end of turn, your attack action cards with cost [3 resource] or greater gain **dominate**. **Go again** *(The defending hero can't the attack with more than 1 card from their hand.*
+variants:
+- WTR038
+- U-WTR038

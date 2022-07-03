@@ -1,6 +1,5 @@
 ---
 key: MON083
-card_key: seek_enlightenment_blue
 name: Seek Enlightenment
 set: MON
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON083.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - light
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next attack action card you play this turn gains +1 [Power] and "If this hits, put it into your hero's soul." (Put the card face up under your hero card.)
 

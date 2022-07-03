@@ -1,6 +1,5 @@
 ---
 key: MON113
-card_key: plow_through_red
 name: Plow Through
 set: MON
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON113.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - warrior
-
+resources: '1'
 cost: '1'
 defense: '3'
-resources: '1'
 game_text: ! |+
   Your next weapon attack this turn gains +3 [Power] and "If this weapon is defended by an attack action card, it gains +1 [Power] until end of turn".
 

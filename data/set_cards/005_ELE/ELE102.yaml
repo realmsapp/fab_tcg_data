@@ -1,6 +1,5 @@
 ---
 key: ELE102
-card_key: entwine_lightning_blue
 name: Entwine Lightning
 set: ELE
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '2'
 resources: '3'
+cost: '0'
+attack: '2'
+defense: '2'
 game_text: ! |-
   **Lightning Fusion** *(As an additional cost to play Entwine Lightning, you may reveal a Lightning card from your hand.)*
 

@@ -1,6 +1,5 @@
 ---
 key: WTR098
-card_key: head_jab_red
 name: Head Jab
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '3'
+defense: '2'
 game_text: ! |-
   **Go again**
+variants:
+- WTR098
+- WTR098-RF
+- U-WTR098
+- U-WTR098-RF

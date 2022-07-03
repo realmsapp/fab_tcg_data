@@ -1,6 +1,5 @@
 ---
 key: WTR158
-card_key: ironrot_legs
 name: Ironrot Legs
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '1'
 game_text: ! |-
   **Blade break** *(If you defend with Ironrot Legs, destroy it when the combat chain closes.)*
+variants:
+- WTR158
+- WTR158-RF
+- U-WTR158
+- U-WTR158-RF

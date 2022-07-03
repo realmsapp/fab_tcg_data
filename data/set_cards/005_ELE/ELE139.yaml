@@ -1,6 +1,5 @@
 ---
 key: ELE139
-card_key: earthlore_surge_blue
 name: Earthlore Surge
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE139.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - earth
-
+resources: '3'
 cost: '2'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next attack action card you play this turn gains +3 [Power].
 

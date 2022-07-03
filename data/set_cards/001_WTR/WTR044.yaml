@@ -1,6 +1,5 @@
 ---
 key: WTR044
-card_key: spinal_crush_red
 name: Spinal Crush
 set: WTR
 rarity: majestic
@@ -11,9 +10,14 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '9'
-cost: '5'
-defense: '3'
 resources: '1'
+cost: '5'
+attack: '9'
+defense: '3'
 game_text: ! |-
   **Crush** - If Spinal Crush does 4 or more damage to a hero, action cards, activated abilities, and attacks they control lose and can't gain **go again** during their next action phase.
+variants:
+- WTR044
+- WTR044-RF
+- U-WTR044
+- U-WTR044-RF

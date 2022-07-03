@@ -1,6 +1,5 @@
 ---
 key: ELE008
-card_key: biting_gale_yellow
 name: Biting Gale
 set: ELE
 rarity: rare
@@ -10,10 +9,9 @@ card_type: defense_reaction
 supertypes:
 - guardian
 - elemental
-
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   **Ice Fusion** *(As an additional cost to play Biting Gale, you may reveal an Ice card from your hand.)*
 

@@ -1,6 +1,5 @@
 ---
 key: WTR171
-card_key: potion_of_strength_blue
 name: Potion of Strength
 set: WTR
 rarity: rare
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Action** - Destroy Potion of Strength: Your next attack this turn gains +2[attack]. **Go again**
+variants:
+- WTR171
+- WTR171-RF
+- U-WTR171
+- U-WTR171-RF

@@ -1,6 +1,5 @@
 ---
 key: ELE081
-card_key: rites_of_replenishment_blue
 name: Rites of Replenishment
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Rites of Replenishment, you may reveal an Earth card from your hand.)*
 

@@ -1,6 +1,5 @@
 ---
 key: ARC046
-card_key: nock_the_deathwhistle_blue
 name: Nock the Deathwhistle
 set: ARC
 rarity: super_rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/46.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - ranger
-
+resources: '3'
 cost: '0'
 defense: '3'
-resources: '3'
 game_text: ! |-
   **Azalea Specialization** *(You may only have Nock the Deathwhistle in your deck if your hero is Azalea.)*
 
@@ -21,4 +19,5 @@ game_text: ! |-
   **Reload** *(If you have no cards in your arsenal, you mayp ut a card from your hand face down into your arsenal.)*
 
   **Go again**
-specialization: Azalea
+specializations:
+- Azalea

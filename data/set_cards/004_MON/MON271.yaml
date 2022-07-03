@@ -1,6 +1,5 @@
 ---
 key: MON271
-card_key: brandish_blue
 name: Brandish
 set: MON
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '1'
-cost: '1'
-defense: '2'
 resources: '3'
+cost: '1'
+attack: '1'
+defense: '2'
 game_text: ! |-
   If Brandish hits, your next weapon attack this turn gains +1 [Power].
 

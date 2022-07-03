@@ -1,6 +1,5 @@
 ---
 key: WTR076
-card_key: katsu_the_wanderer
 name: Katsu, the Wanderer
 set: WTR
 rarity: common
@@ -9,8 +8,12 @@ image_url: https://fabdb2.imgix.net/cards/wtr/76.png?w=300&fit=clip&auto=compres
 card_type: hero
 supertypes:
 - ninja
-
 intellect: '4'
 life: '40'
 game_text: ! |-
   **Once per Turn Effect** When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.
+variants:
+- WTR076
+- WTR076-RF
+- U-WTR076
+- U-WTR076-RF

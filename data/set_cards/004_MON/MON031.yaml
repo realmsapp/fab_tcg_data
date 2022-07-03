@@ -1,6 +1,5 @@
 ---
 key: MON031
-card_key: raydn_duskbane
 name: Raydn, Duskbane
 set: MON
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - warrior
 - light
-
 game_text: ! |-
   Once per Turn Action - 0: Attack
 

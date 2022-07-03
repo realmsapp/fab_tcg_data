@@ -1,6 +1,5 @@
 ---
 key: CHN002
-card_key: lord_sutcliffe
 name: Lord Sutcliffe
 set: CHN
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: mentor
 supertypes:
 - runeblade
 - shadow
-
 defense: '3'
 game_text: ! |-
   Mentor (You may only have Sutcliffe in your deck if your hero is young.)

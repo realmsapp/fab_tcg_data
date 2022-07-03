@@ -4,6 +4,7 @@ name: Frost Hex
 set: UPR
 rarity: majestic
 artist: isuardi_therianto
+image_url: https://storage.googleapis.com/fabmaster/media/images/UPR126.width-450.png
 card_type: action
 supertypes:
 - ice
@@ -14,7 +15,6 @@ subtypes:
 resources: '3'
 cost: '3'
 defense: '3'
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR126.width-450.png
 game_text: ! |-
   **Iyslander Specialization** _(You may only have Frost
   Hex in your deck if your hero is Iyslander.)

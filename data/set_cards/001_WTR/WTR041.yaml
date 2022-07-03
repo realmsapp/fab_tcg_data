@@ -1,6 +1,5 @@
 ---
 key: WTR041
-card_key: tectonic_plating
 name: Tectonic Plating
 set: WTR
 rarity: legendary
@@ -16,3 +15,6 @@ game_text: ! |-
   **Once per turn action** - [resource]: Create a Seismic Surge aura token. **Go again**
 
   **Battleworn** *(If you defend with Tectonic Plating, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR041-CF
+- U-WTR041-RF

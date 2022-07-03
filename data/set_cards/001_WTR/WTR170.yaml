@@ -1,6 +1,5 @@
 ---
 key: WTR170
-card_key: energy_potion_blue
 name: Energy Potion
 set: WTR
 rarity: rare
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Instant** - Destroy Energy Potion, gain [2 resource].
+variants:
+- WTR170
+- WTR170-RF
+- U-WTR170
+- U-WTR170-RF

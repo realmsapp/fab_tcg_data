@@ -1,6 +1,5 @@
 ---
 key: ELE194
-card_key: heavens_claws_blue
 name: Heaven's Claws
 set: ELE
 rarity: common
@@ -11,7 +10,7 @@ supertypes:
 - lightning
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '3'
+defense: '3'

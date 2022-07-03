@@ -1,6 +1,5 @@
 ---
 key: ELE136
-card_key: burgeoning_blue
 name: Burgeoning
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - earth
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '2'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '2'
 game_text: ! |-
   If Burgeoning is played from arsenal, it gains +1 [Power].

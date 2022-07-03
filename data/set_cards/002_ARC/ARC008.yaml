@@ -1,6 +1,5 @@
 ---
 key: ARC008
-card_key: maximum_velocity_red
 name: Maximum Velocity
 set: ARC
 rarity: super_rare
@@ -11,9 +10,9 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '10'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '10'
+defense: '3'
 game_text: ! |-
   Play Maximum Velocity only if you have boosted 3 or more times this turn.

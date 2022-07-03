@@ -1,6 +1,5 @@
 ---
 key: EVR181
-card_key: amulet_of_oblation_blue
 name: Amulet of Oblation
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! "**Go again**\r\n\r\n**Instant** - Destroy Amulet of Oblation: Until
   end of turn, target attack action gains \"If this would be put into a graveyard,
   instead put it on the bottom of its owner's deck.\" Activate this ability only if

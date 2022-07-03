@@ -1,6 +1,5 @@
 ---
 key: EVR088
-card_key: battering_bolt_red
 name: Battering Bolt
 set: EVR
 rarity: majestic
@@ -9,11 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR088.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ranger
-
-attack: '6'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '6'
+defense: '3'
 game_text: ! "*(Arrows can only be played from arsenal and only if you control a bow.)*\r\n\r\nIf
   Battering Bolt hits a hero, they reveal their hand and discard all cards other than
   action cards. Then they lose 1 [Life] for each card discarded this way."

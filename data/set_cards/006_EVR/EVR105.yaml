@@ -1,6 +1,5 @@
 ---
 key: EVR105
-card_key: swarming_gloomveil_red
 name: Swarming Gloomveil
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '3'
+defense: '3'
 game_text: ! |-
   If you have played or created 1 or more auras this turn, Swarming Gloomveil gains **go again**. If you have played and/or created 2 or more, it gains +1 [Power]. If you have played and/or created 3 or more, it gains "When this hits a hero, they can't prevent arcane damage from sources you control this turn."

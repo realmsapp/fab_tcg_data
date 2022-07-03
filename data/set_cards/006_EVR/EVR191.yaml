@@ -1,6 +1,5 @@
 ---
 key: EVR191
-card_key: talisman_of_recompense_yellow
 name: Talisman of Recompense
 set: EVR
 rarity: rare
@@ -11,7 +10,7 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '2'
+cost: '0'
 game_text: ! "**Go again**\r\n\r\nWhenever you pitch a card, if you would gain exactly
   [Resource], instead destroy Talisman of Recompense and gain [3 Resource]."

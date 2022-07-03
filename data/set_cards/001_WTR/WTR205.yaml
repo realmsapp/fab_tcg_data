@@ -1,6 +1,5 @@
 ---
 key: WTR205
-card_key: wounding_blow_blue
 name: Wounding Blow
 set: WTR
 rarity: common
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '3'
+cost: '0'
+attack: '2'
+defense: '3'
+variants:
+- WTR205
+- WTR205-RF
+- U-WTR205
+- U-WTR205-RF

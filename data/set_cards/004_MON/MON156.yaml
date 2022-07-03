@@ -1,6 +1,5 @@
 ---
 key: MON156
-card_key: shadow_of_ursur_blue
 name: Shadow of Ursur
 set: MON
 rarity: majestic
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '3'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   You may play Shadow of Ursur from your banished zone.
 

@@ -1,6 +1,5 @@
 ---
 key: ARC082
-card_key: ninth_blade_of_the_blood_oath_yellow
 name: Ninth Blade of the Blood Oath
 set: ARC
 rarity: super_rare
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '9'
-cost: '9'
-defense: '3'
 resources: '2'
+cost: '9'
+attack: '9'
+defense: '3'
 game_text: ! |-
   Ninth Blade of the Blood Oath costs [resource] less to play for each Runechant token you control.

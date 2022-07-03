@@ -1,6 +1,5 @@
 ---
 key: EVR184
-card_key: potion_of_seeing_blue
 name: Potion of Seeing
 set: EVR
 rarity: rare
@@ -11,7 +10,7 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Instant** - Destroy Potion of Seeing: Look at target hero's hand.

@@ -1,6 +1,5 @@
 ---
 key: ELE061
-card_key: frazzle_blue
 name: Frazzle
 set: ELE
 rarity: common
@@ -10,11 +9,10 @@ card_type: action
 supertypes:
 - ranger
 - elemental
-
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

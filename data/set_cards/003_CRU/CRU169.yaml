@@ -1,6 +1,5 @@
 ---
 key: CRU169
-card_key: foreboding_bolt_yellow
 name: Foreboding Bolt
 set: CRU
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/169.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - wizard
-
+resources: '2'
 cost: '1'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Deal 2 arcane damage to target hero.
 

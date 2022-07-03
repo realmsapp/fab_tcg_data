@@ -1,6 +1,5 @@
 ---
 key: MON153
-card_key: chane_bound_by_shadow
 name: Chane, Bound by Shadow
 set: MON
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - runeblade
 - shadow
-
 intellect: '4'
 life: '40'
 game_text: ! |+

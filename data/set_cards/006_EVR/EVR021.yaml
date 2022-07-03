@@ -1,6 +1,5 @@
 ---
 key: EVR021
-card_key: pulverize_red
 name: Pulverize
 set: EVR
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '14'
-cost: '10'
-defense: '3'
 resources: '1'
+cost: '10'
+attack: '14'
+defense: '3'
 game_text: ! "**Heave 3** *(At the beginning of your end phase, if Pulverize is in
   your hand and you have an empty arsenal zone, you may pay [3 Resource] and put Pulverize
   face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*\r\n\r\nWhen

@@ -1,6 +1,5 @@
 ---
 key: WTR218
-card_key: nimblism_red
 name: Nimblism
 set: WTR
 rarity: common
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/218.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   The next attack action card with cost [resource] or less you play this turn gains +3[attack].
 
   **Go again**
+variants:
+- WTR218
+- WTR218-RF
+- U-WTR218
+- U-WTR218-RF
