@@ -19,6 +19,10 @@
   name: Marvel
   code: MV
 
-- print_finish_key: extended_art
-  name: Extended Art
-  code: EA
+- print_finish_key: rainbow_foil_extended_art
+  name: Rainbow Foil Extended Art
+  code: RFEA
+
+- print_finish_key: rainbow_foil_alternate_art
+  name: Rainbow Foil Alternate Art
+  code: RFAA

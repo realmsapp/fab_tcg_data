@@ -37,6 +37,7 @@ module FabTcgData
       def self.load(item)
         SetCard.new(
           key: item.fetch(:key),
+          back_key: item.fetch(:back_key, nil),
           set: Sets.fetch(item.fetch(:key).slice(0...3)),
 
           rarity: Rarities.fetch(item.fetch(:rarity)),
@@ -65,13 +66,12 @@ module FabTcgData
             Array.wrap(item.fetch(:specialization, []))
           end.map { |k| Persona.new(key: k) },
           variants: item.fetch(:variants, []).map { |k| Variant.load(item.fetch(:key), k) },
-          position: item.fetch(:position, item.key?(:back_key) ? "back" : "front"),
-          back_key: item.fetch(:back_key, nil),
         )
       end
 
       include ValueSemantics.for_attributes {
         key String
+        back_key Either(String, nil), default: nil
         name String
 
         set Sets::Set
@@ -104,9 +104,11 @@ module FabTcgData
 
         # Printing
         variants ArrayOf(Variant), default: []
-        position Either("front", "back"), default: "front"
-        back_key Either(String, nil), default: nil
       }
+
+      def back?
+        @back ||= set_card_key.ends_with?("-BACK")
+      end
 
       def name_slug
         @name_slug ||= name.gsub(/[^\p{L}]|[1-9]/, " ").squish.gsub(/\s/, "_").downcase
@@ -133,7 +135,6 @@ module FabTcgData
           key:,
           card_key:,
           back_key:,
-          position:,
           name:,
           set: set.key,
           rarity: rarity.key,
@@ -168,9 +169,8 @@ module FabTcgData
 
       def to_realms_yaml
         data = attributes
-        data[:game_text] = LiteralScalar.new(data[:game_text]) if data[:game_text].present?
+        data[:game_text] = LiteralScalar.new(data[:game_text].gsub(/\r/, '')) if data[:game_text].present?
         data[:flavor_text] = LiteralScalar.new(data[:flavor_text]) if data[:flavor_text].present?
-        data.delete(:position) if data[:position] == "front"
         data.delete(:card_key)
         YAML.dump(data.stringify_keys)
       end

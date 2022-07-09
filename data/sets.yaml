@@ -76,3 +76,5 @@
   release_key: UPR
   kind: booster_set
   name: Uprising - Booster Set
+  printing_keys:
+  - UPR

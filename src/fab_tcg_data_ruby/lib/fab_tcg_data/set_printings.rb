@@ -60,6 +60,49 @@ module FabTcgData
       end
     end
 
+    module Upr
+      def self.run(card)
+        finishes = Set.new
+
+        if ["fabled", "legendary"].include?(card.rarity.key)
+          finishes.add(PrintFinishes.fetch("rainbow_foil"))
+          finishes.add(PrintFinishes.fetch("cold_foil"))
+        elsif card.card_type.key == "weapon"
+          finishes.add(PrintFinishes.fetch("regular"))
+          finishes.add(PrintFinishes.fetch("rainbow_foil"))
+          finishes.add(PrintFinishes.fetch("cold_foil"))
+        else
+          case card.name
+          when /\AInvoke ./
+            finishes.add(PrintFinishes.fetch("regular"))
+            finishes.add(PrintFinishes.fetch("marvel"))
+          when "Phoenix Form", "Flamecall Awakening", "Inflame", "Stoke the Flames"
+            finishes.add(PrintFinishes.fetch("regular"))
+            finishes.add(PrintFinishes.fetch("rainbow_foil"))
+            finishes.add(PrintFinishes.fetch("rainbow_foil_extended_art"))
+          when "Phoenix Flame", "Iyslander"
+            finishes.add(PrintFinishes.fetch("regular"))
+            finishes.add(PrintFinishes.fetch("marvel"))
+          when "Ash", "Aether Ashwing"
+            finishes.add(PrintFinishes.fetch("regular"))
+            finishes.add(PrintFinishes.fetch("cold_foil"))
+            finishes.add(PrintFinishes.fetch("marvel"))
+          when "Rewind"
+            finishes.add(PrintFinishes.fetch("regular"))
+            finishes.add(PrintFinishes.fetch("rainbow_foil"))
+            finishes.add(PrintFinishes.fetch("rainbow_foil_alternate_art"))
+          when "Scar for a Scar", "Cracked Bauble", "Dragons of Legend"
+            finishes.add(PrintFinishes.fetch("regular"))
+          else
+            finishes.add(PrintFinishes.fetch("regular"))
+            finishes.add(PrintFinishes.fetch("rainbow_foil"))
+          end
+        end
+
+        finishes.to_a
+      end
+    end
+
     def self.fetch(key, *args) = ALL.fetch(key, *args)
   end
 end
