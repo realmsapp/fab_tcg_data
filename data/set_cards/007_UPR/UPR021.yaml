@@ -1,0 +1,26 @@
+---
+key: UPR021
+name: Dunebreaker Cenipai
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR021.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
+game_text: ! |-
+  Phantasm (When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)
+
+  When Dunebreaker Cenipai is destroyed, create an Ash token.
+
+  Go again
+variants:
+- UPR021
+- UPR021-RF

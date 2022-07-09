@@ -1,0 +1,19 @@
+---
+key: UPR006-BACK
+back_key: UPR006
+name: Dracona Optimai
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR006-BACK.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+attack: '6'
+life: '6'
+game_text: ! |-
+  Whenever Dracona Optimai attacks a hero, reveal the top 3 cards of your deck. He deals arcane damage equal to twice the number of red cards revealed this way to them or ally they control.
+variants:
+- UPR006-BACK
+- UPR006-BACK-MV

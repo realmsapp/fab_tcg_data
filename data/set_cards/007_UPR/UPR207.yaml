@@ -1,0 +1,19 @@
+---
+key: UPR207
+name: Critical Strike
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR207.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '2'
+cost: '1'
+attack: '4'
+defense: '3'
+variants:
+- UPR207
+- UPR207-RF

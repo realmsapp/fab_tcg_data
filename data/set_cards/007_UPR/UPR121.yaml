@@ -3,22 +3,18 @@ key: UPR121
 name: Icebind
 set: UPR
 rarity: common
-artist: jessada_sutthi
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR121.width-450.png
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR121.png?w=350&fit=clip&auto=compress,format
 card_type: action
 supertypes:
-- elemental
 - wizard
-cost: '0'
+- elemental
+resources: '3'
 defense: '3'
 game_text: ! |-
-  **Ice Fusion** _(As an additional cost to play Ice Eternal, you may
-  reveal an Ice card from your hand.)
+  Ice Fusion (As an additional cost to play Icebind, you may reveal an Ice card from your hand.)
 
-  Deal 1 arcane damage to any target. If Icebind
-  was **fused** and deals damage to a hero, **freeze** a
-  card in their arsenal until the start of your next
-  turn. _(A frozen object can't be played or activated.)_
-keywords:
-- fusion
-- freeze
+  Deal 1 arcane damage to any target. If Icebind was fused and deals damage to a hero, freeze a card in their arsenal until the start of your next turn. (A frozen object can't be played or activated.)
+variants:
+- UPR121
+- UPR121-RF

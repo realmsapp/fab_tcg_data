@@ -1,0 +1,19 @@
+---
+key: UPR152
+name: Silent Stilettos
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR152.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- illusionist
+subtypes:
+- legs
+game_text: ! |-
+  Whenever an attacking ally you control dies or an attack action card you control is destroyed by phantasm, you may pay {r}{r}{r}. If you do, destroy Silent Stilettos and gain 1 action point.
+
+  Arcane Barrier 1 (If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)
+variants:
+- UPR152
+- UPR152-RF

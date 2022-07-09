@@ -1,0 +1,24 @@
+---
+key: UPR014
+back_key: UPR014-BACK
+name: Invoke Ouvia
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR014.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+resources: '1'
+cost: '2'
+defense: '3'
+game_text: ! |-
+  (Invocations resolve flipped as an ally in the arena.)
+
+  Transform target ash you control into Ouvia. (Put the ash under her.)
+
+  Go again
+variants:
+- UPR014
+- UPR014-MV

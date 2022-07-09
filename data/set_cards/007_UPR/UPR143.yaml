@@ -1,0 +1,20 @@
+---
+key: UPR143
+name: Isenhowl Weathervane
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR143.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ice
+resources: '3'
+cost: '1'
+defense: '2'
+game_text: ! |-
+  The next time you Ice fuse this turn, create 2 Frostbite tokens under target hero's control.
+
+  Go again
+variants:
+- UPR143
+- UPR143-RF

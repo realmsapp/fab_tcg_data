@@ -3,8 +3,8 @@ key: UPR086
 name: Thaw
 set: UPR
 rarity: majestic
-artist: hoang_lap
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR086.width-450.png
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR086.png?w=350&fit=clip&auto=compress,format
 card_type: action
 supertypes:
 - draconic
@@ -15,11 +15,11 @@ cost: '2'
 attack: '6'
 defense: '2'
 game_text: ! |-
-  While Thaw is in your graveyard, at the start
-  of your turn, you may banish it and choose 1:
+  While Thaw is in your graveyard, at the start of your turn, you may banish it and choose 1:
 
-  * Destroy target Frostbite.
-  * Destroy target Ice affliction.
-  * **Unfreeze** target **frozen** card.
-keywords:
-- freeze
+  - Destroy target Frostbite.
+  - Destroy target Ice affliction.
+  - Unfreeze target frozen card.
+variants:
+- UPR086
+- UPR086-RF

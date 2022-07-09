@@ -1,0 +1,22 @@
+---
+key: UPR218
+name: Sigil of Protection
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR218.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- aura
+resources: '1'
+cost: '1'
+defense: '2'
+game_text: ! |-
+  Ward 4 (If your hero would be dealt damage, prevent 4 of that damage and destroy Sigil of Protection.)
+
+  At the beginning of your action phase, destroy Sigil of Protection.
+variants:
+- UPR218
+- UPR218-RF

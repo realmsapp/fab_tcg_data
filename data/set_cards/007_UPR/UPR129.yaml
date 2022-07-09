@@ -1,0 +1,19 @@
+---
+key: UPR129
+name: Aether Hail
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR129.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+- ice
+resources: '3'
+cost: '1'
+defense: '3'
+game_text: ! |-
+  Deal 2 arcane damage to any target.
+variants:
+- UPR129
+- UPR129-RF

@@ -1,0 +1,20 @@
+---
+key: UPR125
+name: Conduit of Frostburn
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR125.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- wizard
+- ice
+subtypes:
+- arms
+game_text: ! |-
+  Instant - Destroy Conduit of Frostburn: The next card you play this turn with an effect that deals arcane damage gains "When this deals arcane damage to a hero, destroy a frozen card in their arsenal."
+
+  Quell 1 (If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Conduit of Frostburn at the beginning of the end phase.)
+variants:
+- UPR125
+- UPR125-RF

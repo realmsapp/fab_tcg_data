@@ -1,0 +1,19 @@
+---
+key: UPR151
+name: Ghostly Touch
+set: UPR
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR151-CF.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- illusionist
+subtypes:
+- arms
+game_text: ! |-
+  Whenever an Illusionist attack you control is destroyed by phantasm, put a haunt counter on Ghostly Touch.
+
+  Once per Turn Action - Remove a haunt counter from Ghostly Touch: Until end of turn, this becomes an Illusionist ally with phantasm, base {p} and {g} equal to the number of haunt counters on it, and "Once per Turn Action - {r}{r}{r}: Attack". Go again
+variants:
+- UPR151-RF
+- UPR151-CF

@@ -1,0 +1,19 @@
+---
+key: UPR042
+name: Aether Ashwing
+set: UPR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR042.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+attack: '1'
+life: '1'
+game_text: ! |-
+  Arcane Barrier 1 (If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)
+variants:
+- UPR042
+- UPR042-CF
+- UPR042-MV

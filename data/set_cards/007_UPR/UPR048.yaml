@@ -1,0 +1,22 @@
+---
+key: UPR048
+name: Phoenix Form
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR048.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+- draconic
+subtypes:
+- attack
+resources: '1'
+attack: '3'
+defense: '3'
+game_text: ! |-
+  If you control 1 or more Phoenix Flames, Phoenix Form has go again. If you control 2 or more, it has +2{p}. If you control 3 or more, it has "When this hits a hero, draw 3 cards."
+variants:
+- UPR048
+- UPR048-RF
+- UPR048-RFEA

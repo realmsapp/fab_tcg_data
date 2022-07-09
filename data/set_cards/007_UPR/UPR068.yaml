@@ -1,0 +1,22 @@
+---
+key: UPR068
+name: Dust Runner Outlaw
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR068.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+- draconic
+subtypes:
+- attack
+resources: '3'
+cost: '1'
+attack: '2'
+defense: '2'
+game_text: ! |-
+  Go again
+variants:
+- UPR068
+- UPR068-RF

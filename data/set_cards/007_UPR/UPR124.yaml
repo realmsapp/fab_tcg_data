@@ -1,0 +1,21 @@
+---
+key: UPR124
+name: Polar Cap
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR124.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+- elemental
+resources: '3'
+cost: '2'
+defense: '3'
+game_text: ! |-
+  Ice Fusion (As an additional cost to play Polar Cap, you may reveal an Ice card from your hand.)
+
+  Dea l2 arcane damage to any target. If Polar Cap was fused and deals damage to a hero, create a Frostbite token under their control.
+variants:
+- UPR124
+- UPR124-RF

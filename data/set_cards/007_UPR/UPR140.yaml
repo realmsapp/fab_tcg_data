@@ -1,0 +1,22 @@
+---
+key: UPR140
+name: Insidious Chill
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR140.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ice
+subtypes:
+- aura
+resources: '3'
+cost: '3'
+defense: '2'
+game_text: ! |-
+  Insidious Chill enters the arena with 3 frost counters on it. When it has no frost counters on it, destroy it.
+
+  Whenever you Ice Fuse, remove a frost counter from Insidious Chill. If you do, target hero discards a card unless they pay {r}{r}.
+variants:
+- UPR140
+- UPR140-RF

@@ -1,0 +1,21 @@
+---
+key: UPR094
+name: Burn Away
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR094.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '2'
+defense: '3'
+game_text: ! |-
+  As an additional cost to play Burn Away, you may banish a Phoenix Flame from your graveyard. When you do, Burn Away gains +2{p} and go again.
+variants:
+- UPR094
+- UPR094-RF

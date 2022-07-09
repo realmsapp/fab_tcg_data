@@ -1,0 +1,19 @@
+---
+key: UPR089
+name: Tome of Firebrand
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR089.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- draconic
+resources: '1'
+cost: '1'
+game_text: ! |-
+  Play Tome of Firebrand only if you control 4 or more Draconic chain links.
+
+  Draw 2 cards.
+variants:
+- UPR089
+- UPR089-RF

@@ -1,0 +1,22 @@
+---
+key: UPR153
+name: Frightmare
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR153.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+subtypes:
+- attack
+resources: '2'
+cost: '3'
+attack: '13'
+game_text: ! |-
+  Play Frightmare only if an Illusionist attack action card you control has been destroyed by phantasm this turn.
+
+  Phantasm (When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)
+variants:
+- UPR153
+- UPR153-RF

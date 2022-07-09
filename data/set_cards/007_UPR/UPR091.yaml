@@ -1,0 +1,23 @@
+---
+key: UPR091
+name: Rise Up
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR091.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '3'
+defense: '3'
+game_text: ! |-
+  Dromai or Fai Specialization (You may only have Rise Up in your deck if your hero is Dromai or Fai.)
+
+  Rupture - If Rise Up is played as chain link 4 or higher, it has dominate and +X{p}, where X is twice the number of Phoenix Flames you control. (The defending hero can't defend with or play more than 1 defending card or defense reaction from their hand this chain link.)
+variants:
+- UPR091
+- UPR091-RF

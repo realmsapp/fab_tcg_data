@@ -1,0 +1,18 @@
+---
+key: UPR164
+name: Rapid Reflex
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR164.png?w=350&fit=clip&auto=compress,format
+card_type: attack_reaction
+supertypes:
+- ninja
+resources: '3'
+cost: '1'
+defense: '3'
+game_text: ! |-
+  Target attack action card with cost 0 gains +1{p}.
+variants:
+- UPR164
+- UPR164-RF

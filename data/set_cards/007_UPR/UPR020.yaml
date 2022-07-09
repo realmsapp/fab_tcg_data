@@ -1,0 +1,24 @@
+---
+key: UPR020
+name: Billowing Mirage
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR020.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+subtypes:
+- attack
+resources: '3'
+cost: '1'
+attack: '1'
+defense: '3'
+game_text: ! |-
+  When you attack with Billowing Mirage, transform up to 1 ash you control into an Aether Ashwing. (Create an Aether Ashwing token and put the ash under it.)
+
+  Go again
+variants:
+- UPR020
+- UPR020-RF

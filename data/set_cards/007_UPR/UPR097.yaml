@@ -1,0 +1,23 @@
+---
+key: UPR097
+name: Inflame
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR097.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+resources: '1'
+attack: '1'
+defense: '2'
+game_text: ! |-
+  When you attack with Inflame, if you've played another red card this turn, you may return a Phoenix Flame from your graveyard to your hand.
+
+  Go again
+variants:
+- UPR097
+- UPR097-RF
+- UPR097-RFEA

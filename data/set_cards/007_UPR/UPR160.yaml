@@ -1,0 +1,22 @@
+---
+key: UPR160
+name: Double Strike
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR160.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+resources: '1'
+attack: '1'
+defense: '2'
+game_text: ! |-
+  When Double Strike's chain link resolves, banish it. You may play it this combat chain. If you do, it loses this ability.
+
+  Go again
+variants:
+- UPR160
+- UPR160-RF

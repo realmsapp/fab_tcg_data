@@ -1,0 +1,21 @@
+---
+key: UPR203
+name: Brothers in Arms
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR203.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '1'
+cost: '2'
+attack: '6'
+defense: '2'
+game_text: ! |-
+  When you defend with Brothers in Arms, you may pay {r}. If you do, it gains +2{d}.
+variants:
+- UPR203
+- UPR203-RF

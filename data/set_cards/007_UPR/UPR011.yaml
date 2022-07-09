@@ -1,0 +1,24 @@
+---
+key: UPR011
+back_key: UPR011-BACK
+name: Invoke Kyloria
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR011.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+resources: '1'
+cost: '1'
+defense: '3'
+game_text: ! |-
+  (Invocations resolve flipped as an ally in the arena.)
+
+  Transform target ash you control into Kyloria. (Put the ash under her.)
+
+  Go again
+variants:
+- UPR011
+- UPR011-MV

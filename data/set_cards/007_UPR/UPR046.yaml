@@ -1,0 +1,20 @@
+---
+key: UPR046
+name: Searing Emberblade
+set: UPR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR046.png?w=350&fit=clip&auto=compress,format
+card_type: weapon
+supertypes:
+- ninja
+- draconic
+attack: '3'
+game_text: ! |-
+  Once per Turn Action - {r}{r}: Attack
+
+  If you control 2 or more Draconic chain links, Searing Emberblade has go again.
+variants:
+- UPR046
+- UPR046-RF
+- UPR046-CF

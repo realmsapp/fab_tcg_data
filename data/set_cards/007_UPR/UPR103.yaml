@@ -2,18 +2,25 @@
 key: UPR103
 name: Iyslander
 set: UPR
-rarity: token
-artist: alexander_mokhov
-image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_02.width-450.png
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR103-MV.png?w=350&fit=clip&auto=compress,format
 card_type: hero
 supertypes:
-- elemental
 - wizard
+- elemental
+subtypes:
+- young
 intellect: '4'
 life: '18'
 game_text: ! |-
-  **Essence of Ice** _(You may have Ice cards in your deck.)
+  Essence of Ice (You may have Ice cards in your deck.)
 
   If it's not your turn, you may play blue 'non-attack' action cards from your arsenal as though they were an instant.
 
   Whenever you play an Ice card during an opponent's turn, create a Frostbite token under their control.
+essences:
+- ice
+variants:
+- UPR103
+- UPR103-MV

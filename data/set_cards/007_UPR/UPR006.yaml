@@ -1,0 +1,26 @@
+---
+key: UPR006
+back_key: UPR006-BACK
+name: Invoke Dracona Optimai
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR006.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+subtypes:
+- invocation
+resources: '1'
+cost: '6'
+defense: '3'
+game_text: ! |-
+  Legendary (You may only have 1 Invoke Dracona Optimai in your deck.)
+
+  Transform target ash you control into Dracona Optimai. (Put the ash under him.)
+
+  Go again
+variants:
+- UPR006
+- UPR006-MV

@@ -1,0 +1,18 @@
+---
+key: UPR181
+name: Singe
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR181.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+resources: '3'
+cost: '1'
+defense: '3'
+game_text: ! |-
+  Deal 1 arcane damage to target hero and up to 1 target allies they control.
+variants:
+- UPR181
+- UPR181-RF

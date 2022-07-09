@@ -1,0 +1,23 @@
+---
+key: UPR009
+back_key: UPR009-BACK
+name: Invoke Azvolai
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR009.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+resources: '1'
+defense: '3'
+game_text: ! |-
+  (Invocations resolve flipped as an ally in the arena.)
+
+  Transform target ash you control into Azvolai. (Put the ash under him.)
+
+  Go again
+variants:
+- UPR009
+- UPR009-MV

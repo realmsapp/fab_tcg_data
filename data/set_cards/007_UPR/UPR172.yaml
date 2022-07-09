@@ -1,0 +1,20 @@
+---
+key: UPR172
+name: Dampen
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR172.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+resources: '3'
+cost: '2'
+defense: '3'
+game_text: ! |-
+  Deal 2 arcane damage to any target.
+
+  Prevent the next X arcane damage that would be dealt to your hero this turn, where X is the damage dealt by Dampen.
+variants:
+- UPR172
+- UPR172-RF

@@ -1,0 +1,20 @@
+---
+key: UPR000
+name: Blood of the Dracai
+set: UPR
+rarity: fabled
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR000.png?w=350&fit=clip&auto=compress,format
+card_type: resource
+supertypes:
+- draconic
+subtypes:
+- gem
+resources: '1'
+game_text: ! |-
+  Legendary (You may only have 1 Blood of the Dracai in your deck.)
+
+  When you pitch Blood of the Dracai, the next 3 Draconic cards you play this turn cost {r} less.
+variants:
+- UPR000-RF
+- UPR000-CF

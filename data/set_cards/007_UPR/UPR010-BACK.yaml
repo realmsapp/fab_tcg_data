@@ -1,0 +1,19 @@
+---
+key: UPR010-BACK
+back_key: UPR010
+name: Cromai
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR010-BACK.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+attack: '3'
+life: '2'
+game_text: ! |-
+  Once per turn, when Cromai attacks or leaves the arena, gain 1 action point. (You can only gain action points during your action phase.)
+variants:
+- UPR010-BACK
+- UPR010-BACK-MV

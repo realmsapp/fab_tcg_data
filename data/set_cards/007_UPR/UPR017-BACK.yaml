@@ -1,0 +1,20 @@
+---
+key: UPR017-BACK
+back_key: UPR017
+name: Yendurai
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR017-BACK.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+attack: '3'
+life: '3'
+game_text: ! |-
+  Yendurai enters the arena with an endurance counter on him.
+  If Yendurai would be dealt damage, remove an endurance counter from him to prevent 3 of that damage.
+variants:
+- UPR017-BACK
+- UPR017-BACK-MV

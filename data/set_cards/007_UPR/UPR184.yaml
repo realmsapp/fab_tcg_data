@@ -1,0 +1,17 @@
+---
+key: UPR184
+name: Quelling Robe
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR184.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- generic
+subtypes:
+- chest
+game_text: ! |-
+  Quell 1 (If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Quelling Robe at the beginning of the end phase.)
+variants:
+- UPR184
+- UPR184-RF

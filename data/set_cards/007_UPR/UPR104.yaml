@@ -3,21 +3,18 @@ key: UPR104
 name: Encase
 set: UPR
 rarity: majestic
-artist: nikolay_moskvin
-image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_03.width-450.png
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR104.png?w=350&fit=clip&auto=compress,format
 card_type: action
 supertypes:
-- elemental
 - wizard
+- elemental
 resources: '1'
-cost: '0'
 defense: '3'
 game_text: ! |-
-  **Ice Fusion** _(As an additional cost to play Encase, you may reveal an Ice card from your hand.)_
+  Ice Fusion (As an additional cost to play Encase, you may reveal an Ice card from your hand.)
 
-  Deal 3 arcane damage to any target. If Encase was
-  fused and deals damage to a hero, freeze that hero
-  and all equipment they control until the start of your
-  next turn. _(A frozen object can't be played or activated.)_
-keywords:
-- fusion
+  Deal 3 arcane damage to any target. If Encase was fused and deals damage to a hero, freeze that hero and all equipment they control until the start of your next turn. (A frozen object can't be played or activated.)
+variants:
+- UPR104
+- UPR104-RF

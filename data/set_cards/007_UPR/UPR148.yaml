@@ -1,0 +1,22 @@
+---
+key: UPR148
+name: Cold Snap
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR148.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ice
+resources: '2'
+cost: '1'
+defense: '2'
+game_text: ! |-
+  Target hero may pay {r}{r}. If they don't, freeze a card in their arsenal or an ally they control until the start of your next turn. (A frozen object can't be played or activated.)
+
+  If Cold Snap is played from arsenal, draw a card.
+
+  Go again
+variants:
+- UPR148
+- UPR148-RF

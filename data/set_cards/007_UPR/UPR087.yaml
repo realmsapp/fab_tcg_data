@@ -1,0 +1,18 @@
+---
+key: UPR087
+name: Liquefy
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/3ybp0qGo0oKT3lzqWsbJWzpYqqXg1ZKBbZtaetcE.png?w=350&fit=clip&auto=compress,format
+card_type: attack_reaction
+supertypes:
+- draconic
+resources: '1'
+cost: '1'
+defense: '2'
+game_text: ! |-
+  **Rupture** - If Liquefy is playted at chain link 4 or higher, target attack action card gains "When this hits a hero, put a -1 [defense] counter on an equipment they control. Then if it has 0 [defense], destroy it."
+variants:
+- UPR087
+- UPR087-RF

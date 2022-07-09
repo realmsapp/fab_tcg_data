@@ -1,0 +1,21 @@
+---
+key: UPR187
+name: Erase Face
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR187.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '1'
+cost: '2'
+attack: '6'
+defense: '2'
+game_text: ! |-
+  When Erase Face hits a hero, cards and tokens they own lose all class and talent types until the end of their next turn.
+variants:
+- UPR187
+- UPR187-RF

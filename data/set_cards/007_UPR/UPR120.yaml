@@ -1,0 +1,20 @@
+---
+key: UPR120
+name: Icebind
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR120.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+- elemental
+resources: '2'
+defense: '3'
+game_text: ! |-
+  Ice Fusion (As an additional cost to play Icebind, you may reveal an Ice card from your hand.)
+
+  Deal 2 arcane damage to any target. If Icebind was fused and deals damage to a hero, freeze a card in their arsenal until the start of your next turn. (A frozen object can't be played or activated.)
+variants:
+- UPR120
+- UPR120-RF

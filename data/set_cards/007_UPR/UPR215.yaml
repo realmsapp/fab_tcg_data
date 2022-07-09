@@ -1,0 +1,17 @@
+---
+key: UPR215
+name: Healing Balm
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR215.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+resources: '1'
+defense: '2'
+game_text: ! |-
+  Gain 3{g}
+variants:
+- UPR215
+- UPR215-RF

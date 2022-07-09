@@ -1,0 +1,17 @@
+---
+key: UPR189
+name: That All You Got?
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR189.png?w=350&fit=clip&auto=compress,format
+card_type: defense_reaction
+supertypes:
+- generic
+resources: '2'
+defense: '3'
+game_text: ! |-
+  While this is defending a card with 2 or less {p}, when the combat chain closes, draw a card.
+variants:
+- UPR189
+- UPR189-RF

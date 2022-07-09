@@ -1,0 +1,24 @@
+---
+key: UPR007
+back_key: UPR007-BACK
+name: Invoke Tomeltai
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR007.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+resources: '1'
+cost: '5'
+defense: '3'
+game_text: ! |-
+  Legendary (You may only have 1 Invoke Tomeltai in your deck.)
+
+  Transform target ash you control into Tomeltai. (Put the ash under him.)
+
+  Go again
+variants:
+- UPR007
+- UPR007-MV
