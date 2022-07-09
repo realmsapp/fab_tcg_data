@@ -66,7 +66,6 @@ module FabTcgData
           end.map { |k| Persona.new(key: k) },
           variants: item.fetch(:variants, []).map { |k| Variant.load(item.fetch(:key), k) },
           position: item.fetch(:position, item.key?(:back_key) ? "back" : "front"),
-          front_key: item.fetch(:front_key, nil),
           back_key: item.fetch(:back_key, nil),
         )
       end
@@ -106,7 +105,6 @@ module FabTcgData
         # Printing
         variants ArrayOf(Variant), default: []
         position Either("front", "back"), default: "front"
-        front_key Either(String, nil), default: nil
         back_key Either(String, nil), default: nil
       }
 
@@ -134,7 +132,6 @@ module FabTcgData
         {
           key:,
           card_key:,
-          front_key:,
           back_key:,
           position:,
           name:,
@@ -157,7 +154,7 @@ module FabTcgData
           essences: essences.map(&:key),
           legendary: legendary?,
           specializations: specializations.map(&:key),
-          variants: printed_variants.map(&:key),
+          variants: variants.map(&:key),
         }.reject { |_a, b| b.blank? }.to_h
       end
 
@@ -173,8 +170,6 @@ module FabTcgData
         data = attributes
         data[:game_text] = LiteralScalar.new(data[:game_text]) if data[:game_text].present?
         data[:flavor_text] = LiteralScalar.new(data[:flavor_text]) if data[:flavor_text].present?
-        data[:variants] = printed_variants.map(&:key)
-        data.delete(:specialization) if data[:specialization] == "none"
         data.delete(:position) if data[:position] == "front"
         data.delete(:card_key)
         YAML.dump(data.stringify_keys)
