@@ -9,6 +9,10 @@ module FabTcgData
         key String
         name String
       }
+
+      def icon_class
+        "ban-solid"
+      end
     end
 
     ALL = Lookup.load("card_types.yaml") do |item|

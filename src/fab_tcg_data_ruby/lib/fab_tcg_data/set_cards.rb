@@ -130,6 +130,25 @@ module FabTcgData
         @card_key ||= [name_slug, color].compact.join("-")
       end
 
+      def selection_range(format: nil)
+        return (0..1) if legendary?
+        case card_type
+        when CardTypes::WEAPON then (0..1)
+        when CardTypes::HERO then (0..1)
+        when CardTypes::EQUIPMENT then (0..1)
+        else
+          if ["blitz", "commoner"].include?(format)
+            (0..2)
+          else
+            (0..3)
+          end
+        end
+      end
+
+      def icon_classes
+        []
+      end
+
       def attributes
         {
           key:,
