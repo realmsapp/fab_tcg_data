@@ -10,10 +10,6 @@ module FabTcgData
         name String
         symbol String
       }
-
-      def color
-        "purple"
-      end
     end
 
     ALL = Lookup.load("rarities.yaml") do |item|

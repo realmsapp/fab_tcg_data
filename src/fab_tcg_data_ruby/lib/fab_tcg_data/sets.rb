@@ -12,6 +12,24 @@ module FabTcgData
         release_key String
         printings ArrayOf(SetPrintings::SetPrinting), default: []
       }
+
+      def fetch_card(card_key)
+        _cache.fetch(card_key)
+      end
+
+      def fetch_cards(*card_keys) = card_keys.map { |ck| fetch_card(ck) }
+
+      private
+
+      def _cache
+        @_cache ||= Lookup.load("set_cards/*_#{key}/#{key}*.yaml") do |item|
+          begin
+            SetCards::SetCard.load(item)
+          rescue StandardError => e
+            raise ParseError, item.inspect
+          end
+        end.values.index_by(&:card_key)
+      end
     end
 
     ALL = Lookup.load("sets.yaml") do |item|

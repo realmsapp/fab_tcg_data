@@ -106,6 +106,14 @@ module FabTcgData
         variants ArrayOf(Variant), default: []
       }
 
+      def talents
+        supertypes.select(&:talent?)
+      end
+
+      def hero_class
+        supertypes.select(&:class?)
+      end
+
       def back?
         @back ||= set_card_key.ends_with?("-BACK")
       end
@@ -143,10 +151,6 @@ module FabTcgData
             (0..3)
           end
         end
-      end
-
-      def icon_classes
-        []
       end
 
       def attributes

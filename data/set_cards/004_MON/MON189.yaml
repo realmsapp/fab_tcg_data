@@ -16,5 +16,6 @@ game_text: ! |-
   Play Doomsday only if there are 6 or more cards with blood debt in your banished zone.
 
   Create a Blasmophet, the Soul Harvester token.
+legendary: true
 specializations:
 - Levia
