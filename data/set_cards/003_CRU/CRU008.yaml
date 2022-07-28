@@ -1,6 +1,5 @@
 ---
 key: CRU008
-card_key: massacre_red
 name: Massacre
 set: CRU
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '6'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '6'
+defense: '3'
 game_text: ! |-
   If you have discarded a card with 6 or more [attack] this turn, Massacre gains +2[attack] and **intimidate**.
 

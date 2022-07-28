@@ -1,6 +1,5 @@
 ---
 key: ELE147
-card_key: blizzard_blue
 name: Blizzard
 set: ELE
 rarity: majestic
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE147.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - ice
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Target attack loses and can't gain **go again** unless the attacking hero pays [2 Resource].

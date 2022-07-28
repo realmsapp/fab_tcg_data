@@ -1,6 +1,5 @@
 ---
 key: MON008
-card_key: herald_of_triumph_red
 name: Herald of Triumph
 set: MON
 rarity: rare
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '7'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '7'
+defense: '3'
 game_text: ! |-
   Attack action cards have -1 [Power] while defending Herald of Triumph.
 

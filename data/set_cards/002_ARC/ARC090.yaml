@@ -1,6 +1,5 @@
 ---
 key: ARC090
-card_key: reduce_to_runechant_blue
 name: Reduce to Runechant
 set: ARC
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/90.png?w=300&fit=clip&auto=compres
 card_type: defense_reaction
 supertypes:
 - runeblade
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Reduce to Runechant costs [resource] less to play for each Runechant you control.
 

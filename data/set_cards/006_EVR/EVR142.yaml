@@ -1,6 +1,5 @@
 ---
 key: EVR142
-card_key: passing_mirage_blue
 name: Passing Mirage
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - illusionist
 subtypes:
 - aura
-defense: '2'
 resources: '3'
+defense: '2'
 game_text: ! |-
   Your first Illusionist attack each turn loses and can't gain phantasm.
 

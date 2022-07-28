@@ -1,6 +1,5 @@
 ---
 key: WTR152
-card_key: heartened_cross_strap
 name: Heartened Cross Strap
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '0'
 game_text: ! |-
   **Action** - Destroy Heartened Cross Strap: The next attack action card you play this turn costs [2 resource] less to play. **Go again**
+variants:
+- WTR152
+- WTR152-RF
+- U-WTR152
+- U-WTR152-RF

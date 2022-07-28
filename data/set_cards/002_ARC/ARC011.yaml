@@ -1,6 +1,5 @@
 ---
 key: ARC011
-card_key: pedal_to_the_metal_red
 name: Pedal to the Metal
 set: ARC
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '5'
+defense: '2'
 game_text: ! |-
   If Pedal to the Metal hits, your next attack this turn gains **dominate**. *(The defending hero can't defend the attack with more than 1 card from their hand.)*

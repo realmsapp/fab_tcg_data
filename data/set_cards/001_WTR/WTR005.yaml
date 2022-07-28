@@ -1,6 +1,5 @@
 ---
 key: WTR005
-card_key: barkbone_strapping
 name: Barkbone Strapping
 set: WTR
 rarity: common
@@ -16,3 +15,8 @@ game_text: ! |-
   **Instant** - Destroy Barkbone Strapping: Roll a 6 sided die. Gain [resource] equal to half the number rolled, rounded down.
 
   **Battleworn** *(If you defend with Backbone Strapping, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR005
+- WTR005-RF
+- U-WTR005
+- U-WTR005-RF

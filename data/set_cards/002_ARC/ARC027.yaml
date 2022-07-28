@@ -1,6 +1,5 @@
 ---
 key: ARC027
-card_key: zero_to_sixty_yellow
 name: Zero to Sixty
 set: ARC
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '3'
+defense: '3'
 game_text: ! |-
   **Boost** *(As an additional cost to play Zero to Sixty, you may banish the top card of your deck. If it's a Mechanologist card, Zero to Sixty gains **go again**.)*

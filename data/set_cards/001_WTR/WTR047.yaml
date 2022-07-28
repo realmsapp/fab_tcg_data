@@ -1,6 +1,5 @@
 ---
 key: WTR047
-card_key: show_time_blue
 name: Show Time!
 set: WTR
 rarity: super_rare
@@ -11,13 +10,19 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '3'
 cost: '3'
 defense: '3'
-resources: '3'
 game_text: ! |-
   **Bravo Specialization** *(You may only have Show Time! in your deck if your hero is Bravo.)*
 
   When Show Time! enters the arena, search your deck for a Guardian attack action card, reveal it, put it into your hand, then shuffle your library.
 
   At the beginning of your action phase, destroy Show Time! then draw a card.
-specialization: Bravo
+specializations:
+- Bravo
+variants:
+- WTR047
+- WTR047-RF
+- U-WTR047
+- U-WTR047-RF

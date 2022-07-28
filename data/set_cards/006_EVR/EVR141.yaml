@@ -1,6 +1,5 @@
 ---
 key: EVR141
-card_key: haze_bending_blue
 name: Haze Bending
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - illusionist
 subtypes:
 - aura
-defense: '2'
 resources: '3'
+defense: '2'
 game_text: ! |-
   Once per Turn Effect - Whenever Haze Bending or another Illusionist non-token aura you control is destroyed, create a Spectral Shield token.
 

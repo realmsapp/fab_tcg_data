@@ -1,6 +1,5 @@
 ---
 key: ELE041
-card_key: snap_shot_red
 name: Snap Shot
 set: ELE
 rarity: rare
@@ -10,11 +9,10 @@ card_type: action
 supertypes:
 - ranger
 - elemental
-
-attack: '4'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

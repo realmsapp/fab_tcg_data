@@ -3,6 +3,9 @@
   release_key: WTR
   kind: booster_set
   name: Welcome to Rathe - Booster Set
+  printing_keys:
+  - WTR
+  - U-WTR
 
 - set_key: TEA
   release_key: WTR
@@ -73,3 +76,19 @@
   release_key: UPR
   kind: booster_set
   name: Uprising - Booster Set
+  printing_keys:
+  - UPR
+
+- set_key: FAI
+  release_key: UPR
+  kind: hero_deck
+  name: Fai - Hero Deck
+  printing_keys:
+  - FAI
+
+- set_key: DRO
+  release_key: DRO
+  kind: hero_deck
+  name: Dromai - Hero Deck
+  printing_keys:
+  - DRO

@@ -1,6 +1,5 @@
 ---
 key: ELE066
-card_key: force_of_nature_blue
 name: Force of Nature
 set: ELE
 rarity: majestic
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - elemental
-
+resources: '3'
 cost: '0'
 defense: '3'
-resources: '3'
 game_text: ! |-
   **Briar Specialization** *(You may only have Force of Nature in your deck if your hero is Briar.)*
 
@@ -24,4 +22,5 @@ game_text: ! |-
   If Force of Nature was **fused**, your next attack this turn gains +1 [Power].
 
   **Go again**
-specialization: Briar
+specializations:
+- Briar

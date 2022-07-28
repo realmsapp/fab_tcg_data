@@ -1,6 +1,5 @@
 ---
 key: WTR202
-card_key: wounded_bull_blue
 name: Wounded Bull
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '5'
-cost: '3'
-defense: '2'
 resources: '3'
+cost: '3'
+attack: '5'
+defense: '2'
 game_text: ! |-
   When you play Wounded Bull, if you have less [life] than your opponent, Wounded Bull gains +1[attack].
+variants:
+- WTR202
+- WTR202-RF
+- U-WTR202
+- U-WTR202-RF

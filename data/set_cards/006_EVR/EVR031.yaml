@@ -1,6 +1,5 @@
 ---
 key: EVR031
-card_key: seismic_stir_yellow
 name: Seismic Stir
 set: EVR
 rarity: common
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR031.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - guardian
-
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! "Create 2 Seismic Surge tokens.\r\n\r\n**Go again**"

@@ -1,6 +1,5 @@
 ---
 key: ELE031
-card_key: lexi_livewire
 name: Lexi, Livewire
 set: ELE
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - ranger
 - elemental
-
 intellect: '4'
 life: '40'
 game_text: ! |-

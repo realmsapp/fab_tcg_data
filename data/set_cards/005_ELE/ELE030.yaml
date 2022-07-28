@@ -1,6 +1,5 @@
 ---
 key: ELE030
-card_key: strength_of_sequoia_blue
 name: Strength of Sequoia
 set: ELE
 rarity: common
@@ -12,9 +11,9 @@ supertypes:
 - elemental
 subtypes:
 - aura
+resources: '3'
 cost: '2'
 defense: '3'
-resources: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Strength of Sequoia, you may reveal an Earth card from your hand.)*
 

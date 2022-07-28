@@ -1,0 +1,20 @@
+---
+key: UPR047
+name: Heat Wave
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR047.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- ninja
+- draconic
+subtypes:
+- arms
+game_text: ! |-
+  Instant - Destroy Heat Wave: Phoenix Flames you control gain +1{p} until end of turn.
+
+  Quell 1 (If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Heat Wave at the beginning of the end phase.)
+variants:
+- UPR047
+- UPR047-RF

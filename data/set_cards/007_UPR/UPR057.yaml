@@ -1,0 +1,22 @@
+---
+key: UPR057
+name: Rise from the Ashes
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR057.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+- draconic
+resources: '1'
+defense: '2'
+game_text: ! |-
+  The next Draconic or Ninja attack action card you play this turn gains +3{p}.
+
+  You may return a Phoenix Flame from your graveyard to your hand.
+
+  Go again
+variants:
+- UPR057
+- UPR057-RF

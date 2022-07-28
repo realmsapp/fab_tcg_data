@@ -1,6 +1,5 @@
 ---
 key: CRU154
-card_key: sutcliffes_research_notes_red
 name: Sutcliffe's Research Notes
 set: CRU
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/154.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - runeblade
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Reveal the top 3 cards of your deck. Create a Runechant token for each Runeblade attack action card revealed this way, then put the cards on top of your deck in any order. *(They're auras with "When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.")*
 

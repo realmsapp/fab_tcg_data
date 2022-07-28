@@ -1,6 +1,5 @@
 ---
 key: WTR079
-card_key: mask_of_momentum
 name: Mask of Momentum
 set: WTR
 rarity: legendary
@@ -16,3 +15,6 @@ game_text: ! |-
   **Once per Turn Effect** - When an attack action card you control is the third or higher chain link in a row to hit, draw a card.
 
   **Blade Break** *(If you defend with Mask of Momentum, destroy it when the combat chain closes.)*
+variants:
+- WTR079-CF
+- U-WTR079-RF

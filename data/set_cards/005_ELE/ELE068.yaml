@@ -1,6 +1,5 @@
 ---
 key: ELE068
-card_key: explosive_growth_yellow
 name: Explosive Growth
 set: ELE
 rarity: rare
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '2'
+defense: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Explosive Growth, you may reveal an Earth card from your hand.)*
 

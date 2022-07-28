@@ -1,0 +1,22 @@
+---
+key: UPR065
+name: Cinderskin Devotion
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR065.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+- draconic
+subtypes:
+- attack
+resources: '3'
+cost: '1'
+attack: '2'
+defense: '3'
+game_text: ! |-
+  If you control 2 or more Draconic chain links, Cinderskin Devotion has go again.
+variants:
+- UPR065
+- UPR065-RF

@@ -1,6 +1,5 @@
 ---
 key: WTR139
-card_key: stroke_of_foresight_yellow
 name: Stroke of Foresight
 set: WTR
 rarity: common
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/139.png?w=300&fit=clip&auto=compre
 card_type: attack_reaction
 supertypes:
 - warrior
-
+resources: '2'
 cost: '1'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Target weapon attack gains +2[attack].
 
   **Reprise** - If the defending hero has defended with a card from their hand this chain link, draw a card, then put a card from your hand on the top or bottom of your deck.
+variants:
+- WTR139
+- WTR139-RF
+- U-WTR139
+- U-WTR139-RF

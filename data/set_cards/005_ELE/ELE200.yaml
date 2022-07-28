@@ -1,6 +1,5 @@
 ---
 key: ELE200
-card_key: electrify_blue
 name: Electrify
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE200.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - lightning
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next time an attack action card hits a hero this turn, it deals 1 damage to them.
 

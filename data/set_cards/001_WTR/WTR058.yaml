@@ -1,6 +1,5 @@
 ---
 key: WTR058
-card_key: buckling_blow_yellow
 name: Buckling Blow
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '7'
-cost: '4'
-defense: '3'
 resources: '2'
+cost: '4'
+attack: '7'
+defense: '3'
 game_text: ! |-
   **Crush** - If Buckling does 4 or more damage to a hero, put a -1[defense] counter on target equipment they control.
+variants:
+- WTR058
+- WTR058-RF
+- U-WTR058
+- U-WTR058-RF

@@ -1,6 +1,5 @@
 ---
 key: MON119
-card_key: levia_shadowborn_abomination
 name: Levia, Shadowborn Abomination
 set: MON
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - brute
 - shadow
-
 intellect: '4'
 life: '40'
 game_text: ! |+

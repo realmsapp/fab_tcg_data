@@ -1,0 +1,20 @@
+---
+key: UPR001
+name: Dromai, Ash Artist
+set: UPR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR001.png?w=350&fit=clip&auto=compress,format
+card_type: hero
+supertypes:
+- illusionist
+- draconic
+intellect: '4'
+life: '40'
+game_text: ! |-
+  Whenever you pitch a red card, create an Ash token. (A red card is a card with a red color strip.)
+
+  If you've played a red card this turn, dragons you control have go again while attacking. (If an attacking dragon dies before chain link resolution, you don't go again.)
+variants:
+- UPR001
+- UPR001-RF

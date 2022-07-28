@@ -1,6 +1,5 @@
 ---
 key: CRU194
-card_key: brutal_assault_blue
 name: Brutal Assault
 set: CRU
 rarity: common
@@ -11,7 +10,7 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '3'

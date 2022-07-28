@@ -1,6 +1,5 @@
 ---
 key: LEV002
-card_key: lady_barthimont
 name: Lady Barthimont
 set: LEV
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: mentor
 supertypes:
 - brute
 - shadow
-
 defense: '3'
 game_text: ! |-
   Mentor (You may only have Barthimont in your deck if your hero is young.)

@@ -1,6 +1,5 @@
 ---
 key: WTR021
-card_key: savage_swing_yellow
 name: Savage Swing
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '6'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '6'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Savage Swing, discard a random card.
+variants:
+- WTR021
+- WTR021-RF
+- U-WTR021
+- U-WTR021-RF

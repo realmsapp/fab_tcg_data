@@ -1,6 +1,5 @@
 ---
 key: MON110
-card_key: dusk_path_pilgrimage_red
 name: Dusk Path Pilgrimage
 set: MON
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON110.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - warrior
-
+resources: '1'
 cost: '1'
 defense: '3'
-resources: '1'
 game_text: ! |-
   Your next weapon attack this turn gains +3 [Power] and "If this hits, you may attack an additional time with this weapon this turn." (You must have an action point to attack an additional time.)
 

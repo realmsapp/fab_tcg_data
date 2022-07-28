@@ -1,6 +1,5 @@
 ---
 key: CRU022
-card_key: bravo_showstopper
 name: Bravo, Showstopper
 set: CRU
 rarity: common
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/22.png?w=300&fit=clip&auto=compres
 card_type: hero
 supertypes:
 - guardian
-
 intellect: '4'
 life: '40'
 game_text: ! |-

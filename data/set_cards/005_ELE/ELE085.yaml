@@ -1,6 +1,5 @@
 ---
 key: ELE085
-card_key: bramble_spark_red
 name: Bramble Spark
 set: ELE
 rarity: common
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - elemental
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Bramble Spark, you may reveal an Earth card from your hand.)*
 

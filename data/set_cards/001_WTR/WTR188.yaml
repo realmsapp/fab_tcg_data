@@ -1,6 +1,5 @@
 ---
 key: WTR188
-card_key: raging_onslaught_red
 name: Raging Onslaught
 set: WTR
 rarity: common
@@ -11,7 +10,12 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '7'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '7'
+defense: '3'
+variants:
+- WTR188
+- WTR188-RF
+- U-WTR188
+- U-WTR188-RF

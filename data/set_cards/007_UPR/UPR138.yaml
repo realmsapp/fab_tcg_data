@@ -3,25 +3,20 @@ key: UPR138
 name: Channel the Bleak Expanse
 set: UPR
 rarity: majestic
-artist: mihail_spil_haufter
-image_url: https://storage.googleapis.com/fabmaster/media/images/ICE_CM1lpsjE9_05.width-450.png
-card_type: action
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR138.png?w=350&fit=clip&auto=compress,format
+card_type: instant
 supertypes:
 - ice
-subtypes:
-- aura
 resources: '3'
 cost: '1'
 defense: '2'
 game_text: ! |-
-  **Go Again**
+  Go again
 
-  Heroes can't reveal cards, search decks, or draw cards from effects.
+  Heroes can't draw cards, reveal cards, or search decks from effects.
 
-  **Channel Ice** - At the beginning of your end phase, put a
-  flow counter on Channel the Bleak Expanse then destroy
-  it unless you put an Ice card from your pitch zone on the
-  bottom of your deck for each flow counter on it.
-keywords:
-- go_again
-- channel
+  Channel Ice - At the beginning of your end phase, put a flow counter on Channel the Bleak Expanse then destroy it unless you put an Ice card from your pitch zone on the bottom of your deck for each flow counter on it.
+variants:
+- UPR138
+- UPR138-RF

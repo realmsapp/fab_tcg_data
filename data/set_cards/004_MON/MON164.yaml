@@ -1,6 +1,5 @@
 ---
 key: MON164
-card_key: dimenxxional_gateway_blue
 name: Dimenxxional Gateway
 set: MON
 rarity: rare
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - shadow
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Opt 1 (Look at the top card of your deck. You may put it on the bottom.)
 

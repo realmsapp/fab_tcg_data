@@ -1,0 +1,19 @@
+---
+key: UPR198
+name: Sift
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR198.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+resources: '2'
+defense: '3'
+game_text: ! |-
+  Put up to 3 cards from your hand on the bottom of your deck, then draw that many cards.
+
+  Go again
+variants:
+- UPR198
+- UPR198-RF

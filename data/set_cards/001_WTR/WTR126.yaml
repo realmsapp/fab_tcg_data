@@ -1,6 +1,5 @@
 ---
 key: WTR126
-card_key: steelblade_shunt_red
 name: Steelblade Shunt
 set: WTR
 rarity: rare
@@ -9,9 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/wtr/126.png?w=300&fit=clip&auto=compre
 card_type: defense_reaction
 supertypes:
 - warrior
-
+resources: '1'
 cost: '1'
 defense: '6'
-resources: '1'
 game_text: ! |-
   If Steelbade shunt defends a weapon attack, deal 1 damage to the attacking hero.
+variants:
+- WTR126
+- WTR126-RF
+- U-WTR126
+- U-WTR126-RF

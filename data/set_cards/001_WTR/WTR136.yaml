@@ -1,6 +1,5 @@
 ---
 key: WTR136
-card_key: biting_blade_yellow
 name: Biting Blade
 set: WTR
 rarity: common
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/136.png?w=300&fit=clip&auto=compre
 card_type: attack_reaction
 supertypes:
 - warrior
-
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Target weapon attack gains +2[attack].
 
   **Reprise** - If the defending hero has defended with a card from their hand this chain link, weapons you control gain +1[attack] until end of turn.
+variants:
+- WTR136
+- WTR136-RF
+- U-WTR136
+- U-WTR136-RF

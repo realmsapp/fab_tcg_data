@@ -1,6 +1,5 @@
 ---
 key: ARC016
-card_key: pour_the_mould_blue
 name: Pour the Mould
 set: ARC
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/16.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - mechanologist
-
+resources: '3'
 cost: '0'
 defense: '3'
-resources: '3'
 game_text: ! |-
   Put a Mechanologist item with cost 0 or less from your hand into the arena.
 

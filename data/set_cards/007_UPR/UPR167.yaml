@@ -1,0 +1,19 @@
+---
+key: UPR167
+name: Spellfire Cloak
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR167.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- wizard
+subtypes:
+- chest
+game_text: ! |-
+  Instant - Destroy Spellfire Cloak: Gain {r}. Activate this ability only during an opponent's turn.
+
+  Arcane Barrier 1 (If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)
+variants:
+- UPR167
+- UPR167-RF

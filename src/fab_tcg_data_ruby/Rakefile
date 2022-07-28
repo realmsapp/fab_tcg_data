@@ -7,3 +7,20 @@ RSpec::Core::RakeTask.new(:spec) do |t|
 end
 
 task default: :spec
+
+require "fab_tcg_data_ruby"
+require "debug"
+
+task :generate do
+  card_files = Dir["#{FabTcgData::Lookup.root_path}/data/set_cards/**/*.yaml"]
+  fp_card = card_files.sort.each_with_object({}) do |fp, memo|
+    memo[fp] = FabTcgData::SetCards.fetch(File.basename(fp, ".yaml"))
+  end
+  fp_card.each_pair do |fp, card|
+    begin
+      File.write(fp, card.to_realms_yaml)
+    rescue StandardError => e
+      raise fp.to_s
+    end
+  end
+end

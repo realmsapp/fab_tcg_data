@@ -1,6 +1,5 @@
 ---
 key: ELE108
-card_key: rejuvenate_blue
 name: Rejuvenate
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE108.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - elemental
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Gain 1 [Life]
 

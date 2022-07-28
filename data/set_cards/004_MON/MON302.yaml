@@ -1,6 +1,5 @@
 ---
 key: MON302
-card_key: talisman_of_dousing_yellow
 name: Talisman of Dousing
 set: MON
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '1'
 resources: '2'
+cost: '1'
 game_text: ! |-
   (Items stay in the arena until they are destroyed.)
 

@@ -1,6 +1,5 @@
 ---
 key: ARC167
-card_key: enchanting_melody_red
 name: Enchanting Melody
 set: ARC
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - aura
+resources: '1'
 cost: '2'
 defense: '2'
-resources: '1'
 game_text: ! |-
   *(Auras stay in the arena yntil they are destroyed.)*
 

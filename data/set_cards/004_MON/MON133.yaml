@@ -1,6 +1,5 @@
 ---
 key: MON133
-card_key: convulsions_from_the_bellows_of_hell_yellow
 name: Convulsions from the Bellows of Hell
 set: MON
 rarity: rare
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - brute
 - shadow
-
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   As as additional cost to play Convulsions from the Bellows of Hell, banish 3 random cards from your graveyard.
 

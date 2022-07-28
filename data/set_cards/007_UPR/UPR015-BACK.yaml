@@ -1,0 +1,19 @@
+---
+key: UPR015-BACK
+back_key: UPR015
+name: Themai
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR015-BACK.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+attack: '3'
+life: '4'
+game_text: ! |-
+  Opponents can't play cards or activate abilities during your turn.
+variants:
+- UPR015-BACK
+- UPR015-BACK-MV

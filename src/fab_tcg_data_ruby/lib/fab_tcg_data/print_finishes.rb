@@ -8,6 +8,7 @@ module FabTcgData
       include ValueSemantics.for_attributes {
         key String
         name String
+        code Either(nil, String)
       }
     end
 
@@ -15,6 +16,7 @@ module FabTcgData
       PrintFinish.new(
         key: item.fetch(:print_finish_key),
         name: item.fetch(:name),
+        code: item.fetch(:code),
       )
     end
 

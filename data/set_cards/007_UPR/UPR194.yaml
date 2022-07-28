@@ -1,0 +1,21 @@
+---
+key: UPR194
+name: Fyendal's Fighting Spirit
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR194.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '1'
+cost: '3'
+attack: '7'
+defense: '2'
+game_text: ! |-
+  When you attack or defend with Fyendal's Fighting Spirit, if you have less {g} than an opposing hero, gain 1{g}.
+variants:
+- UPR194
+- UPR194-RF

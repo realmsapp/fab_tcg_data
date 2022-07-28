@@ -1,6 +1,5 @@
 ---
 key: ARC104
-card_key: spellblade_strike_yellow
 name: Spellblade Strike
 set: ARC
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   Create a Runechant token. *(It’s an aura with “When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.”)*

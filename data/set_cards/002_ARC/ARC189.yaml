@@ -1,6 +1,5 @@
 ---
 key: ARC189
-card_key: push_the_point_yellow
 name: Push the Point
 set: ARC
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '2'
 resources: '2'
+cost: '1'
+attack: '3'
+defense: '2'
 game_text: ! |-
   If the last attack on this combat chain hit, Push the Point gains +2[attack].

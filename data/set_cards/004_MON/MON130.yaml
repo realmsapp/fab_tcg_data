@@ -1,6 +1,5 @@
 ---
 key: MON130
-card_key: writhng_beast_hulk_yellow
 name: Writhng Beast Hulk
 set: MON
 rarity: rare
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '5'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Writhing Beast Hulk, banish 3 random cards from your graveyard.
 

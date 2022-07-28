@@ -1,12 +1,28 @@
 ---
 - print_finish_key: regular
   name: Regular
+  code: null
 
 - print_finish_key: rainbow_foil
   name: Rainbow Foil
+  code: RF
 
 - print_finish_key: cold_foil
   name: Cold Foil
+  code: CF
 
 - print_finish_key: cold_gold
   name: Cold Gold
+  code: CG
+
+- print_finish_key: marvel
+  name: Marvel
+  code: MV
+
+- print_finish_key: rainbow_foil_extended_art
+  name: Rainbow Foil Extended Art
+  code: RFEA
+
+- print_finish_key: rainbow_foil_alternate_art
+  name: Rainbow Foil Alternate Art
+  code: RFAA

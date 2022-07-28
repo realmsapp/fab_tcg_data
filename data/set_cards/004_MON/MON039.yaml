@@ -1,6 +1,5 @@
 ---
 key: MON039
-card_key: valiant_thrust_red
 name: Valiant Thrust
 set: MON
 rarity: rare
@@ -12,9 +11,9 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   If you've charged this turn, Valiant Thrust gains +3 [Power].

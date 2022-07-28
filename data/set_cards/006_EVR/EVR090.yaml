@@ -1,6 +1,5 @@
 ---
 key: EVR090
-card_key: rain_razors_yellow
 name: Rain Razors
 set: EVR
 rarity: majestic
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR090.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - ranger
-
 resources: '2'
 game_text: ! |-
   Arrows have +2[Power] while attacking this turn.

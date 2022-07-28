@@ -1,6 +1,5 @@
 ---
 key: MON084
-card_key: blinding_beam_red
 name: Blinding Beam
 set: MON
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON084.png?w=300&fit=clip&au
 card_type: instant
 supertypes:
 - light
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Blinding Beam costs [1 Resource] less to play if it targets a Shadow card.
 

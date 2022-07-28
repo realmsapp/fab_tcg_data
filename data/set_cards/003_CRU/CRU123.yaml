@@ -1,6 +1,5 @@
 ---
 key: CRU123
-card_key: remorseless_red
 name: Remorseless
 set: CRU
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - ranger
 subtypes:
 - attack
-attack: '5'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

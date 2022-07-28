@@ -1,6 +1,5 @@
 ---
 key: ELE128
-card_key: autumns_touch_red
 name: Autumn's Touch
 set: ELE
 rarity: common
@@ -11,7 +10,7 @@ supertypes:
 - earth
 subtypes:
 - attack
-attack: '7'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '7'
+defense: '3'

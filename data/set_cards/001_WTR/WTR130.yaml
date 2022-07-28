@@ -1,6 +1,5 @@
 ---
 key: WTR130
-card_key: warriors_valor_yellow
 name: Warrior's Valor
 set: WTR
 rarity: rare
@@ -9,9 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/wtr/130.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - warrior
-
+resources: '2'
 cost: '1'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Your next weapon attack this turn gains +3[attack] and "If this hits, the attack gains **go again**"
+variants:
+- WTR130
+- WTR130-RF
+- U-WTR130
+- U-WTR130-RF

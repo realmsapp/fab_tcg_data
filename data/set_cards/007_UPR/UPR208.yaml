@@ -1,0 +1,21 @@
+---
+key: UPR208
+name: Critical Strike
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR208.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '3'
+cost: '1'
+attack: '3'
+defense: '3'
+game_text: ! |-
+  *There is no mercy on the battlefield; it's brothers against sisters, and blood against blood. For resentment breeds betrayal, as anger leads to rage, and fear to hate. This endless feud; from whence did it arise, and when will it see an end?*
+variants:
+- UPR208
+- UPR208-RF

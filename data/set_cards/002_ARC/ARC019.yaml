@@ -1,6 +1,5 @@
 ---
 key: ARC019
-card_key: convection_amplifier_red
 name: Convection Amplifier
 set: ARC
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '0'
 resources: '1'
+cost: '0'
 game_text: ! |-
   Convection amplifier enters the arena with 2 steam counters on it. When Convection Amplifier has no steam counters on it, destroy it.
 

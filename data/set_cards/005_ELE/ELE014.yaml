@@ -1,6 +1,5 @@
 ---
 key: ELE014
-card_key: entangle_yellow
 name: Entangle
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '6'
-cost: '3'
-defense: '3'
 resources: '2'
+cost: '3'
+attack: '6'
+defense: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Entangle, you may reveal an Earth card from your hand.)*
 

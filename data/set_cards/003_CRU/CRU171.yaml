@@ -1,6 +1,5 @@
 ---
 key: CRU171
-card_key: rousing_aether_red
 name: Rousing Aether
 set: CRU
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/171.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - wizard
-
+resources: '1'
 cost: '2'
 defense: '3'
-resources: '1'
 game_text: ! |-
   Deal 4 arcane damage to target hero.
 

@@ -1,6 +1,5 @@
 ---
 key: CRU100
-card_key: teklo_plasma_pistol
 name: Teklo Plasma Pistol
 set: CRU
 rarity: common
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/100.png?w=300&fit=clip&auto=compre
 card_type: weapon
 supertypes:
 - mechanologist
-
 attack: '2'
 game_text: ! |-
   **Action** - Remove a steam counter from Teklo Plasma Pistol: **Attack**

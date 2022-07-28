@@ -1,0 +1,23 @@
+---
+key: UPR095
+name: Flameborn Retribution
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR095.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '3'
+defense: '2'
+game_text: ! |-
+  When you defend with Flameborn Retribution, if you've been dealt damage this turn, you may return a Phoenix Flame from your graveyard to your hand.
+
+  Go again
+variants:
+- UPR095
+- UPR095-RF

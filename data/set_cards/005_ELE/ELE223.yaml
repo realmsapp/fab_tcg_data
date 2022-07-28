@@ -1,6 +1,5 @@
 ---
 key: ELE223
-card_key: duskblade
 name: Duskblade
 set: ELE
 rarity: majestic
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE223.png?w=350&fit=clip&au
 card_type: weapon
 supertypes:
 - runeblade
-
 attack: '2'
 game_text: ! |-
   **Once per Turn Action** - [1 Resource]: **Attack**

@@ -1,6 +1,5 @@
 ---
 key: CRU134
-card_key: sleep_dart_blue
 name: Sleep Dart
 set: CRU
 rarity: common
@@ -9,11 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/cru/134.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - ranger
-
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

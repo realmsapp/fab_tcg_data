@@ -1,6 +1,5 @@
 ---
 key: ELE164
-card_key: chill_to_the_bone_yellow
 name: Chill to the Bone
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE164.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ice
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! |-
   The next time an Ice or Elemental attack hits a hero this turn, create 2 Frostbite tokens under their control.
 

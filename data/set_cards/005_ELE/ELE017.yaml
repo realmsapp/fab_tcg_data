@@ -1,6 +1,5 @@
 ---
 key: ELE017
-card_key: glacial_footsteps_yellow
 name: Glacial Footsteps
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '9'
-cost: '6'
-defense: '3'
 resources: '2'
+cost: '6'
+attack: '9'
+defense: '3'
 game_text: ! |-
   **Ice Fusion** *(As an additional cost to play Glacial Footsteps, you may reveal an Ice card from your hand.)*
 

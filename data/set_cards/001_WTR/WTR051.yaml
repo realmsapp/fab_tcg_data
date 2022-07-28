@@ -1,6 +1,5 @@
 ---
 key: WTR051
-card_key: staunch_response_red
 name: Staunch Response
 set: WTR
 rarity: rare
@@ -9,9 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/wtr/51.png?w=300&fit=clip&auto=compres
 card_type: defense_reaction
 supertypes:
 - guardian
-
+resources: '1'
 cost: '2'
 defense: '7'
-resources: '1'
 game_text: ! |-
   As an additional cost to play Staunch Response, you may pay [4 resource]. If you do, Staunch Response gains +3[defense].
+variants:
+- WTR051
+- WTR051-RF
+- U-WTR051
+- U-WTR051-RF

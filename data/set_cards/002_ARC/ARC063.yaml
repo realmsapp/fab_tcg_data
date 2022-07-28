@@ -1,6 +1,5 @@
 ---
 key: ARC063
-card_key: ridge_rider_shot_red
 name: Ridge Rider Shot
 set: ARC
 rarity: common
@@ -9,11 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/arc/63.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - ranger
-
-attack: '4'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

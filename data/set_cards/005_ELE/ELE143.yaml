@@ -1,6 +1,5 @@
 ---
 key: ELE143
-card_key: amulet_of_earth_blue
 name: Amulet of Earth
 set: ELE
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - earth
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Go again**
 

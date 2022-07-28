@@ -1,6 +1,5 @@
 ---
 key: ARC035
-card_key: dissipation_shield_yellow
 name: Dissipation Shield
 set: ARC
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '2'
 resources: '2'
+cost: '2'
 game_text: ! |-
   Dissipation Shield enters the arena with 4 steam counters on it.
 

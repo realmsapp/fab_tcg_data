@@ -1,6 +1,5 @@
 ---
 key: MON033
-card_key: beacon_of_victory_yellow
 name: Beacon of Victory
 set: MON
 rarity: majestic
@@ -10,10 +9,9 @@ card_type: attack_reaction
 supertypes:
 - warrior
 - light
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |-
   As an additional cost to play Beacon of Victory, banish X cards from your hero's soul. X can't be 0.
 

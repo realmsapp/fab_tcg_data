@@ -1,6 +1,5 @@
 ---
 key: EVR183
-card_key: healing_potion_blue
 name: Healing Potion
 set: EVR
 rarity: rare
@@ -11,7 +10,7 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Action** - Destroy Healing Potion: Gain 2 [Life]. **Go again**

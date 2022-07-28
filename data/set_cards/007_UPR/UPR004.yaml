@@ -1,0 +1,20 @@
+---
+key: UPR004
+name: Silken Form
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR004.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- illusionist
+- draconic
+subtypes:
+- arms
+game_text: ! |-
+  Instant - Destroy Silken Form: Transform target ash you control into an Aether Ashwing. (Create an Aether Ashwing token and put the ash under it.)
+
+  Quell 1 (If your hero would be dealt damage, you may pay {r} to prevent 1 of that damage. If you do, destroy Silken Form at the beginning of the end phase.)
+variants:
+- UPR004
+- UPR004-RF

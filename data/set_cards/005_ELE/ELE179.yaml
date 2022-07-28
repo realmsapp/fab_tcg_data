@@ -1,6 +1,5 @@
 ---
 key: ELE179
-card_key: flash_blue
 name: Flash
 set: ELE
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE179.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - lightning
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next action card you play this turn with cost 2 or greater gains **go again**.
 

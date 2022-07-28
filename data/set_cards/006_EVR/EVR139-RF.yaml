@@ -1,6 +1,5 @@
 ---
 key: EVR139-RF
-card_key: miraging_metamorph_red
 name: Miraging Metamorph
 set: EVR
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - illusionist
 subtypes:
 - attack
-attack: '7'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '7'
+defense: '3'
 game_text: ! "**Phantasm** *(When Miraging Metamorph is defended by a non-Illusionist
   attack action card with 6 or more [Power], destroy Miraging Metamorph and close
   the combat chain.)*\r\n\r\nWhen Miraging Metamorph is destroyed, create a token

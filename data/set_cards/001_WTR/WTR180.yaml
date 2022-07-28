@@ -1,6 +1,5 @@
 ---
 key: WTR180
-card_key: demolition_crew_yellow
 name: Demolition Crew
 set: WTR
 rarity: common
@@ -11,11 +10,16 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '2'
 resources: '2'
+cost: '2'
+attack: '5'
+defense: '2'
 game_text: ! |-
   As an additional cost to play Demolition Crew, reveal a card with cost [2 resource] or greater.
 
   **Dominate** *(The defending hero can't defend Demolition Crew with more than 1 card from their hand.)*
+variants:
+- WTR180
+- WTR180-RF
+- U-WTR180
+- U-WTR180-RF

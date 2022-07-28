@@ -1,6 +1,5 @@
 ---
 key: ELE181
-card_key: weave_lightning_yellow
 name: Weave Lightning
 set: ELE
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE181.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - lightning
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! |-
   The next LIghtning or Elemental attack action card you play this turn gains +2 [Attack]. If it's **fused**, it gains **go again**.
 

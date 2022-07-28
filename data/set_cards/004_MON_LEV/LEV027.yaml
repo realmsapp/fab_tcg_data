@@ -1,6 +1,5 @@
 ---
 key: LEV027
-card_key: smash_with_big_tree_yellow
 name: Smash with Big Tree
 set: LEV
 rarity: common
@@ -11,6 +10,6 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '6'
-cost: '2'
 resources: '2'
+cost: '2'
+attack: '6'

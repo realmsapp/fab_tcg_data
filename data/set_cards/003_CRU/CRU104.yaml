@@ -1,6 +1,5 @@
 ---
 key: CRU104
-card_key: absorption_dome_yellow
 name: Absorption Dome
 set: CRU
 rarity: majestic
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '0'
 resources: '2'
+cost: '0'
 game_text: ! |-
   Absorption Dome enters the arena with steam counters on it equal to the number of times you have **boosted** this turn.
 

@@ -1,6 +1,5 @@
 ---
 key: MON192
-card_key: guardian_of_the_shadowrealm_red
 name: Guardian of the Shadowrealm
 set: MON
 rarity: majestic
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON192.png?w=300&fit=clip&au
 card_type: defense_reaction
 supertypes:
 - shadow
-
+resources: '1'
 cost: '2'
 defense: '6'
-resources: '1'
 game_text: ! |-
   Action - [2 Resource]: Return Guardian of the Shadowrealm from your banished zone into your hand. Activate this ability on while Guardian of the Shadowrealm is in your banished zone.
 

@@ -1,6 +1,5 @@
 ---
 key: MON211
-card_key: void_wraith_blue
 name: Void Wraith
 set: MON
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '3'
+defense: '3'
 game_text: ! |-
   You may play Void Wraith from your banished zone.
 

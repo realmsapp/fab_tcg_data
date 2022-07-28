@@ -1,0 +1,17 @@
+---
+key: UPR043
+name: Ash
+set: UPR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR043.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+game_text: ! |-
+  Material - While Ash is under an object, that object has phantasm. (When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)
+variants:
+- UPR043
+- UPR043-CF
+- UPR043-MV

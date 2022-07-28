@@ -1,6 +1,5 @@
 ---
 key: WTR168
-card_key: snatch_yellow
 name: Snatch
 set: WTR
 rarity: rare
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '2'
 resources: '2'
+cost: '0'
+attack: '3'
+defense: '2'
 game_text: ! |-
   If Snatch hits, draw a card.
+variants:
+- WTR168
+- WTR168-RF
+- U-WTR168
+- U-WTR168-RF

@@ -1,6 +1,5 @@
 ---
 key: EVR165
-card_key: high_striker_yellow
 name: High Striker
 set: EVR
 rarity: rare
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR165.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - generic
-
+resources: '2'
 cost: '0'
 defense: '2'
-resources: '2'
 game_text: ! "The next time an attack you control hits this turn, create 4 Copper
   tokens.\r\n\r\n**Go again**"

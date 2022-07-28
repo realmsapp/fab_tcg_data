@@ -1,6 +1,5 @@
 ---
 key: EVR189
-card_key: talisman_of_cremation_blue
 name: Talisman of Cremation
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! "**Go again**\r\n\r\nWhen you play a card from your banished zone, destroy
   Talisman of Cremation and name a card. Banish all cards with the chosen name from
   each opposing hero's graveyard."

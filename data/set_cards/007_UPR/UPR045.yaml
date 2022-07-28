@@ -1,0 +1,22 @@
+---
+key: UPR045
+name: Fai
+set: UPR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR045.png?w=350&fit=clip&auto=compress,format
+card_type: hero
+supertypes:
+- ninja
+- draconic
+subtypes:
+- young
+intellect: '4'
+life: '20'
+game_text: ! |-
+  You may start the game with a Phoenix Flame in your graveyard.
+
+  Once per Turn Instant - {r}{r}{r}: Return a Phoenix Flame from your graveyard to your hand. This ability costs {r} less for each Draconic chain link you control.
+variants:
+- UPR045
+- UPR045-RF

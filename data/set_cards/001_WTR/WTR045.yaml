@@ -1,6 +1,5 @@
 ---
 key: WTR045
-card_key: cranial_crush_blue
 name: Cranial Crush
 set: WTR
 rarity: super_rare
@@ -11,9 +10,14 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '8'
-cost: '6'
-defense: '3'
 resources: '3'
+cost: '6'
+attack: '8'
+defense: '3'
 game_text: ! |-
   **Crush** - If Cranial Crush does 4 or more damage to a hero, they can't draw cards during their next action phase.
+variants:
+- WTR045
+- WTR045-RF
+- U-WTR045
+- U-WTR045-RF

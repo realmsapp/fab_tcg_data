@@ -1,6 +1,5 @@
 ---
 key: ARC036
-card_key: hyper_driver_red
 name: Hyper Driver
 set: ARC
 rarity: common
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '1'
 resources: '1'
+cost: '1'
 game_text: ! |-
   Hyper Driver enters the arena with 3 steam counters on it. When Hyper Driver has no steam counters on it, destroy it.
 

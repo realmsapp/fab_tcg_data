@@ -1,6 +1,5 @@
 ---
 key: ELE230
-card_key: singeing_steelblade_red
 name: Singeing Steelblade
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   When you attack with Singeing Steelblade, deal 1 arcane damage to target hero.

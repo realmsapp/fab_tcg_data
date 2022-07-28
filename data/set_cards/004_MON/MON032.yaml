@@ -1,6 +1,5 @@
 ---
 key: MON032
-card_key: bolting_blade_yellow
 name: Bolting Blade
 set: MON
 rarity: majestic
@@ -12,9 +11,9 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '7'
-cost: '4'
-defense: '3'
 resources: '2'
+cost: '4'
+attack: '7'
+defense: '3'
 game_text: ! |-
   Bolting Blade costs [2 Resource] less to play for each time you've charged this turn.

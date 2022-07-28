@@ -1,6 +1,5 @@
 ---
 key: WTR221
-card_key: sloggism_red
 name: Sloggism
 set: WTR
 rarity: common
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/221.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
+resources: '1'
 cost: '3'
 defense: '2'
-resources: '1'
 game_text: ! |-
   The next attack action card with cost [2 resource] or greater you play this turn gains +6[attack].
 
   **Go again**
+variants:
+- WTR221
+- WTR221-RF
+- U-WTR221
+- U-WTR221-RF

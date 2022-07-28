@@ -1,6 +1,5 @@
 ---
 key: ELE025
-card_key: emerging_avalanche_red
 name: Emerging Avalanche
 set: ELE
 rarity: common
@@ -12,9 +11,9 @@ supertypes:
 - elemental
 subtypes:
 - aura
+resources: '1'
 cost: '2'
 defense: '3'
-resources: '1'
 game_text: ! |-
   **Ice Fusion** *(As an additional cost to play Emerging Avalanche, you may reveal an Ice card from your hand.)*
 

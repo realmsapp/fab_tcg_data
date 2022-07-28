@@ -1,6 +1,5 @@
 ---
 key: WTR094
-card_key: flic_flak_blue
 name: Flic Flak
 set: WTR
 rarity: rare
@@ -9,9 +8,13 @@ image_url: https://fabdb2.imgix.net/cards/wtr/94.png?w=300&fit=clip&auto=compres
 card_type: defense_reaction
 supertypes:
 - ninja
-
+resources: '3'
 cost: '0'
 defense: '4'
-resources: '3'
 game_text: ! |-
   If the next card you defend with this turn is a card with **combo*, it gains +2[defense].
+variants:
+- WTR094
+- WTR094-RF
+- U-WTR094
+- U-WTR094-RF

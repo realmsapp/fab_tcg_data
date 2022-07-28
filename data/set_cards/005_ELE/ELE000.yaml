@@ -1,6 +1,5 @@
 ---
 key: ELE000
-card_key: korshem_crossroad_of_elements
 name: Korshem, Crossroad of Elements
 set: ELE
 rarity: fabled
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE000-CF.png?w=350&fit=clip
 card_type: action
 supertypes:
 - elemental
-
 cost: '1'
 game_text: ! |-
   When you arrive at the **legendary** Korshem, **go again**. Whenever a hero reveals a card, they gain [1 Resource], or gain 1 [Life], or their next attack this day gains +1 [Power], or their next attack action card they defend with this day gains +1 [Defense].

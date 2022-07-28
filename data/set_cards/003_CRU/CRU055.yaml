@@ -1,6 +1,5 @@
 ---
 key: CRU055
-card_key: flood_of_force_yellow
 name: Flood of Force
 set: CRU
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '1'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '1'
+defense: '3'
 game_text: ! |-
   **Combo** - If Rushing River or Flood of Force was the last attack this combat chain, reveal the top card of your deck. If it's a card with **combo**, put it into your hand then Flood of Force gains +3[attack] and **go again**.

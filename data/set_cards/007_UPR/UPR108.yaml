@@ -1,0 +1,21 @@
+---
+key: UPR108
+name: Sigil of Permafrost
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR108.png?w=350&fit=clip&auto=compress,format
+card_type: defense_reaction
+supertypes:
+- wizard
+- elemental
+resources: '3'
+cost: '1'
+defense: '2'
+game_text: ! |-
+  Ice Fusion (As an additional cost to play Sigil of Permafrost, you may reveal an Ice card from your hand.)
+
+  If Sigil of Permafrost was fused, the next time you deal arcane damage to a hero this turn, create that many Frostbite tokens under their control.
+variants:
+- UPR108
+- UPR108-RF

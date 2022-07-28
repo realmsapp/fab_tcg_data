@@ -1,6 +1,5 @@
 ---
 key: EVR006
-card_key: high_roller_yellow
 name: High Roller
 set: EVR
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR006.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - brute
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! "**Intimidate** *(Target hero banishes face down a random card from their
   hand. At the beginning of the end phase, return all cards banished this way to their
   owners hand.)*\r\n\r\nIf you have rolled a 5 or 6 on a die this turn, instead **intimidate**

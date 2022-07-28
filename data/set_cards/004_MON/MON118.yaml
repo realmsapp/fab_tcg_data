@@ -1,6 +1,5 @@
 ---
 key: MON118
-card_key: second_swing_blue
 name: Second Swing
 set: MON
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON118.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - warrior
-
+resources: '3'
 cost: '1'
 defense: '3'
-resources: '3'
 game_text: ! |-
   If you have attacked with a weapon this turn, your next attack this turn gains +2 [Power].
 

@@ -1,6 +1,5 @@
 ---
 key: CRU159
-card_key: crucible_of_aetherweave
 name: Crucible of Aetherweave
 set: CRU
 rarity: common
@@ -9,6 +8,5 @@ image_url: https://fabdb2.imgix.net/cards/cru/159.png?w=300&fit=clip&auto=compre
 card_type: weapon
 supertypes:
 - wizard
-
 game_text: ! |-
   **Once per Turn Instant** - [resource]: The next card you play this turn with an effect that deals arcane damage, instead deals that much arcane damage plus 1.

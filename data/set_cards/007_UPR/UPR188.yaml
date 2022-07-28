@@ -1,0 +1,20 @@
+---
+key: UPR188
+name: Vipox
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR188.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '1'
+attack: '1'
+defense: '3'
+game_text: ! |-
+  When Vipox hits a hero, they lose {g} equal to the number of cards in their hand.
+variants:
+- UPR188
+- UPR188-RF

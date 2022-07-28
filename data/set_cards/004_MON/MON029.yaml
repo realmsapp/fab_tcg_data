@@ -1,6 +1,5 @@
 ---
 key: MON029
-card_key: ser_boltyn_breaker_of_dawn
 name: Ser Boltyn, Breaker of Dawn
 set: MON
 rarity: token
@@ -10,7 +9,6 @@ card_type: hero
 supertypes:
 - warrior
 - light
-
 intellect: '4'
 life: '40'
 game_text: ! |-

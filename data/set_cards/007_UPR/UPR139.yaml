@@ -3,22 +3,19 @@ key: UPR139
 name: Hypothermia
 set: UPR
 rarity: majestic
-artist: alexis_susani
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR139.png?w=350&fit=clip&auto=compress,format
 card_type: action
 supertypes:
 - ice
-subtypes:
-- affliction
-- aura
 resources: '3'
-cost: '0'
 defense: '2'
-image_url: https://storage.googleapis.com/fabmaster/media/images/UPR139.width-450.png
 game_text: ! |-
-  _(An affliction enters the arena under an opposing
-  hero's control.)_
+  (An affliction enters the arena under an opposing hero's control.)
 
-  Attacks you control can't gain **go again**. _(This does
-  not affect attacks that naturally have go again.)_
+  Attacks you control can't gain go again. (This does not affect attacks that naturally have go again.)
 
   At the beginning of your end phase, destroy Hypothermia.
+variants:
+- UPR139
+- UPR139-RF

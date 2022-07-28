@@ -1,0 +1,24 @@
+---
+key: UPR027
+name: Embermaw Cenipai
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR027.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '2'
+attack: '8'
+defense: '3'
+game_text: ! |-
+  Phantasm (When this is defended by a non-Illusionist attack action card with 6 or more {p}, destroy this and close the combat chain.)
+
+  When Embermaw Cenipai is destroyed, create an Ash token.
+variants:
+- UPR027
+- UPR027-RF

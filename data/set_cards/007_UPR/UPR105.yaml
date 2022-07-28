@@ -1,0 +1,21 @@
+---
+key: UPR105
+name: Freezing Point
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR105.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+- elemental
+resources: '1'
+cost: '3'
+defense: '3'
+game_text: ! |-
+  Ice Fusion (As an additional cost to play Freezing Point, you may reveal an Ice card from your hand.)
+
+  Deal 5 arcane damage to target hero. If Freezing Point was fused, instead deal X arcane damage, where X is 5 plus the number of Frostbites, Ice afflictions, and frozen cards they control.
+variants:
+- UPR105
+- UPR105-RF

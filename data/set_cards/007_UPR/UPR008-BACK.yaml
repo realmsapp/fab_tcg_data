@@ -1,0 +1,19 @@
+---
+key: UPR008-BACK
+back_key: UPR008
+name: Dominia
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR008-BACK.png?w=350&fit=clip&auto=compress,format
+card_type: token
+supertypes:
+- illusionist
+- draconic
+attack: '4'
+life: '4'
+game_text: ! |-
+  Whenever Dominia attacks a hero, reveal the top card of your deck. If it's a red card, look at their hand and banish a card from it.
+variants:
+- UPR008-BACK
+- UPR008-BACK-MV

@@ -1,6 +1,5 @@
 ---
 key: ARC044
-card_key: three_of_a_kind_red
 name: Three of a Kind
 set: ARC
 rarity: majestic
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/44.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - ranger
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Draw 3 cards. Until end of turn, you may only play cards from arsenal.
 

@@ -1,6 +1,5 @@
 ---
 key: CRU186
-card_key: lunging_press_blue
 name: Lunging Press
 set: CRU
 rarity: rare
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/cru/186.png?w=300&fit=clip&auto=compre
 card_type: attack_reaction
 supertypes:
 - generic
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Target attack action card gains +1[attack].

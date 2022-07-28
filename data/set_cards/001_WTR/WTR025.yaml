@@ -1,6 +1,5 @@
 ---
 key: WTR025
-card_key: pack_hunt_blue
 name: Pack Hunt
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   **Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.
+variants:
+- WTR025
+- WTR025-RF
+- U-WTR025
+- U-WTR025-RF

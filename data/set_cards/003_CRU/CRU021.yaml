@@ -1,6 +1,5 @@
 ---
 key: CRU021
-card_key: swing_fist_think_later_blue
 name: Swing Fist, Think Later
 set: CRU
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '2'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Swing Fist, Think Later, discard a random card.
 

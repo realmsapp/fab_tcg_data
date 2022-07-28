@@ -1,0 +1,17 @@
+---
+key: UPR174
+name: Aether Dart
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR174.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- wizard
+resources: '2'
+defense: '3'
+game_text: ! |-
+  Deal 2 arcane damage to any target.
+variants:
+- UPR174
+- UPR174-RF

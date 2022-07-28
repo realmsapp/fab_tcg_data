@@ -1,6 +1,5 @@
 ---
 key: ELE034
-card_key: voltaire_strike_twice
 name: Voltaire, Strike Twice
 set: ELE
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - ranger
 - elemental
-
 game_text: ! |-
   **Twice per Turn Instant** - [1 Resource]: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1:
 

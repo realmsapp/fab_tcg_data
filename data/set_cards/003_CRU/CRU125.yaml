@@ -1,6 +1,5 @@
 ---
 key: CRU125
-card_key: feign_death_yellow
 name: Feign Death
 set: CRU
 rarity: majestic
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/cru/125.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - ranger
-
-cost: '1'
 resources: '2'
+cost: '1'
 game_text: ! |-
   Play Feign Death only if you have been dealt damage this turn.
 

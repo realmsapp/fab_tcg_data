@@ -1,6 +1,5 @@
 ---
 key: MON155
-card_key: galaxxi_black
 name: Galaxxi Black
 set: MON
 rarity: token
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - runeblade
 - shadow
-
 attack: '1'
 game_text: ! |-
   Once per Turn Action - [1 Resource]: Attack

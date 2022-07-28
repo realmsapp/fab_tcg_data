@@ -1,6 +1,5 @@
 ---
 key: MON123
-card_key: deep_rooted_evil_yellow
 name: Deep Rooted Evil
 set: MON
 rarity: majestic
@@ -12,9 +11,9 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '6'
-cost: '3'
 resources: '2'
+cost: '3'
+attack: '6'
 game_text: ! |-
   If a card with 6 or more [Power] has been put into your banished zone this turn, you may play Deep Rooted Evil from your banished zone.
 

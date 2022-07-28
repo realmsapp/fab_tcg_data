@@ -1,0 +1,20 @@
+---
+key: UPR191
+name: Flex
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR191.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '1'
+attack: '4'
+defense: '2'
+game_text: ! |-
+  When you attack or defend with Flex, you may pay {r}{r}. If you do, it gains +2{p}.
+variants:
+- UPR191
+- UPR191-RF

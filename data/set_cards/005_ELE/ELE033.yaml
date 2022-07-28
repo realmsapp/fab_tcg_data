@@ -1,6 +1,5 @@
 ---
 key: ELE033
-card_key: shiver
 name: Shiver
 set: ELE
 rarity: token
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - ranger
 - elemental
-
 game_text: ! |-
   **Once per Turn Instant** - [Resource]: You may put an arrow card from your hand face up into an empty arsenal zone you control. If you do, choose 1;
 

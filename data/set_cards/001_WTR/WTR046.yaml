@@ -1,6 +1,5 @@
 ---
 key: WTR046
-card_key: forged_for_war_yellow
 name: Forged for War
 set: WTR
 rarity: super_rare
@@ -11,12 +10,17 @@ supertypes:
 - guardian
 subtypes:
 - aura
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   **Go again**
 
   While Forged for War is in the arena, equipment you control gain +1[defense].
 
   At the beginning of your action phase, destroy Forged for War.
+variants:
+- WTR046
+- WTR046-RF
+- U-WTR046
+- U-WTR046-RF

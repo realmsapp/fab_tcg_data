@@ -1,6 +1,5 @@
 ---
 key: MON146
-card_key: graveling_growl_blue
 name: Graveling Growl
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '5'
-cost: '1'
-defense: '3'
 resources: '3'
+cost: '1'
+attack: '5'
+defense: '3'
 game_text: ! |-
   Play Graveling Growl only if a card with 6 or more [Power] has been put into your banished zone this turn.
 

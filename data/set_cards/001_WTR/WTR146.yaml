@@ -1,6 +1,5 @@
 ---
 key: WTR146
-card_key: driving_blade_blue
 name: Driving Blade
 set: WTR
 rarity: common
@@ -9,11 +8,15 @@ image_url: https://fabdb2.imgix.net/cards/wtr/146.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - warrior
-
+resources: '3'
 cost: '2'
 defense: '3'
-resources: '3'
 game_text: ! |-
   Your next weapon attack this turn gains +1[attack] and **go again**.
 
   **Go again**
+variants:
+- WTR146
+- WTR146-RF
+- U-WTR146
+- U-WTR146-RF

@@ -1,6 +1,5 @@
 ---
 key: ARC109
-card_key: read_the_runes_red
 name: Read the Runes
 set: ARC
 rarity: common
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/arc/109.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - runeblade
-
+resources: '1'
 cost: '0'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Create 3 Runechant tokens. *(They’re an aura with “When you play an attack action card or attack with a weapon, destroy Runechant and deal 1 arcane damage to target opposing hero.”)*

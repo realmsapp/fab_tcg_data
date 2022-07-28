@@ -1,0 +1,18 @@
+---
+key: UPR169
+name: Rewind
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR169.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- wizard
+resources: '3'
+cost: '1'
+game_text: ! |-
+  Negate target 'non-attack' action card and return it to its owner's hand. Then that hero gains 1 action point. (A hero can only gain action points during their action phase.)
+variants:
+- UPR169
+- UPR169-RF
+- UPR169-RFAA

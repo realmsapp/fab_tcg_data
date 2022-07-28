@@ -1,6 +1,5 @@
 ---
 key: MON214
-card_key: spew_shadow_blue
 name: Spew Shadow
 set: MON
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON214.png?w=300&fit=clip&au
 card_type: action
 supertypes:
 - shadow
-
+resources: '3'
 cost: '2'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Choose an attack action card with cost 0 in your banished zone. You may play it this turn. If it attacks a Light hero, it gains +2 [Power].
 

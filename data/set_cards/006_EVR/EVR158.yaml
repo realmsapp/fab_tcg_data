@@ -1,6 +1,5 @@
 ---
 key: EVR158
-card_key: cash_out_blue
 name: Cash Out
 set: EVR
 rarity: majestic
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR158.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - generic
-
-defense: '2'
 resources: '3'
+defense: '2'
 game_text: ! |-
   As an additional cost to play Cash Out, you may destroy any number of weapons, equipment and/or non-token items you control.
 

@@ -1,0 +1,20 @@
+---
+key: UPR037
+name: Skittering Sands
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR037.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+resources: '2'
+defense: '2'
+game_text: ! |-
+  Transform target ash you control into an Aether Ashwing. It gains +2{p} until end of turn. (Create Aether Ashwing tokens and put the ash under them.)
+
+  Go again
+variants:
+- UPR037
+- UPR037-RF

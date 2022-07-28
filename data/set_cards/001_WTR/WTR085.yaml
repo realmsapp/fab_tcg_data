@@ -1,6 +1,5 @@
 ---
 key: WTR085
-card_key: pounding_gale_red
 name: Pounding Gale
 set: WTR
 rarity: super_rare
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '5'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
 game_text: ! |-
   **Combo** - If Open the Center was the last attack this combat chain, Pounding Gale gains, "If Pounding Gale would deal damage to a hero, instead it deals double that damage."
+variants:
+- WTR085
+- WTR085-RF
+- U-WTR085
+- U-WTR085-RF

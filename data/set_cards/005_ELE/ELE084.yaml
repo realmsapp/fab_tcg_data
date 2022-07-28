@@ -1,6 +1,5 @@
 ---
 key: ELE084
-card_key: stir_the_wildwood_blue
 name: Stir the Wildwood
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '3'
+defense: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Stir the Wildwood, you may reveal an Earth card from your hand.)*
 

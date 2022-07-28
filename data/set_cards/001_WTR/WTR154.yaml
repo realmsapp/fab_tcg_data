@@ -1,6 +1,5 @@
 ---
 key: WTR154
-card_key: snapdragon_scalers
 name: Snapdragon Scalers
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '0'
 game_text: ! |-
   **Attack reaction** - Destroy Snapdragon Scalers: Target attack action card with cost [resource] or less gains **go again**.
+variants:
+- WTR154
+- WTR154-RF
+- U-WTR154
+- U-WTR154-RF

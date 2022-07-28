@@ -1,6 +1,5 @@
 ---
 key: WTR155
-card_key: ironrot_helm
 name: Ironrot Helm
 set: WTR
 rarity: common
@@ -14,3 +13,8 @@ subtypes:
 defense: '1'
 game_text: ! |-
   **Blade break** *(If you defend with Ironrot Helm, destroy it when the combat chain closes.)*
+variants:
+- WTR155
+- WTR155-RF
+- U-WTR155
+- U-WTR155-RF

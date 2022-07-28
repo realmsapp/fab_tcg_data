@@ -1,0 +1,19 @@
+---
+key: UPR206
+name: Critical Strike
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR206.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
+variants:
+- UPR206
+- UPR206-RF

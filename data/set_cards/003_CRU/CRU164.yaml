@@ -1,6 +1,5 @@
 ---
 key: CRU164
-card_key: aetherize_blue
 name: Aetherize
 set: CRU
 rarity: majestic
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/cru/164.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - wizard
-
-cost: '1'
 resources: '3'
+cost: '1'
 game_text: ! |-
   **Negate** target instant card with cost 1 or less. *(The card does not resolve. Put it into its owner's graveyard.

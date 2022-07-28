@@ -1,6 +1,5 @@
 ---
 key: CRU116
-card_key: teklovossens_workshop_yellow
 name: Teklovossen's Workshop
 set: CRU
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/116.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - mechanologist
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! |-
   **Opt X**, where X is the number of times you have **boosted** this turn. *(Look at the top X cards of your deck. You may put them on the top and/or bottom in any order.)*
 

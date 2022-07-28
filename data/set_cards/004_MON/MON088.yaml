@@ -1,6 +1,5 @@
 ---
 key: MON088
-card_key: iris_of_reality
 name: Iris of Reality
 set: MON
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON088.png?w=300&fit=clip&au
 card_type: weapon
 supertypes:
 - illusionist
-
 game_text: ! |+
   During your action phase, Illusionist auras you control are weapons with 4 [Power] and "Once per Turn Action - [3 Resource]: Attack. Go again"
 

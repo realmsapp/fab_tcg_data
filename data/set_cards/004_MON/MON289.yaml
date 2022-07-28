@@ -1,6 +1,5 @@
 ---
 key: MON289
-card_key: surging_militia_blue
 name: Surging Militia
 set: MON
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '3'
-cost: '2'
-defense: '2'
 resources: '3'
+cost: '2'
+attack: '3'
+defense: '2'
 game_text: ! |-
   Surging Militia has +1 [Power] for each non-equipment card defending it.

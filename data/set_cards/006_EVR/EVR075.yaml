@@ -1,6 +1,5 @@
 ---
 key: EVR075
-card_key: t_bone_blue
 name: T-Bone
 set: EVR
 rarity: rare
@@ -11,10 +10,10 @@ supertypes:
 - mechanologist
 subtypes:
 - attack
-attack: '1'
-cost: '0'
-defense: '3'
 resources: '3'
+cost: '0'
+attack: '1'
+defense: '3'
 game_text: ! "If you control a card on the combat chain that was **boosted**, the
   defending hero must defend T-Bone with an equipment they control if able.\r\n\r\n**Boost**
   *(As an additional cost to play T-Bone, you may banish the top card of your deck.

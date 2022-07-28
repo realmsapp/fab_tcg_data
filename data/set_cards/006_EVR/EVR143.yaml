@@ -1,6 +1,5 @@
 ---
 key: EVR143
-card_key: pierce_reality_blue
 name: Pierce Reality
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - illusionist
 subtypes:
 - aura
-defense: '2'
 resources: '3'
+defense: '2'
 game_text: ! |-
   The first Illusionist attack action card  you play each turn has +2[Power].
 

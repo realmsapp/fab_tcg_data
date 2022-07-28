@@ -1,6 +1,5 @@
 ---
 key: MON049
-card_key: engulfing_light_yellow
 name: Engulfing Light
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Engulfing Light, you may charge your hero's soul. (Put a card from your hand face up under your hero card.)
 

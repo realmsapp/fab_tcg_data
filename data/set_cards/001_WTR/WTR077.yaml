@@ -1,6 +1,5 @@
 ---
 key: WTR077
-card_key: katsu
 name: Katsu
 set: WTR
 rarity: common
@@ -15,3 +14,8 @@ intellect: '4'
 life: '20'
 game_text: ! |-
   **Once per Turn Effect** When an attack action card you control hits, you may discard a card with cost 0. If you do, search your deck for a card with **combo**, banish it face up, then shuffle your deck. You may play it this turn.
+variants:
+- WTR077
+- WTR077-RF
+- U-WTR077
+- U-WTR077-RF

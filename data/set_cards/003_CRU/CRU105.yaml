@@ -1,6 +1,5 @@
 ---
 key: CRU105
-card_key: plasma_purifier_red
 name: Plasma Purifier
 set: CRU
 rarity: majestic
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '2'
 resources: '1'
+cost: '2'
 game_text: ! |-
   **Action** - [resource]: If there are no steam counters on Plasma Purifier, put a steam counter on it. **Go again**
 

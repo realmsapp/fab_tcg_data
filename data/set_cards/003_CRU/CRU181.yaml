@@ -1,6 +1,5 @@
 ---
 key: CRU181
-card_key: gorganian_tome
 name: Gorganian Tome
 set: CRU
 rarity: majestic
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/181.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - generic
-
 cost: '0'
 game_text: ! |-
   **Legendary** *(You may only have one Gorganian Tome in your deck.)*

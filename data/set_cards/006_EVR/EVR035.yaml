@@ -1,6 +1,5 @@
 ---
 key: EVR035
-card_key: steadfast_blue
 name: Steadfast
 set: EVR
 rarity: common
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR035.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - guardian
-
-cost: '3'
 resources: '3'
+cost: '3'
 game_text: ! |-
   Prevent the next 4 damage that would be dealt to your hero this turn by a source of your choice.

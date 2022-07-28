@@ -1,6 +1,5 @@
 ---
 key: CRU147
-card_key: mauvrion_skies_blue
 name: Mauvrion Skies
 set: CRU
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/cru/147.png?w=300&fit=clip&auto=compre
 card_type: action
 supertypes:
 - runeblade
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   The next Runeblade attack action card you play this turn gains **go again** and "If this hits, create 1 Runechant tokens." *(They're auras with "When you play an attack action card or attack with a weapon, destroy Runechant deal 1 arcane damage to target opposing hero.")*
 

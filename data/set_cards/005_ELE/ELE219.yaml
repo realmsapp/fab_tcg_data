@@ -1,6 +1,5 @@
 ---
 key: ELE219
-card_key: over_flex_red
 name: Over Flex
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE219.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ranger
-
+resources: '1'
 cost: '1'
 defense: '2'
-resources: '1'
 game_text: ! |-
   Your next arrow attack this turn gains +4 [Power].
 

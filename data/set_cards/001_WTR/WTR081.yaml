@@ -1,6 +1,5 @@
 ---
 key: WTR081
-card_key: lord_of_wind_blue
 name: Lord of Wind
 set: WTR
 rarity: majestic
@@ -11,12 +10,18 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '2'
 resources: '3'
+cost: '0'
+attack: '2'
+defense: '2'
 game_text: ! |-
   **Katsu Specialization** *(You may only have Lord of Wind in your deck if your hero is Katsu.)*
 
   **Combo** - If Mugenshi: RELEASE was the last attack this combat chain, you may pay X resource points as an additional cost to play Lord of Wind. If you do, Shuffle X target cards named Surging Strike, Whelming Gustwave, and/or Mugenshi: RELEASE from your graveyard into your deck, then Lord of Wind gains +X[attack].
-specialization: Katsu
+specializations:
+- Katsu
+variants:
+- WTR081
+- WTR081-RF
+- U-WTR081
+- U-WTR081-RF

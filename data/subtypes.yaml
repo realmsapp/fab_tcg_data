@@ -11,6 +11,8 @@
   key: arms
 - name: Arrow
   key: arrow
+- name: Ash
+  key: ash
 - name: Attack
   key: attack
 - name: Aura
@@ -39,6 +41,8 @@
   key: hammer
 - name: Head
   key: head
+- name: Invocation
+  key: invocation
 - name: Item
   key: item
 - name: Landmark

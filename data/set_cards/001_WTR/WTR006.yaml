@@ -1,6 +1,5 @@
 ---
 key: WTR006
-card_key: alpha_rampage_red
 name: Alpha Rampage
 set: WTR
 rarity: majestic
@@ -11,14 +10,20 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '9'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '9'
+defense: '3'
 game_text: ! |-
   **Rhinar Specialization** *(You may only have Alpha Rampage in your deck if your hero is Rhinar.)*
 
   As an additional cost to play Alpha Rampage, discard a random card.
 
   **Intimidate**
-specialization: Rhinar
+specializations:
+- Rhinar
+variants:
+- WTR006
+- WTR006-RF
+- U-WTR006
+- U-WTR006-RF

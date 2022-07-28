@@ -1,0 +1,21 @@
+---
+key: UPR078
+name: Ronin Renegade
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR078.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+- draconic
+subtypes:
+- attack
+resources: '1'
+attack: '3'
+defense: '2'
+game_text: ! |-
+  Go again
+variants:
+- UPR078
+- UPR078-RF

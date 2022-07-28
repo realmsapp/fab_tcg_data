@@ -1,6 +1,5 @@
 ---
 key: ELE012
-card_key: turn_timber_blue
 name: Turn Timber
 set: ELE
 rarity: rare
@@ -10,10 +9,9 @@ card_type: defense_reaction
 supertypes:
 - guardian
 - elemental
-
+resources: '3'
 cost: '2'
 defense: '4'
-resources: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Turn Timber, you may reveal an Earth card from your hand.)*
 

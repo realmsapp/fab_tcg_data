@@ -1,6 +1,5 @@
 ---
 key: CRU067
-card_key: soulbead_strike_yellow
 name: Soulbead Strike
 set: CRU
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '3'
+defense: '3'
 game_text: ! |-
   If Soulbead Strike hits, it gains **go again**.

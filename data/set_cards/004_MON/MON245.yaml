@@ -1,6 +1,5 @@
 ---
 key: MON245
-card_key: exude_confidence_red
 name: Exude Confidence
 set: MON
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '2'
 game_text: ! |-
   While Exude Confidence isn't defended by a card with equal or greater [Power], the defending hero can't play or activate instants or defense reactions this combat chain.
 

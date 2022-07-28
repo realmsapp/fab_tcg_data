@@ -1,6 +1,5 @@
 ---
 key: EVR064
-card_key: in_the_swing_yellow
 name: In the Swing
 set: EVR
 rarity: common
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR064.png?w=350&fit=clip&au
 card_type: attack_reaction
 supertypes:
 - warrior
-
+resources: '2'
 cost: '0'
 defense: '3'
-resources: '2'
 game_text: ! "Play In the Swing only if you have attacked 2 or more times with weapons
   this turn.\r\n\r\nTarget weapon attack gains +2 [Power]."

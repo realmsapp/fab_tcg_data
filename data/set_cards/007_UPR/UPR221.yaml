@@ -1,0 +1,17 @@
+---
+key: UPR221
+name: Oasis Respite
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR221.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- generic
+resources: '1'
+cost: '1'
+game_text: ! |-
+  Prevent the next 4 damage that would be dealt to target hero this turn by a source of your choice. If they have less life than each other hero, they may gain 1{g}.
+variants:
+- UPR221
+- UPR221-RF

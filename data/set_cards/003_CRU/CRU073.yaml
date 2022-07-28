@@ -1,6 +1,5 @@
 ---
 key: CRU073
-card_key: salt_the_wound_yellow
 name: Salt the Wound
 set: CRU
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   Salt the Wound gains +1[attack] for each attack that has hit this combat chain.

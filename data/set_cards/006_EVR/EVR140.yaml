@@ -1,6 +1,5 @@
 ---
 key: EVR140
-card_key: shimmers_of_silver_blue
 name: Shimmers of Silver
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - illusionist
 subtypes:
 - aura
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! "**Once per Turn Effect** - Whenever you attack with an Illusionist aura
   weapon, put a +1 [Power] counter on it.\r\n\r\n**Spectra** *(Shimmers of Silver
   can be attacked. When Shimmers of Silver becomes the target of an attack, destroy

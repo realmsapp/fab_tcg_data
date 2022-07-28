@@ -1,6 +1,5 @@
 ---
 key: CRU061
-card_key: rushing_river_yellow
 name: Rushing River
 set: CRU
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   **Combo** - If Torrent of Tempo was the last attack this combat chain, Rushing River gains +1[attack], **go again** and "if Rushing River hits, draw X cards then put X cards from your hand on top of your deck in any order, where X is the number of attacks that have hit this combat chain."

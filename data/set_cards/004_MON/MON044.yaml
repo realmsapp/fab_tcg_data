@@ -1,6 +1,5 @@
 ---
 key: MON044
-card_key: bolt_of_courage_blue
 name: Bolt of Courage
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '1'
-cost: '0'
-defense: '3'
 resources: '3'
+cost: '0'
+attack: '1'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Bolt of Courage, you may charge your hero's soul. (Put a card from your hand face up under your hero card.)
 

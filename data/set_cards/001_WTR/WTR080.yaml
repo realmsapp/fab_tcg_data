@@ -1,6 +1,5 @@
 ---
 key: WTR080
-card_key: breaking_scales
 name: Breaking Scales
 set: WTR
 rarity: common
@@ -16,3 +15,8 @@ game_text: ! |-
   **Attack reaction** - Destroy Breaking Scales: Target attack action card with **combo** gains +1[attack].
 
   **Battleworn** *(If you defend with Breaking Scales, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR080
+- WTR080-RF
+- U-WTR080
+- U-WTR080-RF

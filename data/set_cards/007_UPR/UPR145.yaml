@@ -1,0 +1,17 @@
+---
+key: UPR145
+name: Arctic Incarceration
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR145.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ice
+resources: '2'
+defense: '2'
+game_text: ! |-
+  Create 2 Frostbite tokens under target hero's control.
+variants:
+- UPR145
+- UPR145-RF

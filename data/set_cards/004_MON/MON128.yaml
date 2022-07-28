@@ -1,6 +1,5 @@
 ---
 key: MON128
-card_key: endless_maw_blue
 name: Endless Maw
 set: MON
 rarity: rare
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '4'
-cost: '3'
-defense: '3'
 resources: '3'
+cost: '3'
+attack: '4'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Endless Maw, banish 3 random cards from your graveyard.
 

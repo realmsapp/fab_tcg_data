@@ -1,0 +1,17 @@
+---
+key: UPR154
+name: Semblance
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR154.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- illusionist
+resources: '3'
+cost: '3'
+game_text: ! |-
+  Negate all phantasm triggered effects of target Illusionist attack you control. The attack loses and can't gain phantasm. (The triggered effects do not resolve.)
+variants:
+- UPR154
+- UPR154-RF

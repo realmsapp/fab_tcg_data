@@ -1,6 +1,5 @@
 ---
 key: ELE186
-card_key: ball_lightning_red
 name: Ball Lightning
 set: ELE
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - lightning
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '0'
 resources: '1'
+cost: '0'
+attack: '3'
+defense: '0'
 game_text: ! |-
   Whenever a Lightning or Elemental action card would deal damage this combat chain, instead it deals that much damage plus 1.
 

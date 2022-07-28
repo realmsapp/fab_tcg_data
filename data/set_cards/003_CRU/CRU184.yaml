@@ -1,6 +1,5 @@
 ---
 key: CRU184
-card_key: promise_of_plenty_yellow
 name: Promise of Plenty
 set: CRU
 rarity: rare
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '2'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '2'
 game_text: ! "If Promise of Plenty hits, each hero who doesn't have a card in arsenal
   puts the top card of their deck face down into their arsenal.\n\nIf Promise of Plenty
   is played from arsenal, it gains **go again**. "

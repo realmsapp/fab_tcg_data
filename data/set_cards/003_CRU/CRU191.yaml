@@ -1,6 +1,5 @@
 ---
 key: CRU191
-card_key: reinforce_the_line_blue
 name: Reinforce the Line
 set: CRU
 rarity: rare
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/cru/191.png?w=300&fit=clip&auto=compre
 card_type: instant
 supertypes:
 - generic
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Target defending attack action card gains +2[defense].

@@ -1,6 +1,5 @@
 ---
 key: CRU079
-card_key: cintari_saber
 name: Cintari Saber
 set: CRU
 rarity: rare
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/79.png?w=300&fit=clip&auto=compres
 card_type: weapon
 supertypes:
 - warrior
-
 attack: '2'
 game_text: ! |-
   **Once per Turn Action - [resource]: Attack**

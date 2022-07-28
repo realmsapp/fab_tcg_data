@@ -1,6 +1,5 @@
 ---
 key: ELE131
-card_key: break_ground_red
 name: Break Ground
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - earth
 subtypes:
 - attack
-attack: '7'
-cost: '3'
-defense: '2'
 resources: '1'
+cost: '3'
+attack: '7'
+defense: '2'
 game_text: ! |-
   When you attack with Break Ground, you may put a card from your arsenal on the bottom of your deck. If you do, draw a card.

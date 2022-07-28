@@ -1,6 +1,5 @@
 ---
 key: WTR014
-card_key: savage_feast_red
 name: Savage Feast
 set: WTR
 rarity: rare
@@ -11,11 +10,16 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '6'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '6'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Savage Feast, discard a random card.
 
   If the discarded card has 6 or more [attack], Savage Feast gains **go again**.
+variants:
+- WTR014
+- WTR014-RF
+- U-WTR014
+- U-WTR014-RF

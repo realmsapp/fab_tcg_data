@@ -1,6 +1,5 @@
 ---
 key: EVR026
-card_key: thunder_quake_blue
 name: Thunder Quake
 set: EVR
 rarity: rare
@@ -11,9 +10,9 @@ supertypes:
 - guardian
 subtypes:
 - attack
-attack: '8'
-cost: '6'
-defense: '3'
 resources: '3'
+cost: '6'
+attack: '8'
+defense: '3'
 game_text: ! |-
   **Heave 3** *(At the beginning of your end phase, if Thunder Quake is in your hand and you have an empty arsenal zone, you may pay [3 Resource] and put Thunder Quake face up into your arsenal. If you do, create 3 Seismic Surge tokens.)*

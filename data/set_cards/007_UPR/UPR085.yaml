@@ -1,0 +1,17 @@
+---
+key: UPR085
+name: Sash of Sandikai
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR085.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- draconic
+subtypes:
+- chest
+game_text: ! |-
+  Instant - Destroy Sash of Sandikai: Gain {r}. Activate this ability only if you've played a red card this turn.
+variants:
+- UPR085
+- UPR085-RF

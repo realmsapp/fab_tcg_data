@@ -1,6 +1,5 @@
 ---
 key: ARC053
-card_key: silver_the_tip_blue
 name: Silver the Tip
 set: ARC
 rarity: rare
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/arc/53.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - ranger
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   If you have no cards in your arsenal, look at the top 2 cards of your deck. You may put an arrow card from among them face up into arsenal, then put the rest on the bottom of your deck in any order.
 

@@ -1,6 +1,5 @@
 ---
 key: EVR146
-card_key: coalescence_mirage_blue
 name: Coalescence Mirage
 set: EVR
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - illusionist
 subtypes:
 - attack
-attack: '5'
-cost: '2'
-defense: '3'
 resources: '3'
+cost: '2'
+attack: '5'
+defense: '3'
 game_text: ! |-
   Phantasm (If Coalescence Mirage is defended by a non-Illusionist attack action card with 6 or more [Power], destroy Coalescence Mirage and close the combat chain.)
 

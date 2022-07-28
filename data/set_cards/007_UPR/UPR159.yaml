@@ -1,0 +1,19 @@
+---
+key: UPR159
+name: Tide Flippers
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR159.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- ninja
+subtypes:
+- legs
+game_text: ! |-
+  Attack Reaction - Destroy Tide Flippers: Target attack action card with 2 or less base {p} gains go again.
+
+  Arcane Barrier 1 (If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)
+variants:
+- UPR159
+- UPR159-RF

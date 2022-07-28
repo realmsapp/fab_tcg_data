@@ -1,6 +1,5 @@
 ---
 key: WTR029
-card_key: wrecker_romp_red
 name: Wrecker Romp
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - brute
 subtypes:
 - attack
-attack: '8'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '8'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Wrecker Romp, discard a random card.
+variants:
+- WTR029
+- WTR029-RF
+- U-WTR029
+- U-WTR029-RF

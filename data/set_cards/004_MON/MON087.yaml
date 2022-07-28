@@ -1,6 +1,5 @@
 ---
 key: MON087
-card_key: ray_of_hope_yellow
 name: Ray of Hope
 set: MON
 rarity: common
@@ -9,9 +8,8 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON087.png?w=300&fit=clip&au
 card_type: instant
 supertypes:
 - light
-
-cost: '1'
 resources: '2'
+cost: '1'
 game_text: ! |-
   Attacks you control have +1 [Power] while attacking a Shadow hero this turn.
 

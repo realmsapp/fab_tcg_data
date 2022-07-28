@@ -1,6 +1,5 @@
 ---
 key: MON091
-card_key: phantasmaclasm_red
 name: Phantasmaclasm
 set: MON
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - illusionist
 subtypes:
 - attack
-attack: '9'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '9'
+defense: '3'
 game_text: ! |-
   Look at the defending hero's hand and choose a card. They put it on the bottom of their deck then draw a card.
 

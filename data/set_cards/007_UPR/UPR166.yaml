@@ -1,0 +1,21 @@
+---
+key: UPR166
+name: Alluvion Constellas
+set: UPR
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR166-CF.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- wizard
+subtypes:
+- chest
+game_text: ! |-
+  The first time Alluvion Constellas prevents arcane damage each turn, if it has less than 4 energy counters, you may put an energy counter on it.
+
+  Instant - Remove 2 energy counters from Alluvion Constellas: The next staff ability you activate this turn costs {r}{r}{r} less.
+
+  Arcane Barrier 1 (If your hero would be dealt arcane damage, you may pay {r} to prevent 1 of that damage.)
+variants:
+- UPR166-RF
+- UPR166-CF

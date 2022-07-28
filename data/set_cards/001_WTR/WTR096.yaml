@@ -1,6 +1,5 @@
 ---
 key: WTR096
-card_key: open_the_center_yellow
 name: Open the Center
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '4'
-cost: '2'
-defense: '3'
 resources: '2'
+cost: '2'
+attack: '4'
+defense: '3'
 game_text: ! |-
   **Combo** If Head Jab was the last attack this combat chain, Open the Center gains +1[attack], **go again** and **dominate**. *(The defending hero can't defend Open the Center with more than 1 card from their hand.)*
+variants:
+- WTR096
+- WTR096-RF
+- U-WTR096
+- U-WTR096-RF

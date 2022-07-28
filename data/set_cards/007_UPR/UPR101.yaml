@@ -1,0 +1,22 @@
+---
+key: UPR101
+name: Phoenix Flame
+set: UPR
+rarity: token
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR101.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+resources: '1'
+game_text: ! |-
+  (A player may add up to 3 Phoenix Flame to their deck in an Uprising limited format.)
+
+  If you control 2 or more Draconic chain links, Phoenix Flame has +1{p}.
+
+  Go again
+variants:
+- UPR101
+- UPR101-MV

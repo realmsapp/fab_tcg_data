@@ -1,6 +1,5 @@
 ---
 key: WTR211
-card_key: razor_reflex_blue
 name: Razor Reflex
 set: WTR
 rarity: common
@@ -9,12 +8,16 @@ image_url: https://fabdb2.imgix.net/cards/wtr/211.png?w=300&fit=clip&auto=compre
 card_type: attack_reaction
 supertypes:
 - generic
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Choose 1;
 
   * Target sword or dagger attack gains +1[attack].
   * Target attack action card with cost [resource] or less gains +1[attack] and "If this hits, this attack gains **go again**."
+variants:
+- WTR211
+- WTR211-RF
+- U-WTR211
+- U-WTR211-RF

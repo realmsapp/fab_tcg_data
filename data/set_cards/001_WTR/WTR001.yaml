@@ -1,6 +1,5 @@
 ---
 key: WTR001
-card_key: rhinar_reckless_rampage
 name: Rhinar, Reckless Rampage
 set: WTR
 rarity: token
@@ -13,3 +12,6 @@ intellect: '4'
 life: '40'
 game_text: ! |-
   When you discard a card with 6 or more [attack] during your action phase, *intimidate*.
+variants:
+- WTR001
+- U-WTR001

@@ -1,6 +1,5 @@
 ---
 key: ARC010
-card_key: induction_chamber_red
 name: Induction Chamber
 set: ARC
 rarity: super_rare
@@ -11,8 +10,8 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '2'
 resources: '1'
+cost: '2'
 game_text: ! |-
   **Action - [resource]**: If there are no steam counters on Induction Chamber, put a steam counter on it. **Go again**
 

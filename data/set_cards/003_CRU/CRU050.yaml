@@ -1,6 +1,5 @@
 ---
 key: CRU050
-card_key: edge_of_autumn
 name: Edge of Autumn
 set: CRU
 rarity: rare
@@ -9,6 +8,5 @@ image_url: https://fabdb2.imgix.net/cards/cru/50.png?w=300&fit=clip&auto=compres
 card_type: weapon
 supertypes:
 - ninja
-
 game_text: ! |-
   **Once per Turn Action -- [resource]: Attack. Go again**

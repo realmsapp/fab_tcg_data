@@ -1,0 +1,17 @@
+---
+key: UPR041
+name: Sand Cover
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR041.png?w=350&fit=clip&auto=compress,format
+card_type: instant
+supertypes:
+- illusionist
+- draconic
+resources: '3'
+game_text: ! |-
+  Target ash you control gains ward 2 until end of turn. (If your hero would be dealt damage, prevent 2 of that damage and destroy this.)
+variants:
+- UPR041
+- UPR041-RF

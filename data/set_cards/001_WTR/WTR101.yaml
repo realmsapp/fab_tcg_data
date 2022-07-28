@@ -1,6 +1,5 @@
 ---
 key: WTR101
-card_key: leg_tap_red
 name: Leg Tap
 set: WTR
 rarity: common
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '2'
 resources: '1'
+cost: '1'
+attack: '4'
+defense: '2'
 game_text: ! |-
   **Go again**
+variants:
+- WTR101
+- WTR101-RF
+- U-WTR101
+- U-WTR101-RF

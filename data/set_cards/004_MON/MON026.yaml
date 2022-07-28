@@ -1,6 +1,5 @@
 ---
 key: MON026
-card_key: wartune_herald_red
 name: Wartune Herald
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '7'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '7'
+defense: '3'
 game_text: ! |-
   If Wartune Herald hits, put it into your hero's soul. (Put this card face up under your hero card.)
 

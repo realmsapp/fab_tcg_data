@@ -1,6 +1,5 @@
 ---
 key: ELE125
-card_key: summerwood_shelter_red
 name: Summerwood Shelter
 set: ELE
 rarity: rare
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE125.png?w=350&fit=clip&au
 card_type: instant
 supertypes:
 - earth
-
-cost: '0'
 resources: '1'
+cost: '0'
 game_text: ! |-
   Target defending Earth or Elemental action card gains +4 [Defense].

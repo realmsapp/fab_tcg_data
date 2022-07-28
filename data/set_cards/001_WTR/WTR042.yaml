@@ -1,6 +1,5 @@
 ---
 key: WTR042
-card_key: helm_of_isens_peak
 name: Helm of Isen's Peak
 set: WTR
 rarity: common
@@ -16,3 +15,8 @@ game_text: ! |
   **Action** - [1 resource], destroy Helm of Isen's Peak: Your hero gains +1[intellect] until end of turn.
 
   **Battleworn** *(If you defend with Helm of Isen's Peak, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR042
+- WTR042-RF
+- U-WTR042
+- U-WTR042-RF

@@ -1,6 +1,5 @@
 ---
 key: EVR040
-card_key: winds_of_eternity_blue
 name: Winds of Eternity
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '3'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   **Combo** - If Hundred Winds was the last attack this combat chain, Winds of Eternity gains +2 [Power] and "When this hits, shuffle all cards named Hundred Winds you own on this combat chain into your deck."

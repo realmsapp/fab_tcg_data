@@ -1,0 +1,20 @@
+---
+key: UPR156
+name: Transmogrify
+set: UPR
+rarity: rare
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR156.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+resources: '2'
+cost: '1'
+defense: '2'
+game_text: ! |-
+  The next attack action card you play this turn is Illusionist, has 7 base {p}, and gains phantasm. (It keeps its other card types.)
+
+  Go again
+variants:
+- UPR156
+- UPR156-RF

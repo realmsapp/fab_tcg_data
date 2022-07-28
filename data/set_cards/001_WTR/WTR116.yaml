@@ -1,6 +1,5 @@
 ---
 key: WTR116
-card_key: braveforge_bracers
 name: Braveforge Bracers
 set: WTR
 rarity: legendary
@@ -16,3 +15,6 @@ game_text: ! |-
   **Once per Turn Action** - [resource]: Your next weapon attack this turn gains +1[attack]. Activate this ability only if a weapon you control has hit this turn. **Go again**
 
   **Battleworn** *(If you defend with Braveforge Bracers, put a -1[defense] counter on it when the combat chain closes.)*
+variants:
+- WTR116-CF
+- U-WTR116-RF

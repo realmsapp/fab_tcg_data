@@ -1,6 +1,5 @@
 ---
 key: ARC163
-card_key: rusted_relic_blue
 name: Rusted Relic
 set: ARC
 rarity: super_rare
@@ -11,7 +10,7 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Arcane Barrier 1** *(If your hero would be dealt arcane damage, you may pay [resource] instead. If you do, prevent 1 arcane damage that source would deal.)*

@@ -1,6 +1,5 @@
 ---
 key: ELE195
-card_key: shock_striker_red
 name: Shock Striker
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - lightning
 subtypes:
 - attack
-attack: '5'
-cost: '1'
-defense: '2'
 resources: '1'
+cost: '1'
+attack: '5'
+defense: '2'
 game_text: ! |-
   **Once per Turn Instant** - [2 Resource]: Shock Striker gains "If Shock Striker hits a hero, deal 1 damage to them."

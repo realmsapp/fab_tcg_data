@@ -1,6 +1,5 @@
 ---
 key: MON235
-card_key: arcanic_crackle_red
 name: Arcanic Crackle
 set: MON
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - runeblade
 subtypes:
 - attack
-attack: '3'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '3'
+defense: '3'
 game_text: ! |-
   Deal 1 arcane damage to target hero.

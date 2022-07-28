@@ -1,6 +1,5 @@
 ---
 key: ELE202
-card_key: titans_fist
 name: Titan's Fist
 set: ELE
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE202.png?w=350&fit=clip&au
 card_type: weapon
 supertypes:
 - guardian
-
 attack: '3'
 game_text: ! |-
   **Once per Turn Action** - [3 Resource]: **Attack**

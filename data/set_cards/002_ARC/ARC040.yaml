@@ -1,6 +1,5 @@
 ---
 key: ARC040
-card_key: death_dealer
 name: Death Dealer
 set: ARC
 rarity: token
@@ -9,6 +8,5 @@ image_url: https://fabdb2.imgix.net/cards/arc/40.png?w=300&fit=clip&auto=compres
 card_type: weapon
 supertypes:
 - ranger
-
 game_text: ! |-
   **Once per Turn Action** - [resource]: If you have no cards in your arsenal, you may put an arrow card from your hand face up into your arsenal. If you do, draw a card. **Go again**

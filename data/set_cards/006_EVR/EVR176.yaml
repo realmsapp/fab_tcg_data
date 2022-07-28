@@ -1,6 +1,5 @@
 ---
 key: EVR176
-card_key: amulet_of_assertiveness_yellow
 name: Amulet of Assertiveness
 set: EVR
 rarity: rare
@@ -11,8 +10,8 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '2'
+cost: '0'
 game_text: ! "**Go again**\r\n\r\n**Attack Reaction** - Destroy Amulet of Assertiveness:
   Target attack gains \"When this hits, banish the top card of your deck. If it's
   an attack action card, you may play it this turn.\" Activate this ability only if

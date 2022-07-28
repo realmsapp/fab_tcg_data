@@ -1,6 +1,5 @@
 ---
 key: CRU180
-card_key: coax_a_commotion_red
 name: Coax a Commotion
 set: CRU
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '2'
 game_text: ! |-
   If Coax a Commotion hits, choose any number:
 

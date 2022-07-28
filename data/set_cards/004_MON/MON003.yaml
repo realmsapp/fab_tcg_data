@@ -1,6 +1,5 @@
 ---
 key: MON003
-card_key: luminaris
 name: Luminaris
 set: MON
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - illusionist
 - light
-
 game_text: ! |-
   During your action phase, Illusionist auras you control are weapons with 1 [Power] and "Once per Turn Action - 0: Attack"
 

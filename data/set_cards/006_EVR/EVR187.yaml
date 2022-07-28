@@ -1,6 +1,5 @@
 ---
 key: EVR187
-card_key: potion_of_luck_blue
 name: Potion of Luck
 set: EVR
 rarity: rare
@@ -11,7 +10,7 @@ supertypes:
 - generic
 subtypes:
 - item
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   **Instant** - Destroy Potion of Luck: Shuffle your hand and arsenal into your deck, then draw that many cards.

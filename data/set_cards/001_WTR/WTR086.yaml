@@ -1,6 +1,5 @@
 ---
 key: WTR086
-card_key: fluster_fist_red
 name: Fluster Fist
 set: WTR
 rarity: rare
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '3'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '3'
 game_text: ! |-
   **Combo** - If Open the Center was the last attack this combat chain, Fluster Fist gains +1[attack] for each attack that has hit this combat chain.
+variants:
+- WTR086
+- WTR086-RF
+- U-WTR086
+- U-WTR086-RF

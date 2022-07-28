@@ -1,0 +1,24 @@
+---
+key: UPR096
+name: Flamecall Awakening
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR096.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '3'
+defense: '2'
+game_text: ! |-
+  When you attack with Flamecall Awakening, if you've played another red card this turn, you may search your deck for a Phoenix Flame, reveal it, put it into your hand, then shuffle.
+
+  Go again
+variants:
+- UPR096
+- UPR096-RF
+- UPR096-RFEA

@@ -1,6 +1,5 @@
 ---
 key: CRU078
-card_key: dawnblade
 name: Dawnblade
 set: CRU
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/cru/78.png?w=300&fit=clip&auto=compres
 card_type: weapon
 supertypes:
 - warrior
-
 attack: '3'
 game_text: ! |-
   **Once per Turn Action - [resource]: Attack**

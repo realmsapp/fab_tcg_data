@@ -1,6 +1,5 @@
 ---
 key: MON014
-card_key: herald_of_protection_red
 name: Herald of Protection
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '7'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '7'
+defense: '3'
 game_text: ! |-
   If Herald of Protection hits, put it into your hero's soul and create a Spectral Shield token. (It's an Illusionist aura with "If your hero would be dealt damage, instead destroy Spectral Shield and prevent 1 damage that source would deal.")
 

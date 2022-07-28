@@ -1,6 +1,5 @@
 ---
 key: MON157
-card_key: dimenxxional_crossroads_yellow
 name: Dimenxxional Crossroads
 set: MON
 rarity: majestic
@@ -12,9 +11,9 @@ supertypes:
 - shadow
 subtypes:
 - aura
+resources: '2'
 cost: '2'
 defense: '3'
-resources: '2'
 game_text: ! |-
   Go again 
 

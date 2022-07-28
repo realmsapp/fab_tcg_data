@@ -1,6 +1,5 @@
 ---
 key: EVR070
-card_key: micro_processor_blue
 name: Micro-processor
 set: EVR
 rarity: majestic
@@ -11,12 +10,13 @@ supertypes:
 - mechanologist
 subtypes:
 - item
-cost: '2'
 resources: '3'
+cost: '2'
 game_text: ! "**Data Doll Specialization** *(You may only have Micro-processor in
   your deck if your hero is Data Doll.)*\r\n           \r\n**Once Per Turn Action**
   - 0: **Opt 1**    \r\n**Once Per Turn Action** - 0: Draw a card then put a card
   from your hand on top of your deck.   \r\n**Once Per Turn Action** - 0: Banish the
   top card of your deck.   \r\n\r\nThe first time you activate Micro-processor each
   turn, gain 1 action point."
-specialization: Doll
+specializations:
+- Doll

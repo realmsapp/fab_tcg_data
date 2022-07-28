@@ -1,6 +1,5 @@
 ---
 key: ELE171
-card_key: winters_bite_blue
 name: Winter's Bite
 set: ELE
 rarity: common
@@ -9,10 +8,9 @@ image_url: https://fabdb2.imgix.net/cards/printings/ELE171.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ice
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Target hero discards a card unless they pay [1 Resource].
 

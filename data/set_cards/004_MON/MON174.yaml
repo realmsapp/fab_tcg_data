@@ -1,6 +1,5 @@
 ---
 key: MON174
-card_key: rift_bind_red
 name: Rift Bind
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   You may play Rift Bind from your banished zone. If you do, it gains +X [Power], where X is the number of 'non-attack' action cards you have played this turn.
 

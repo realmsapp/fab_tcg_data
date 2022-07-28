@@ -1,6 +1,5 @@
 ---
 key: EVR095
-card_key: fatigue_shot_yellow
 name: Fatigue Shot
 set: EVR
 rarity: common
@@ -9,11 +8,10 @@ image_url: https://fabdb2.imgix.net/cards/printings/EVR095.png?w=350&fit=clip&au
 card_type: action
 supertypes:
 - ranger
-
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   (Arrows can only be played from arsenal and only if you control a bow.)
 

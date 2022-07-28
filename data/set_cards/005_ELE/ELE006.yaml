@@ -1,6 +1,5 @@
 ---
 key: ELE006
-card_key: awakening_blue
 name: Awakening
 set: ELE
 rarity: majestic
@@ -10,9 +9,8 @@ card_type: instant
 supertypes:
 - guardian
 - elemental
-
-cost: '2'
 resources: '3'
+cost: '2'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Awakening, you may reveal an Earth card from your hand.)*
 

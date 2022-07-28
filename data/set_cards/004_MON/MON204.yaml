@@ -1,6 +1,5 @@
 ---
 key: MON204
-card_key: ghostly_visit_yellow
 name: Ghostly Visit
 set: MON
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - shadow
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   You may play Ghostly Visit from your banished zone.
 

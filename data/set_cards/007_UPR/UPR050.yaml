@@ -1,0 +1,20 @@
+---
+key: UPR050
+name: Combustion Point
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR050.png?w=350&fit=clip&auto=compress,format
+card_type: attack_reaction
+supertypes:
+- ninja
+- draconic
+resources: '1'
+cost: '1'
+defense: '3'
+game_text: ! "Target Draconic or Ninja attack action card gains +1{p}. \n\nYou may
+  banish a non-equipment defending card with {d} less than the number of Draconic
+  chain links you control."
+variants:
+- UPR050
+- UPR050-RF

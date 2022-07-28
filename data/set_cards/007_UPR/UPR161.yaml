@@ -1,0 +1,21 @@
+---
+key: UPR161
+name: Take the Tempo
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR161.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
+game_text: ! |-
+  When Take the Tempo hits, if you've hit 3 or more times this combat chain, banish the top card of your deck. If it's an attack action card, you may play it until the end of your next turn.
+variants:
+- UPR161
+- UPR161-RF

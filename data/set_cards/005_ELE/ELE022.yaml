@@ -1,6 +1,5 @@
 ---
 key: ELE022
-card_key: snow_under_red
 name: Snow Under
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '7'
-cost: '3'
-defense: '3'
 resources: '1'
+cost: '3'
+attack: '7'
+defense: '3'
 game_text: ! |-
   **Ice Fusion** *(As an additional cost to play Snow Under, you may reveal an Ice card from your hand.)*
 

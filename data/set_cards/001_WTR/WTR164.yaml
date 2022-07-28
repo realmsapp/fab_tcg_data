@@ -1,6 +1,5 @@
 ---
 key: WTR164
-card_key: drone_of_brutality_red
 name: Drone of Brutality
 set: WTR
 rarity: rare
@@ -11,9 +10,14 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '2'
 resources: '1'
+cost: '2'
+attack: '6'
+defense: '2'
 game_text: ! |-
   If Drone of Brutality would be put into your graveyard from anywhere, instead put it on the bottom of your deck.
+variants:
+- WTR164
+- WTR164-RF
+- U-WTR164
+- U-WTR164-RF

@@ -1,6 +1,5 @@
 ---
 key: CRU054
-card_key: find_center_blue
 name: Find Center
 set: CRU
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '3'
 resources: '3'
+cost: '0'
+attack: '2'
+defense: '3'
 game_text: ! |-
   **Combo** - If Crane Dance was the last attack this combat chain, Find Center can't be defended by cards with [resource] cost less than the number of chain links you control, and it gains "If this hits, create a Zen State token."

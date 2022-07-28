@@ -1,6 +1,5 @@
 ---
 key: WTR208
-card_key: pummel_blue
 name: Pummel
 set: WTR
 rarity: common
@@ -9,12 +8,16 @@ image_url: https://fabdb2.imgix.net/cards/wtr/208.png?w=300&fit=clip&auto=compre
 card_type: attack_reaction
 supertypes:
 - generic
-
+resources: '3'
 cost: '2'
 defense: '2'
-resources: '3'
 game_text: ! |-
   Choose 1;
 
   * Target club or hammer attack gains +2[attack].
   * Target attack action card with cost [2 resource] or greater gains +2[attack] and "If this hits, the defending hero discards a card."
+variants:
+- WTR208
+- WTR208-RF
+- U-WTR208
+- U-WTR208-RF

@@ -1,6 +1,5 @@
 ---
 key: MON121
-card_key: hexagore_the_death_hydra
 name: Hexagore, the Death Hydra
 set: MON
 rarity: majestic
@@ -10,7 +9,6 @@ card_type: weapon
 supertypes:
 - brute
 - shadow
-
 attack: '6'
 game_text: ! |-
   Once per Turn Action - [2 Resource]: Attack

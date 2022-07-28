@@ -1,6 +1,5 @@
 ---
 key: EVR156
-card_key: bingo_red
 name: Bingo
 set: EVR
 rarity: majestic
@@ -11,9 +10,9 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '5'
-cost: '1'
-defense: '3'
 resources: '1'
+cost: '1'
+attack: '5'
+defense: '3'
 game_text: ! |-
   When Bingo hits a hero, they reveal a card from their hand. If an attack action card is revealed this way, Bingo gains **go again**. If a 'non-attack' action card is revealed this way, draw a card.

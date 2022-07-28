@@ -1,6 +1,5 @@
 ---
 key: MON055
-card_key: take_flight_yellow
 name: Take Flight
 set: MON
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - light
 subtypes:
 - attack
-attack: '3'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '3'
+defense: '3'
 game_text: ! |-
   As an additional cost to play Take Flight, you may charge your hero's soul. (Put a card from your hand face up under your hero card.)
 

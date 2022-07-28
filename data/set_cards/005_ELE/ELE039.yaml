@@ -1,6 +1,5 @@
 ---
 key: ELE039
-card_key: cold_wave_yellow
 name: Cold Wave
 set: ELE
 rarity: rare
@@ -10,11 +9,10 @@ card_type: action
 supertypes:
 - ranger
 - elemental
-
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   *(Arrows can only be played from arsenal and only if you control a bow.)*
 

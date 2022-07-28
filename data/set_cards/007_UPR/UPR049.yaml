@@ -1,0 +1,24 @@
+---
+key: UPR049
+name: Spreading Flames
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR049.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- ninja
+- draconic
+subtypes:
+- attack
+resources: '1'
+cost: '1'
+attack: '3'
+defense: '2'
+game_text: ! |-
+  Draconic attacks you control have +1{p} while their base {p} is less than the number of Draconic chain links you control.
+
+  Go again
+variants:
+- UPR049
+- UPR049-RF

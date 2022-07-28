@@ -1,6 +1,5 @@
 ---
 key: ARC166
-card_key: life_for_a_life_blue
 name: Life for a Life
 set: ARC
 rarity: rare
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '1'
-defense: '2'
 resources: '3'
+cost: '1'
+attack: '2'
+defense: '2'
 game_text: ! |-
   If Life for a Life hits, gain 1 [life].
 

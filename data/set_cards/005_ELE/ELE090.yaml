@@ -1,6 +1,5 @@
 ---
 key: ELE090
-card_key: inspire_lightning_blue
 name: Inspire Lightning
 set: ELE
 rarity: common
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - elemental
-
+resources: '3'
 cost: '1'
 defense: '2'
-resources: '3'
 game_text: ! |-
   **Lightning Fusion*** (As an additional cost to play Inspire Lightning, you may reveal a Lightning card from your hand.)*
 

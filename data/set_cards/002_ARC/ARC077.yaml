@@ -1,6 +1,5 @@
 ---
 key: ARC077
-card_key: nebula_blade
 name: Nebula Blade
 set: ARC
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/arc/77.png?w=300&fit=clip&auto=compres
 card_type: weapon
 supertypes:
 - runeblade
-
 attack: '1'
 game_text: ! |-
   **Once per Turn Action** - [2 resource]: **Attack**

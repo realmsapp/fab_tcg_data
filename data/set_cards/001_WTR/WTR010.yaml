@@ -1,6 +1,5 @@
 ---
 key: WTR010
-card_key: bone_head_barrier_yellow
 name: Bone Head Barrier
 set: WTR
 rarity: super_rare
@@ -9,8 +8,12 @@ image_url: https://fabdb2.imgix.net/cards/wtr/10.png?w=300&fit=clip&auto=compres
 card_type: instant
 supertypes:
 - brute
-
-cost: '1'
 resources: '2'
+cost: '1'
 game_text: ! |-
   Rolla 6 sided die. Prevent the next X damage that would be dealt to your hero this turn, where X is the number rolled.
+variants:
+- WTR010
+- WTR010-RF
+- U-WTR010
+- U-WTR010-RF

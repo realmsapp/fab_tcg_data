@@ -1,6 +1,5 @@
 ---
 key: WTR000
-card_key: heart_of_fyendal_blue
 name: Heart of Fyendal
 set: WTR
 rarity: fabled
@@ -17,3 +16,6 @@ game_text: ! |-
 
   When you pitch Heart of Fyendal, if you have less [life] than your opponent, gain 1[life].
 legendary: true
+variants:
+- WTR000-CF
+- U-WTR000-RF

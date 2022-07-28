@@ -1,6 +1,5 @@
 ---
 key: MON005
-card_key: arc_light_sentinel_yellow
 name: Arc Light Sentinel
 set: MON
 rarity: majestic
@@ -12,12 +11,13 @@ supertypes:
 - light
 subtypes:
 - aura
-cost: '6'
 resources: '2'
+cost: '6'
 game_text: ! |-
   Prism Specialization (You may only have Arc Light Sentinel in your deck if your hero is Prism.)
 
   If Arc Light Sentinel is in the arena when an opponent announces an attack, they must choose Arc Light Sentinel as the target of the attack.
 
   Spectra (Arc Light Sentinel can be attacked. When Arc Light Sentinel becomes the target of an attack, destroy it and close the combat chain. The attack does not resolve.)
-specialization: Prism
+specializations:
+- Prism

@@ -1,6 +1,5 @@
 ---
 key: MON305
-card_key: memorial_ground_blue
 name: Memorial Ground
 set: MON
 rarity: common
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON305.png?w=300&fit=clip&au
 card_type: instant
 supertypes:
 - generic
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Put target attack action card with cost 0 from your graveyard on top of your deck.

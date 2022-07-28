@@ -1,6 +1,5 @@
 ---
 key: WTR009
-card_key: sand_sketched_plan_blue
 name: Sand Sketched Plan
 set: WTR
 rarity: super_rare
@@ -9,14 +8,19 @@ image_url: https://fabdb2.imgix.net/cards/wtr/9.png?w=300&fit=clip&auto=compress
 card_type: action
 supertypes:
 - brute
-
+resources: '3'
 cost: '0'
 defense: '3'
-resources: '3'
 game_text: ! |-
   **Rhinar Specialization** *(You may only have Sand Sketched Plan in your deck if your hero is Rhinar.)*
 
   Search your deck for a card, put it into your hand, discard a random card, then shuffle your deck.
 
   If the discarded card has 6 or more [attack], gain 2 action points.
-specialization: Rhinar
+specializations:
+- Rhinar
+variants:
+- WTR009
+- WTR009-RF
+- U-WTR009
+- U-WTR009-RF

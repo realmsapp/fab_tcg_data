@@ -1,0 +1,22 @@
+---
+key: UPR214
+name: Trade In
+set: UPR
+rarity: common
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR214.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- generic
+subtypes:
+- attack
+resources: '3'
+attack: '1'
+defense: '2'
+game_text: ! |-
+  When you attack with Trade In, you may discard a card. If you do, draw a card.
+
+  If Trade In is played from arsenal, it gains go again.
+variants:
+- UPR214
+- UPR214-RF

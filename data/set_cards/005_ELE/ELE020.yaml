@@ -1,6 +1,5 @@
 ---
 key: ELE020
-card_key: mulch_yellow
 name: Mulch
 set: ELE
 rarity: common
@@ -12,10 +11,10 @@ supertypes:
 - elemental
 subtypes:
 - attack
-attack: '7'
-cost: '4'
-defense: '3'
 resources: '2'
+cost: '4'
+attack: '7'
+defense: '3'
 game_text: ! |-
   **Earth Fusion** *(As an additional cost to play Mulch, you may reveal an Earth card from your hand.)*
 

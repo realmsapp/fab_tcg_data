@@ -1,0 +1,20 @@
+---
+key: UPR136
+name: Coronet Peak
+set: UPR
+rarity: legendary
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR136-CF.png?w=350&fit=clip&auto=compress,format
+card_type: equipment
+supertypes:
+- ice
+subtypes:
+- head
+defense: '2'
+game_text: ! |-
+  Action - {r}{r}{r}: Target hero discards a card unless they pay {r}.
+
+  Blade Break (When the combat chain closes, if this defended, destroy it.)
+variants:
+- UPR136-RF
+- UPR136-CF

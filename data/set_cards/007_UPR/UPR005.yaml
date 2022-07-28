@@ -1,0 +1,24 @@
+---
+key: UPR005
+name: Burn Them All
+set: UPR
+rarity: majestic
+artist: unknown
+image_url: https://fabdb2.imgix.net/cards/printings/UPR005.png?w=350&fit=clip&auto=compress,format
+card_type: action
+supertypes:
+- illusionist
+- draconic
+subtypes:
+- aura
+resources: '1'
+defense: '3'
+game_text: ! |-
+  Go again
+
+  Once per turn, when a dragon you control attacks, it deals 1 arcane damage to each opposing hero.
+
+  At the beginning of your end phase, put a raze counter on Burn Them All then destroy it unless you banish a red card from your graveyard for each raze counter on it.
+variants:
+- UPR005
+- UPR005-RF

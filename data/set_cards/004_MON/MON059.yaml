@@ -1,6 +1,5 @@
 ---
 key: MON059
-card_key: courageous_steelhand_blue
 name: Courageous Steelhand
 set: MON
 rarity: common
@@ -10,9 +9,8 @@ card_type: attack_reaction
 supertypes:
 - warrior
 - light
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   If you've charged this turn, target attack gains +1 [Power].

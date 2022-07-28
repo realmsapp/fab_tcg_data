@@ -1,6 +1,5 @@
 ---
 key: ELE189
-card_key: lightning_surge_red
 name: Lightning Surge
 set: ELE
 rarity: common
@@ -11,9 +10,9 @@ supertypes:
 - lightning
 subtypes:
 - attack
-attack: '4'
-cost: '0'
-defense: '2'
 resources: '1'
+cost: '0'
+attack: '4'
+defense: '2'
 game_text: ! |-
   If Lightning Surge is played from arsenal, it gains **go again**.

@@ -1,6 +1,5 @@
 ---
 key: WTR017
-card_key: barraging_beatdown_red
 name: Barraging Beatdown
 set: WTR
 rarity: rare
@@ -9,13 +8,17 @@ image_url: https://fabdb2.imgix.net/cards/wtr/17.png?w=300&fit=clip&auto=compres
 card_type: action
 supertypes:
 - brute
-
+resources: '1'
 cost: '0'
 defense: '3'
-resources: '1'
 game_text: ! |
   Your next Brute attack this turn gains "If this attack is defended by less than 2 non-equipment cards, it gains +4[attack]."
 
   **Intimidate** *(Target hero banishes face down a random card from their hand. At the beginning of the end phase, return all cards banished this way to their owner's hand.)*
 
   **Go again**
+variants:
+- WTR017
+- WTR017-RF
+- U-WTR017
+- U-WTR017-RF

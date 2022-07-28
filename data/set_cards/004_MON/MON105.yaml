@@ -1,6 +1,5 @@
 ---
 key: MON105
-card_key: hatchet_of_body
 name: Hatchet of Body
 set: MON
 rarity: token
@@ -9,7 +8,6 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON105.png?w=300&fit=clip&au
 card_type: weapon
 supertypes:
 - warrior
-
 attack: '2'
 game_text: ! |-
   Once per Turn Action - [1 Resource]: Attack

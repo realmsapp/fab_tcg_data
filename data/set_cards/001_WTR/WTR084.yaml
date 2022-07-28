@@ -1,6 +1,5 @@
 ---
 key: WTR084
-card_key: hurricane_technique_yellow
 name: Hurricane Technique
 set: WTR
 rarity: super_rare
@@ -11,9 +10,14 @@ supertypes:
 - ninja
 subtypes:
 - attack
-attack: '4'
-cost: '1'
-defense: '3'
 resources: '2'
+cost: '1'
+attack: '4'
+defense: '3'
 game_text: ! |-
   **Combo** - If Rising Knee Thrust was the last attack this combat chain, Hurricane Technique gains +1[attack], **go again*, and "If Hurricane Technique hits, put it into your hand."
+variants:
+- WTR084
+- WTR084-RF
+- U-WTR084
+- U-WTR084-RF

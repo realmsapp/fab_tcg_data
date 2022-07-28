@@ -1,6 +1,5 @@
 ---
 key: ARC159
-card_key: command_and_conquer_red
 name: Command and Conquer
 set: ARC
 rarity: majestic
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '6'
-cost: '2'
-defense: '3'
 resources: '1'
+cost: '2'
+attack: '6'
+defense: '3'
 game_text: ! |-
   Defense reactions can't be played to Command and Conquers chain link.
 

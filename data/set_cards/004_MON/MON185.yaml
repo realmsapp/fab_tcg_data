@@ -1,6 +1,5 @@
 ---
 key: MON185
-card_key: seeds_of_agony_blue
 name: Seeds of Agony
 set: MON
 rarity: common
@@ -10,10 +9,9 @@ card_type: action
 supertypes:
 - runeblade
 - shadow
-
+resources: '3'
 cost: '0'
 defense: '2'
-resources: '3'
 game_text: ! |-
   You may play Seeds of Agony from your banished zone.
 

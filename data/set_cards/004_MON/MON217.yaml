@@ -1,6 +1,5 @@
 ---
 key: MON217
-card_key: blood_tribute_blue
 name: Blood Tribute
 set: MON
 rarity: common
@@ -9,8 +8,7 @@ image_url: https://fabdb2.imgix.net/cards/printings/MON217.png?w=300&fit=clip&au
 card_type: instant
 supertypes:
 - shadow
-
-cost: '0'
 resources: '3'
+cost: '0'
 game_text: ! |-
   Opt 1, then banish the top card of your deck. (Look at the top cards of your deck. You may put it on the bottom.)

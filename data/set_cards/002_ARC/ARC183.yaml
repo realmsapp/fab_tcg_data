@@ -1,6 +1,5 @@
 ---
 key: ARC183
-card_key: fervent_forerunner_yellow
 name: Fervent Forerunner
 set: ARC
 rarity: common
@@ -11,10 +10,10 @@ supertypes:
 - generic
 subtypes:
 - attack
-attack: '2'
-cost: '0'
-defense: '2'
 resources: '2'
+cost: '0'
+attack: '2'
+defense: '2'
 game_text: ! |-
   If Fervent Forerunner hits, **opt 2**. *(Look at the top 2 cards of your deck. You may put them on the top and/or bottom in any order.)*
 
