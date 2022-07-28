@@ -40,7 +40,7 @@ module FabTcgData
         release_key: item.fetch(:release_key),
         printings: item.fetch(:printing_keys, []).map do |printing_key|
           SetPrintings.fetch(printing_key)
-        end
+        end,
       )
     end
 

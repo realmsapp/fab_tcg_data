@@ -123,15 +123,11 @@ module FabTcgData
       end
 
       def color
-        @color ||= begin
-          case resources
-          when "3" then "blue"
-          when "2" then "yellow"
-          when "1" then "red"
-          else
-            nil
-          end
-        end
+        @color ||= {
+          "3" => "blue",
+          "2" => "yellow",
+          "1" => "red",
+        }.fetch(resources, nil)
       end
 
       def card_key
@@ -192,7 +188,7 @@ module FabTcgData
 
       def to_realms_yaml
         data = attributes
-        data[:game_text] = LiteralScalar.new(data[:game_text].gsub(/\r/, '')) if data[:game_text].present?
+        data[:game_text] = LiteralScalar.new(data[:game_text].delete("\r")) if data[:game_text].present?
         data[:flavor_text] = LiteralScalar.new(data[:flavor_text]) if data[:flavor_text].present?
         data.delete(:card_key)
         YAML.dump(data.stringify_keys)

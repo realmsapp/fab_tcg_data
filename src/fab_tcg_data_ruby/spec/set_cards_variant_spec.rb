@@ -8,7 +8,7 @@ RSpec.describe FabTcgData::SetCards::Variant do
       expect(set_card.variants.length).to eq(2)
       expect(set_card.variants.map(&:key)).to contain_exactly(
         "U-WTR000-RF",
-        "WTR000-CF"
+        "WTR000-CF",
       )
     end
   end
